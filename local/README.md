@@ -1,6 +1,6 @@
 # Bulgarian Cyrillic
 
-![Open Sans sample](/images/OpenSans_01.jpg)
+![Open Sans sample](/local/images/OpenSans_01.jpg)
 
 Originally designed by Steve Matteson of Ascender
 Hebrew by Yanek Iontef
