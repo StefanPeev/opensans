@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lambda" format="2">
+	<unicode hex="039B"/>
+	<advance width="1344"/>
+	<outline>
+		<contour>
+			<point x="846.286" y="1462" type="line"/>
+			<point x="499.571" y="1462" type="line"/>
+			<point x="0" y="0" type="line"/>
+			<point x="332" y="0" type="line"/>
+			<point x="603" y="866.143" type="line" smooth="yes"/>
+			<point x="630.571" y="952.714"/>
+			<point x="660" y="1095.71"/>
+			<point x="672.143" y="1171" type="curve"/>
+			<point x="682.429" y="1095.71"/>
+			<point x="720" y="945.571"/>
+			<point x="742.286" y="863.286" type="curve"/>
+			<point x="1011" y="0" type="line"/>
+			<point x="1344.43" y="0" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="673" y="0"/>
+	<anchor name="top" x="673" y="1462"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>greek</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

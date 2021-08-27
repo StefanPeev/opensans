@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevehookcomb" format="2">
+	<outline>
+		<contour>
+			<point x="-336.071" y="1511.57" type="curve"/>
+			<point x="-430.429" y="1511.57" type="line"/>
+			<point x="-444.571" y="1396.93"/>
+			<point x="-517.214" y="1338.21"/>
+			<point x="-646.071" y="1338.21" type="curve" smooth="yes"/>
+			<point x="-778.643" y="1338.21"/>
+			<point x="-852.5" y="1400.36"/>
+			<point x="-862.643" y="1511.57" type="curve"/>
+			<point x="-960.571" y="1511.57" type="line"/>
+			<point x="-949.714" y="1340.93"/>
+			<point x="-837.714" y="1241"/>
+			<point x="-645.929" y="1241" type="curve" smooth="yes"/>
+			<point x="-453.5" y="1241"/>
+			<point x="-349.143" y="1334.07"/>
+		</contour>
+		<contour>
+			<point x="-660.643" y="1799.43" type="curve" smooth="yes"/>
+			<point x="-702.929" y="1799.43"/>
+			<point x="-743.357" y="1792.14"/>
+			<point x="-771.5" y="1783.57" type="curve"/>
+			<point x="-771.5" y="1707.14" type="line"/>
+			<point x="-750.571" y="1713.71"/>
+			<point x="-711.929" y="1721.71"/>
+			<point x="-676.643" y="1721.71" type="curve" smooth="yes"/>
+			<point x="-607.714" y="1721.71"/>
+			<point x="-585.071" y="1694.71"/>
+			<point x="-585.071" y="1659.5" type="curve" smooth="yes"/>
+			<point x="-585.071" y="1614.43"/>
+			<point x="-621.286" y="1592"/>
+			<point x="-706.429" y="1584.29" type="curve"/>
+			<point x="-702.286" y="1483.14" type="line"/>
+			<point x="-634" y="1483.14" type="line"/>
+			<point x="-629.286" y="1545.43" type="line"/>
+			<point x="-545.714" y="1556.93"/>
+			<point x="-496.571" y="1603.21"/>
+			<point x="-496.571" y="1671.86" type="curve" smooth="yes"/>
+			<point x="-496.571" y="1754.57"/>
+			<point x="-555.929" y="1799.43"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string></string>
+		</dict>
+	</lib>
+</glyph>

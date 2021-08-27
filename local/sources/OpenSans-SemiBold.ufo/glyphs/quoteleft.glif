@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quoteleft" format="2">
+	<unicode hex="2018"/>
+	<advance width="440"/>
+	<outline>
+		<contour>
+			<point x="41.2857" y="901" type="line"/>
+			<point x="297.286" y="901" type="line"/>
+			<point x="314.429" y="1059.43"/>
+			<point x="358.286" y="1286.86"/>
+			<point x="404.143" y="1460.57" type="curve"/>
+			<point x="195.857" y="1460.57" type="line"/>
+			<point x="128.429" y="1312.43"/>
+			<point x="60.7143" y="1075.57"/>
+			<point x="27.1429" y="921.857" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Punctuation</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Quote</string>
+		</dict>
+	</lib>
+</glyph>

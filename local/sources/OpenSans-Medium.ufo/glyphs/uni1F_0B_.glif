@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1F0B" format="2">
+	<unicode hex="1F0B"/>
+	<advance width="1652"/>
+	<outline>
+		<component base="A" xOffset="296"/>
+		<component base="uni1FDD" xyScale="0" xOffset="-299" yOffset="-104.286"/>
+	</outline>
+	<anchor name="bottom" x="974.286" y="0"/>
+	<anchor name="top" x="974.286" y="1462"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsRight</key>
+			<string>A</string>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>A</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>uni1FDD</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>A</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>greek</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="psilipneumatacomb-cy" format="2">
+	<unicode hex="0486"/>
+	<outline>
+		<contour>
+			<point x="-443.571" y="1460.71" type="curve" smooth="yes"/>
+			<point x="-443.571" y="1548.5"/>
+			<point x="-487.714" y="1608.43"/>
+			<point x="-565.286" y="1608.43" type="curve" smooth="yes"/>
+			<point x="-631.214" y="1608.43"/>
+			<point x="-667.429" y="1571"/>
+			<point x="-667.429" y="1524.57" type="curve" smooth="yes"/>
+			<point x="-667.429" y="1446.64"/>
+			<point x="-562.071" y="1479.57"/>
+			<point x="-562.071" y="1403.86" type="curve" smooth="yes"/>
+			<point x="-562.071" y="1357.86"/>
+			<point x="-602.571" y="1318.14"/>
+			<point x="-687" y="1300.64" type="curve"/>
+			<point x="-687" y="1236.21" type="line"/>
+			<point x="-530.429" y="1261.29"/>
+			<point x="-443.571" y="1331.43"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="-567.857" y="1099.57"/>
+	<anchor name="top" x="-566.429" y="1608.43"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>cyrillic</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

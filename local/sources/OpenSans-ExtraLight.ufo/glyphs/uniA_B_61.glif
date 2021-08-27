@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniAB61" format="2">
+	<unicode hex="AB61"/>
+	<advance width="1637"/>
+	<outline>
+		<component base="e" xOffset="508.286"/>
+		<contour>
+			<point x="651.571" y="524" type="line"/>
+			<point x="653.571" y="609.286" type="line"/>
+			<point x="284.286" y="609.286" type="line"/>
+			<point x="284.286" y="1086.71" type="line"/>
+			<point x="182.143" y="1086.71" type="line"/>
+			<point x="182.143" y="0" type="line"/>
+			<point x="284.286" y="0" type="line"/>
+			<point x="284.286" y="524" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsRight</key>
+			<string>e</string>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>e</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>e</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string></string>
+		</dict>
+	</lib>
+</glyph>

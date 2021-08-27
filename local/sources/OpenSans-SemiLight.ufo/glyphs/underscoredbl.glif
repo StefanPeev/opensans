@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="underscoredbl" format="2">
+	<unicode hex="2017"/>
+	<advance width="881"/>
+	<outline>
+		<contour>
+			<point x="884.643" y="-432.786" type="line"/>
+			<point x="884.643" y="-341.429" type="line"/>
+			<point x="-4" y="-341.429" type="line"/>
+			<point x="-4" y="-432.786" type="line"/>
+		</contour>
+		<contour>
+			<point x="884.643" y="-227.643" type="line"/>
+			<point x="884.643" y="-135.643" type="line"/>
+			<point x="-4" y="-135.643" type="line"/>
+			<point x="-4" y="-227.643" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Punctuation</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Other</string>
+		</dict>
+	</lib>
+</glyph>

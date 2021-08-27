@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twosuperior" format="2">
+	<unicode hex="00B2"/>
+	<advance width="724"/>
+	<outline>
+		<contour>
+			<point x="672.214" y="852" type="line"/>
+			<point x="672.214" y="965.143" type="line"/>
+			<point x="228.143" y="965.143" type="line"/>
+			<point x="387.357" y="1123.36" type="line"/>
+			<point x="539.714" y="1270.79"/>
+			<point x="648.643" y="1366.86"/>
+			<point x="648.643" y="1516.21" type="curve" smooth="yes"/>
+			<point x="648.643" y="1653.71"/>
+			<point x="552.5" y="1751"/>
+			<point x="376.714" y="1751" type="curve" smooth="yes"/>
+			<point x="251.429" y="1751"/>
+			<point x="158.429" y="1710.86"/>
+			<point x="78.3571" y="1642.36" type="curve"/>
+			<point x="146.429" y="1556.71" type="line"/>
+			<point x="221.786" y="1619.07"/>
+			<point x="285" y="1642.14"/>
+			<point x="356.357" y="1642.14" type="curve" smooth="yes"/>
+			<point x="456.5" y="1642.14"/>
+			<point x="510.071" y="1586.14"/>
+			<point x="510.071" y="1504.79" type="curve" smooth="yes"/>
+			<point x="510.071" y="1410.36"/>
+			<point x="437.5" y="1333.93"/>
+			<point x="301.286" y="1195.5" type="curve" smooth="yes"/>
+			<point x="62.5" y="953.571" type="line"/>
+			<point x="62.5" y="852" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Number</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Small</string>
+		</dict>
+	</lib>
+</glyph>

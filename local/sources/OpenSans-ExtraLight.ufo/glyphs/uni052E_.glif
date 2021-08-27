@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni052E" format="2">
+	<unicode hex="052E"/>
+	<advance width="1417"/>
+	<outline>
+		<component base="afii10029"/>
+		<contour>
+			<point x="1124.57" y="0" type="line"/>
+			<point x="1249.57" y="0" type="line"/>
+			<point x="1249.57" y="-371.857" type="line"/>
+			<point x="1348.29" y="-371.857" type="line"/>
+			<point x="1348.29" y="90" type="line"/>
+			<point x="1149.14" y="90" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="682.857" y="-371.857"/>
+	<anchor name="top" x="682.857" y="1462"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsRight</key>
+			<string>afii10040</string>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>afii10029</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>afii10040</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>cyrillic</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

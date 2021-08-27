@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniAB60" format="2">
+	<unicode hex="AB60"/>
+	<advance width="1635"/>
+	<outline>
+		<contour>
+			<point x="649.143" y="0" type="line"/>
+			<point x="1107.43" y="0" type="line" smooth="yes"/>
+			<point x="1405.07" y="0"/>
+			<point x="1528.14" y="127.5"/>
+			<point x="1528.14" y="339.714" type="curve" smooth="yes"/>
+			<point x="1528.14" y="535"/>
+			<point x="1421.64" y="656.214"/>
+			<point x="1141.5" y="656.214" type="curve" smooth="yes"/>
+			<point x="823.5" y="656.214" type="line"/>
+			<point x="823.5" y="1099.57" type="line"/>
+			<point x="649.143" y="1099.57" type="line"/>
+		</contour>
+		<contour>
+			<point x="169.071" y="0" type="line"/>
+			<point x="343.429" y="0" type="line"/>
+			<point x="343.429" y="1099.57" type="line"/>
+			<point x="169.071" y="1099.57" type="line"/>
+		</contour>
+		<contour>
+			<point x="823.5" y="124.214" type="line"/>
+			<point x="823.5" y="532" type="line"/>
+			<point x="1112.07" y="532" type="line" smooth="yes"/>
+			<point x="1282.36" y="532"/>
+			<point x="1353.14" y="459.5"/>
+			<point x="1353.14" y="334.857" type="curve" smooth="yes"/>
+			<point x="1353.14" y="199.143"/>
+			<point x="1282.5" y="124.214"/>
+			<point x="1095.5" y="124.214" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsRight</key>
+			<string>afii10094</string>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>afii10094</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string></string>
+		</dict>
+	</lib>
+</glyph>

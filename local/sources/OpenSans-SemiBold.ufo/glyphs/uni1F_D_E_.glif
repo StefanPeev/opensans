@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FDE" format="2">
+	<unicode hex="1FDE"/>
+	<advance width="1237"/>
+	<outline>
+		<contour>
+			<point x="626.571" y="1257.86" type="line"/>
+			<point x="758" y="1257.86" type="line"/>
+			<point x="834.286" y="1343.29"/>
+			<point x="911.143" y="1454"/>
+			<point x="947.571" y="1538.29" type="curve"/>
+			<point x="947.571" y="1567.86" type="line"/>
+			<point x="713.429" y="1567.86" type="line"/>
+			<point x="698" y="1475.71"/>
+			<point x="659.286" y="1351"/>
+			<point x="626.571" y="1282.86" type="curve"/>
+		</contour>
+		<contour>
+			<point x="559.286" y="1243.57" type="curve"/>
+			<point x="559.286" y="1317.29" type="line"/>
+			<point x="499.286" y="1323.86"/>
+			<point x="474.143" y="1350.43"/>
+			<point x="473.571" y="1385.43" type="curve"/>
+			<point x="487.857" y="1423.29"/>
+			<point x="567" y="1416.43"/>
+			<point x="567" y="1493.57" type="curve" smooth="yes"/>
+			<point x="567" y="1544.29"/>
+			<point x="529.143" y="1584.43"/>
+			<point x="450.571" y="1584.43" type="curve" smooth="yes"/>
+			<point x="357.286" y="1584.43"/>
+			<point x="306" y="1535.14"/>
+			<point x="306" y="1438.71" type="curve" smooth="yes"/>
+			<point x="306" y="1324.43"/>
+			<point x="405.857" y="1249.57"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="602.286" y="1118.14"/>
+	<anchor name="top" x="630.143" y="1585"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>greek</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Spacing</string>
+		</dict>
+	</lib>
+</glyph>

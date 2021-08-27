@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven.dnom" format="2">
+	<advance width="755"/>
+	<outline>
+		<contour>
+			<point x="159.429" y="0" type="line"/>
+			<point x="366.143" y="0" type="line"/>
+			<point x="708.143" y="753.714" type="line"/>
+			<point x="708.143" y="877" type="line"/>
+			<point x="61.8571" y="877" type="line"/>
+			<point x="61.8571" y="731.286" type="line"/>
+			<point x="521.571" y="731.286" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>sevensuperior</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Number</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Fraction</string>
+		</dict>
+	</lib>
+</glyph>

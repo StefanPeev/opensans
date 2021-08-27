@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1C85" format="2">
+	<unicode hex="1C85"/>
+	<advance width="2003"/>
+	<outline>
+		<contour>
+			<point x="141.714" y="0" type="line"/>
+			<point x="484.571" y="0" type="line"/>
+			<point x="484.571" y="868.857" type="line"/>
+			<point x="833" y="868.857" type="line"/>
+			<point x="833" y="0" type="line"/>
+			<point x="1167.14" y="0" type="line"/>
+			<point x="1167.14" y="868.857" type="line"/>
+			<point x="1518.29" y="868.857" type="line"/>
+			<point x="1518.29" y="0" type="line"/>
+			<point x="1861" y="0" type="line"/>
+			<point x="1861" y="1125.57" type="line"/>
+			<point x="141.714" y="1125.57" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="1001.71" y="0"/>
+	<anchor name="top" x="1001.71" y="1125.57"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string></string>
+		</dict>
+	</lib>
+</glyph>

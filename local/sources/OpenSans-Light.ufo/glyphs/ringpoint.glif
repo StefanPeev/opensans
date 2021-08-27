@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ringpoint" format="2">
+	<unicode hex="2E30"/>
+	<advance width="1171"/>
+	<outline>
+		<contour>
+			<point x="587.429" y="338" type="curve" smooth="yes"/>
+			<point x="794.429" y="338"/>
+			<point x="964.429" y="508"/>
+			<point x="964.429" y="717" type="curve" smooth="yes"/>
+			<point x="964.429" y="928"/>
+			<point x="794.429" y="1096"/>
+			<point x="587.429" y="1096" type="curve" smooth="yes"/>
+			<point x="378.429" y="1096"/>
+			<point x="208.429" y="928"/>
+			<point x="208.429" y="717" type="curve" smooth="yes"/>
+			<point x="208.429" y="508"/>
+			<point x="378.429" y="338"/>
+		</contour>
+		<contour>
+			<point x="586.857" y="444.714" type="curve" smooth="yes"/>
+			<point x="434.286" y="444.714"/>
+			<point x="312.571" y="566.429"/>
+			<point x="312.571" y="719" type="curve" smooth="yes"/>
+			<point x="312.571" y="869.571"/>
+			<point x="434.286" y="990.286"/>
+			<point x="586.857" y="990.286" type="curve" smooth="yes"/>
+			<point x="737.429" y="990.286"/>
+			<point x="858.714" y="869.571"/>
+			<point x="858.714" y="719" type="curve" smooth="yes"/>
+			<point x="858.714" y="566.429"/>
+			<point x="737.429" y="444.714"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Punctuation</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Other</string>
+		</dict>
+	</lib>
+</glyph>

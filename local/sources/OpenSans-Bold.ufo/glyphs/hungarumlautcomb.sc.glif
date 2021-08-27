@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlautcomb.sc" format="2">
+	<advance width="1199"/>
+	<outline>
+		<contour>
+			<point x="186.714" y="1317.71" type="line"/>
+			<point x="397.714" y="1317.71" type="line"/>
+			<point x="505.143" y="1392.29"/>
+			<point x="743.429" y="1564.71"/>
+			<point x="778.429" y="1625.57" type="curve"/>
+			<point x="778.429" y="1645.57" type="line"/>
+			<point x="397.714" y="1645.57" type="line"/>
+			<point x="349.857" y="1563.86"/>
+			<point x="246" y="1429.43"/>
+			<point x="186.714" y="1347.71" type="curve"/>
+		</contour>
+		<contour>
+			<point x="656" y="1317.71" type="line"/>
+			<point x="867.857" y="1317.71" type="line"/>
+			<point x="976.143" y="1392.29"/>
+			<point x="1215.43" y="1564.71"/>
+			<point x="1249.57" y="1625.57" type="curve"/>
+			<point x="1249.57" y="1645.57" type="line"/>
+			<point x="867.143" y="1645.57" type="line"/>
+			<point x="823.429" y="1563.86"/>
+			<point x="716.286" y="1429.43"/>
+			<point x="656" y="1347.71" type="curve"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="584.571" y="1200.71"/>
+	<anchor name="top" x="721.714" y="1645.57"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Smallcaps</string>
+		</dict>
+	</lib>
+</glyph>

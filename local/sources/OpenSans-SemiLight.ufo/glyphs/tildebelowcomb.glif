@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildebelowcomb" format="2">
+	<unicode hex="0330"/>
+	<outline>
+		<contour>
+			<point x="-401.357" y="-384.857" type="curve"/>
+			<point x="-304.286" y="-384.857" type="line"/>
+			<point x="-290.5" y="-274.357"/>
+			<point x="-241.214" y="-252.786"/>
+			<point x="-196.929" y="-252.786" type="curve" smooth="yes"/>
+			<point x="-84.7143" y="-252.786"/>
+			<point x="-13.1429" y="-385.429"/>
+			<point x="119.429" y="-385.429" type="curve" smooth="yes"/>
+			<point x="232.429" y="-385.429"/>
+			<point x="314.357" y="-306.786"/>
+			<point x="327.5" y="-133.429" type="curve"/>
+			<point x="228.714" y="-133.429" type="line"/>
+			<point x="216" y="-244.5"/>
+			<point x="165" y="-266.786"/>
+			<point x="117.857" y="-266.786" type="curve" smooth="yes"/>
+			<point x="10.3571" y="-266.786"/>
+			<point x="-71.1429" y="-134.143"/>
+			<point x="-194.357" y="-134.143" type="curve" smooth="yes"/>
+			<point x="-314.071" y="-134.143"/>
+			<point x="-389.214" y="-208.786"/>
+		</contour>
+	</outline>
+	<anchor name="_bottom" x="-37.9286" y="0"/>
+	<anchor name="bottom" x="-36.5" y="-386.143"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>tilde</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

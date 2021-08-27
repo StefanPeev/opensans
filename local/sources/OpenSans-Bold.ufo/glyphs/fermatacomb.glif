@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fermatacomb" format="2">
+	<unicode hex="0352"/>
+	<outline>
+		<contour>
+			<point x="-370.857" y="1377.43" type="curve"/>
+			<point x="-209.286" y="1377.43" type="line"/>
+			<point x="-198.857" y="1484.57"/>
+			<point x="-117.286" y="1572"/>
+			<point x="2" y="1572" type="curve" smooth="yes"/>
+			<point x="115" y="1572"/>
+			<point x="204.571" y="1493.14"/>
+			<point x="213" y="1377.43" type="curve"/>
+			<point x="371.143" y="1377.43" type="line"/>
+			<point x="360.857" y="1595.86"/>
+			<point x="244.286" y="1735"/>
+			<point x="2" y="1735" type="curve" smooth="yes"/>
+			<point x="-229.857" y="1735"/>
+			<point x="-356.143" y="1589"/>
+		</contour>
+		<contour>
+			<point x="7.71429" y="1250.43" type="curve" smooth="yes"/>
+			<point x="90.7143" y="1250.43"/>
+			<point x="138.429" y="1293.29"/>
+			<point x="138.429" y="1371.71" type="curve" smooth="yes"/>
+			<point x="138.429" y="1447"/>
+			<point x="90.7143" y="1491.43"/>
+			<point x="7.71429" y="1491.43" type="curve" smooth="yes"/>
+			<point x="-76.4286" y="1491.43"/>
+			<point x="-126.143" y="1447"/>
+			<point x="-126.143" y="1371.71" type="curve" smooth="yes"/>
+			<point x="-126.143" y="1293.29"/>
+			<point x="-76.4286" y="1250.43"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="0.285714" y="1125.57"/>
+	<anchor name="top" x="3.71429" y="1735"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

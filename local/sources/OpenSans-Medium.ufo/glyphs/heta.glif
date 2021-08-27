@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heta" format="2">
+	<unicode hex="0371"/>
+	<advance width="833"/>
+	<outline>
+		<contour>
+			<point x="403.429" y="1109.86" type="line"/>
+			<point x="156.857" y="1109.86" type="line"/>
+			<point x="156.857" y="0" type="line"/>
+			<point x="403.429" y="0" type="line"/>
+			<point x="403.429" y="479" type="line"/>
+			<point x="758.714" y="479" type="line"/>
+			<point x="758.714" y="667.143" type="line"/>
+			<point x="403.429" y="667.143" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="417.714" y="0"/>
+	<anchor name="top" x="417.714" y="1110.71"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>greek</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

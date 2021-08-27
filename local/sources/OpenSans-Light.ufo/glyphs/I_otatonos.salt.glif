@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iotatonos.salt" format="2">
+	<advance width="955"/>
+	<outline>
+		<component base="I.salt" xOffset="195"/>
+		<component base="tonos" xyScale="0" xOffset="-503.571" yOffset="-105.286"/>
+	</outline>
+	<anchor name="bottom" x="531.714" y="0"/>
+	<anchor name="top" x="531.714" y="1462"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsRight</key>
+			<string>Iota</string>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>tonos</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>Iota</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>greek</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

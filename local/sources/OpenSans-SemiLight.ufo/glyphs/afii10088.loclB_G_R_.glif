@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10088.loclBGR" format="2">
+	<advance width="1296"/>
+	<outline>
+		<component base="u"/>
+		<contour>
+			<point x="1003.93" y="0" type="line"/>
+			<point x="1093.29" y="0" type="line"/>
+			<point x="1093.29" y="-380" type="line"/>
+			<point x="1249.5" y="-380" type="line"/>
+			<point x="1249.5" y="136.714" type="line"/>
+			<point x="1003.93" y="136.714" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>=u</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>=afii10088</string>
+		</dict>
+	</lib>
+</glyph>

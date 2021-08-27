@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="imoddotless" format="2">
+	<advance width="387"/>
+	<outline>
+		<contour>
+			<point x="289.714" y="1259.14" type="line"/>
+			<point x="98.8571" y="1259.14" type="line"/>
+			<point x="98.8571" y="588" type="line"/>
+			<point x="289.714" y="588" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="197.571" y="588"/>
+	<anchor name="top" x="194.714" y="1260.57"/>
+	<anchor name="topright" x="361.429" y="1260.57"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string></string>
+		</dict>
+	</lib>
+</glyph>

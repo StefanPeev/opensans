@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slashshortoverlaycomb" format="2">
+	<unicode hex="0337"/>
+	<outline>
+		<contour>
+			<point x="-363.643" y="417" type="line"/>
+			<point x="-300.071" y="313" type="line"/>
+			<point x="366.214" y="714.786" type="line"/>
+			<point x="306.143" y="815.429" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_center" x="1.28571" y="564.857"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

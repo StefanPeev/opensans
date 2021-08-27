@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macrondieresis" format="2">
+	<outline>
+		<contour>
+			<point x="334" y="1422.57" type="line"/>
+			<point x="-330.857" y="1422.57" type="line"/>
+			<point x="-330.857" y="1250.71" type="line"/>
+			<point x="334" y="1250.71" type="line"/>
+		</contour>
+		<contour>
+			<point x="-201.286" y="1738.57" type="curve" smooth="yes"/>
+			<point x="-281.286" y="1738.57"/>
+			<point x="-323.714" y="1695.57"/>
+			<point x="-323.714" y="1619.14" type="curve" smooth="yes"/>
+			<point x="-323.714" y="1548.29"/>
+			<point x="-281.286" y="1503"/>
+			<point x="-201.286" y="1503" type="curve" smooth="yes"/>
+			<point x="-125" y="1503"/>
+			<point x="-77.8571" y="1548.29"/>
+			<point x="-77.8571" y="1619.14" type="curve" smooth="yes"/>
+			<point x="-77.8571" y="1695.57"/>
+			<point x="-125" y="1738.57"/>
+		</contour>
+		<contour>
+			<point x="204.143" y="1738.57" type="curve" smooth="yes"/>
+			<point x="124.143" y="1738.57"/>
+			<point x="80.7143" y="1695.57"/>
+			<point x="80.7143" y="1619.14" type="curve" smooth="yes"/>
+			<point x="80.7143" y="1548.29"/>
+			<point x="124.143" y="1503"/>
+			<point x="204.143" y="1503" type="curve" smooth="yes"/>
+			<point x="280.143" y="1503"/>
+			<point x="326.857" y="1548.29"/>
+			<point x="326.857" y="1619.14" type="curve" smooth="yes"/>
+			<point x="326.857" y="1695.57"/>
+			<point x="280.143" y="1738.57"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string></string>
+		</dict>
+	</lib>
+</glyph>

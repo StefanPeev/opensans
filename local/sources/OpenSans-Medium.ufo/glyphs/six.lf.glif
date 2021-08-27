@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="six.lf" format="2">
+	<advance width="1202"/>
+	<outline>
+		<contour>
+			<point x="115" y="619.286" type="curve" smooth="yes"/>
+			<point x="115" y="251.857"/>
+			<point x="285.143" y="-20"/>
+			<point x="632.571" y="-20" type="curve" smooth="yes"/>
+			<point x="938.429" y="-20"/>
+			<point x="1115.71" y="177.143"/>
+			<point x="1115.71" y="483.286" type="curve" smooth="yes"/>
+			<point x="1115.71" y="769.286"/>
+			<point x="964.429" y="942.429"/>
+			<point x="699.714" y="942.429" type="curve" smooth="yes"/>
+			<point x="523" y="942.429"/>
+			<point x="406.857" y="856.286"/>
+			<point x="349.429" y="742.429" type="curve"/>
+			<point x="340.857" y="742.429" type="line"/>
+			<point x="351.714" y="1139.86"/>
+			<point x="528.857" y="1287.43"/>
+			<point x="810.429" y="1287.43" type="curve" smooth="yes"/>
+			<point x="890.143" y="1287.43"/>
+			<point x="961.286" y="1277.86"/>
+			<point x="1020.57" y="1263.29" type="curve"/>
+			<point x="1020.57" y="1463.43" type="line"/>
+			<point x="951.286" y="1477"/>
+			<point x="884.429" y="1484.71"/>
+			<point x="815" y="1484.71" type="curve" smooth="yes"/>
+			<point x="381" y="1484.71"/>
+			<point x="115" y="1234.71"/>
+		</contour>
+		<contour>
+			<point x="628" y="180.714" type="curve" smooth="yes"/>
+			<point x="434.286" y="180.714"/>
+			<point x="368.429" y="376.143"/>
+			<point x="368.429" y="518.857" type="curve" smooth="yes"/>
+			<point x="368.429" y="628.286"/>
+			<point x="472.571" y="748.857"/>
+			<point x="634.571" y="746.286" type="curve" smooth="yes"/>
+			<point x="794.286" y="743.714"/>
+			<point x="873.286" y="648.571"/>
+			<point x="873.286" y="478.714" type="curve" smooth="yes"/>
+			<point x="873.286" y="284.714"/>
+			<point x="782.286" y="180.714"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Number</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Decimal Digit</string>
+		</dict>
+	</lib>
+</glyph>

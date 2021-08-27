@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02D7" format="2">
+	<unicode hex="02D7"/>
+	<advance width="623"/>
+	<outline>
+		<contour>
+			<point x="552.143" y="560.143" type="line"/>
+			<point x="552.143" y="637.857" type="line"/>
+			<point x="70.4286" y="637.857" type="line"/>
+			<point x="70.4286" y="560.143" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Symbol</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Modifier</string>
+		</dict>
+	</lib>
+</glyph>

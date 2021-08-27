@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniAB64" format="2">
+	<unicode hex="AB64"/>
+	<advance width="1214"/>
+	<outline>
+		<contour>
+			<point x="568.571" y="-20" type="curve" smooth="yes"/>
+			<point x="768.571" y="-20"/>
+			<point x="886.429" y="85.2857"/>
+			<point x="931.857" y="224.714" type="curve"/>
+			<point x="936.714" y="224.714" type="line"/>
+			<point x="948.286" y="0" type="line"/>
+			<point x="1036.29" y="0" type="line"/>
+			<point x="1036.29" y="821.857" type="line" smooth="yes"/>
+			<point x="1036.29" y="975.286"/>
+			<point x="1069.29" y="1021.71"/>
+			<point x="1137.14" y="1021.71" type="curve" smooth="yes"/>
+			<point x="1162.86" y="1021.71"/>
+			<point x="1189.57" y="1017.43"/>
+			<point x="1210.71" y="1009.14" type="curve"/>
+			<point x="1210.71" y="1092.57" type="line"/>
+			<point x="1192.43" y="1102.14"/>
+			<point x="1152.86" y="1109.29"/>
+			<point x="1121.57" y="1109.29" type="curve" smooth="yes"/>
+			<point x="993.143" y="1109.29"/>
+			<point x="952.286" y="1040"/>
+			<point x="943.429" y="862.429" type="curve"/>
+			<point x="938.286" y="862.429" type="line"/>
+			<point x="887.714" y="998.429"/>
+			<point x="772.857" y="1109.29"/>
+			<point x="555.429" y="1109.29" type="curve" smooth="yes"/>
+			<point x="268.857" y="1109.29"/>
+			<point x="116" y="912"/>
+			<point x="116" y="555" type="curve" smooth="yes"/>
+			<point x="116" y="178.286"/>
+			<point x="279.143" y="-20"/>
+		</contour>
+		<contour>
+			<point x="589.286" y="68.7143" type="curve" smooth="yes"/>
+			<point x="351.286" y="68.7143"/>
+			<point x="219.571" y="225.571"/>
+			<point x="219.571" y="555.286" type="curve" smooth="yes"/>
+			<point x="219.571" y="862.571"/>
+			<point x="342.714" y="1021.71"/>
+			<point x="574.429" y="1021.71" type="curve" smooth="yes"/>
+			<point x="828.286" y="1021.71"/>
+			<point x="936.714" y="847.429"/>
+			<point x="936.714" y="550" type="curve" smooth="yes"/>
+			<point x="936.714" y="538.143" type="line" smooth="yes"/>
+			<point x="936.714" y="232.714"/>
+			<point x="820" y="68.7143"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="607.714" y="0"/>
+	<anchor name="top" x="607.714" y="1088.43"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsWidth</key>
+			<string>uni0251</string>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+			<string>uni0251</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

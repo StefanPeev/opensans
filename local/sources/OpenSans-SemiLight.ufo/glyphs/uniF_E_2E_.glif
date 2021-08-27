@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFE2E" format="2">
+	<unicode hex="FE2E"/>
+	<outline>
+		<contour>
+			<point x="-125" y="1261.21" type="curve"/>
+			<point x="317.786" y="1261.21" type="line"/>
+			<point x="317.786" y="1381.79" type="line"/>
+			<point x="-190.357" y="1381.79" type="line" smooth="yes"/>
+			<point x="-274.071" y="1381.79"/>
+			<point x="-313.929" y="1348.86"/>
+			<point x="-313.929" y="1273.57" type="curve" smooth="yes"/>
+			<point x="-313.929" y="1203.79"/>
+			<point x="-279.214" y="1170.07"/>
+			<point x="-219.429" y="1170.07" type="curve" smooth="yes"/>
+			<point x="-165.357" y="1170.07"/>
+			<point x="-133.714" y="1192.07"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="2.57143" y="1099.57"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>cyrillic</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

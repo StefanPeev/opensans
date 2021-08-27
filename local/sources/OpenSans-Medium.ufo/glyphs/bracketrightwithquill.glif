@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bracketrightwithquill" format="2">
+	<unicode hex="2046"/>
+	<advance width="657"/>
+	<outline>
+		<contour>
+			<point x="47.8571" y="-335.429" type="line"/>
+			<point x="509.286" y="-335.429" type="line"/>
+			<point x="509.286" y="1485.43" type="line"/>
+			<point x="47.8571" y="1485.43" type="line"/>
+			<point x="47.8571" y="1318.43" type="line"/>
+			<point x="305.714" y="1318.43" type="line"/>
+			<point x="305.714" y="-168" type="line"/>
+			<point x="47.8571" y="-168" type="line"/>
+		</contour>
+		<contour>
+			<point x="45.2857" y="508.714" type="line"/>
+			<point x="482.286" y="508.714" type="line"/>
+			<point x="482.286" y="675.714" type="line"/>
+			<point x="45.2857" y="675.714" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Punctuation</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Other</string>
+		</dict>
+	</lib>
+</glyph>

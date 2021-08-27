@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA92E" format="2">
+	<unicode hex="A92E"/>
+	<advance width="1027"/>
+	<outline>
+		<contour>
+			<point x="47.2857" y="401" type="curve"/>
+			<point x="182.429" y="401" type="line"/>
+			<point x="237.714" y="504.143"/>
+			<point x="348.143" y="559.714"/>
+			<point x="513.714" y="559.714" type="curve" smooth="yes"/>
+			<point x="688" y="559.714"/>
+			<point x="798.286" y="494.429"/>
+			<point x="846.286" y="401" type="curve"/>
+			<point x="978.714" y="401" type="line"/>
+			<point x="930.286" y="640.714"/>
+			<point x="770.714" y="742.857"/>
+			<point x="513.714" y="742.857" type="curve" smooth="yes"/>
+			<point x="282.143" y="742.857"/>
+			<point x="114.143" y="651.143"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Punctuation</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>kayahli</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Other</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="periodcentered" format="2">
+	<unicode hex="00B7"/>
+	<advance width="501"/>
+	<outline>
+		<contour>
+			<point x="142.571" y="671.571" type="curve" smooth="yes"/>
+			<point x="142.571" y="600.857"/>
+			<point x="183.286" y="562.857"/>
+			<point x="251.429" y="562.857" type="curve" smooth="yes"/>
+			<point x="322.571" y="562.857"/>
+			<point x="360.643" y="600.857"/>
+			<point x="360.643" y="671.571" type="curve" smooth="yes"/>
+			<point x="360.643" y="743.143"/>
+			<point x="322.571" y="781.286"/>
+			<point x="251.429" y="781.286" type="curve" smooth="yes"/>
+			<point x="183.286" y="781.286"/>
+			<point x="142.571" y="743.143"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>period</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Punctuation</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Other</string>
+		</dict>
+	</lib>
+</glyph>

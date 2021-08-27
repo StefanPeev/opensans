@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowheadleftabovecomb" format="2">
+	<unicode hex="1DFE"/>
+	<outline>
+		<contour>
+			<point x="147.286" y="1198.86" type="curve"/>
+			<point x="164" y="1198.86" type="line"/>
+			<point x="164" y="1267.57" type="line"/>
+			<point x="103.857" y="1316.29"/>
+			<point x="21.8571" y="1370.29"/>
+			<point x="-54.1429" y="1413" type="curve"/>
+			<point x="19.5714" y="1453.43"/>
+			<point x="104.143" y="1507.86"/>
+			<point x="164" y="1556.43" type="curve"/>
+			<point x="164" y="1624.86" type="line"/>
+			<point x="147.286" y="1624.86" type="line"/>
+			<point x="65" y="1567"/>
+			<point x="-76" y="1489.57"/>
+			<point x="-164" y="1453.57" type="curve"/>
+			<point x="-164" y="1374" type="line"/>
+			<point x="-76" y="1337"/>
+			<point x="67.2857" y="1252.43"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="0.571429" y="1103.29"/>
+	<anchor name="top" x="2.28571" y="1624.86"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zayindagesh-hb" format="2">
+	<unicode hex="FB36"/>
+	<advance width="617"/>
+	<outline>
+		<component base="zayin-hb"/>
+		<component base="dagesh-hb" xyScale="0" xOffset="-1.57143" yOffset="52.8571"/>
+	</outline>
+	<note>
+		uniFB36
+	</note>
+</glyph>

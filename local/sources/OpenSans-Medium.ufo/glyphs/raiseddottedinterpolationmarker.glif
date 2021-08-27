@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="raiseddottedinterpolationmarker" format="2">
+	<unicode hex="2E07"/>
+	<advance width="1024"/>
+	<outline>
+		<contour>
+			<point x="574.143" y="565" type="line"/>
+			<point x="574.143" y="1334.14" type="line"/>
+			<point x="950" y="1334.14" type="line"/>
+			<point x="950" y="1462" type="line"/>
+			<point x="72" y="1462" type="line"/>
+			<point x="72" y="1334.14" type="line"/>
+			<point x="447.857" y="1334.14" type="line"/>
+			<point x="447.857" y="565" type="line"/>
+		</contour>
+		<contour>
+			<point x="725.143" y="1015.14" type="curve" smooth="yes"/>
+			<point x="725.143" y="940.857"/>
+			<point x="766.429" y="905.714"/>
+			<point x="824.286" y="905.714" type="curve" smooth="yes"/>
+			<point x="879.857" y="905.714"/>
+			<point x="921.429" y="940.857"/>
+			<point x="921.429" y="1015.14" type="curve" smooth="yes"/>
+			<point x="921.429" y="1090.43"/>
+			<point x="879.857" y="1125.71"/>
+			<point x="824.286" y="1125.71" type="curve" smooth="yes"/>
+			<point x="766.429" y="1125.71"/>
+			<point x="725.143" y="1090.43"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Punctuation</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Other</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ohorn" format="2">
+	<unicode hex="01A1"/>
+	<advance width="1253"/>
+	<outline>
+		<contour>
+			<point x="1101.29" y="549" type="curve" smooth="yes"/>
+			<point x="1101.29" y="676.857"/>
+			<point x="1076.86" y="790.714"/>
+			<point x="1029.29" y="880.429" type="curve"/>
+			<point x="1179.86" y="933.143"/>
+			<point x="1252.43" y="1051.71"/>
+			<point x="1264.14" y="1250.14" type="curve"/>
+			<point x="1253" y="1263.57" type="line"/>
+			<point x="1113.14" y="1263.57" type="line"/>
+			<point x="1113.14" y="1085.86"/>
+			<point x="1052" y="1001.86"/>
+			<point x="973.429" y="969.429" type="curve"/>
+			<point x="892.286" y="1062.29"/>
+			<point x="771.143" y="1116.57"/>
+			<point x="614.286" y="1116.57" type="curve" smooth="yes"/>
+			<point x="298.143" y="1116.57"/>
+			<point x="111" y="901.857"/>
+			<point x="111" y="549" type="curve" smooth="yes"/>
+			<point x="111" y="210.714"/>
+			<point x="287.714" y="-20"/>
+			<point x="604" y="-20" type="curve" smooth="yes"/>
+			<point x="933.857" y="-20"/>
+			<point x="1101.29" y="213.571"/>
+		</contour>
+		<contour>
+			<point x="264.286" y="549" type="curve" smooth="yes"/>
+			<point x="264.286" y="829.714"/>
+			<point x="386.286" y="991.286"/>
+			<point x="613.143" y="991.286" type="curve" smooth="yes"/>
+			<point x="854.143" y="991.286"/>
+			<point x="947.571" y="803.286"/>
+			<point x="947.571" y="549" type="curve" smooth="yes"/>
+			<point x="947.571" y="284.286"/>
+			<point x="842.857" y="105.286"/>
+			<point x="605.143" y="105.286" type="curve" smooth="yes"/>
+			<point x="372.714" y="105.286"/>
+			<point x="264.286" y="281.429"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="601.714" y="0"/>
+	<anchor name="top" x="603.429" y="1095.86"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

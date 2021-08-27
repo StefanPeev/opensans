@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="daggerdbl" format="2">
+	<unicode hex="2021"/>
+	<advance width="1033"/>
+	<outline>
+		<contour>
+			<point x="580.857" y="537.857" type="line"/>
+			<point x="610.571" y="785.143" type="line"/>
+			<point x="580.857" y="1018.57" type="line"/>
+			<point x="915.429" y="998.857" type="line"/>
+			<point x="915.429" y="1184.14" type="line"/>
+			<point x="580.857" y="1164.43" type="line"/>
+			<point x="618" y="1556" type="line"/>
+			<point x="407.571" y="1556" type="line"/>
+			<point x="444.714" y="1164.43" type="line"/>
+			<point x="108" y="1184.14" type="line"/>
+			<point x="108" y="998.857" type="line"/>
+			<point x="444.714" y="1018.57" type="line"/>
+			<point x="413.857" y="785.143" type="line"/>
+			<point x="444.714" y="537.857" type="line"/>
+			<point x="108" y="558.143" type="line"/>
+			<point x="108" y="372.286" type="line"/>
+			<point x="444.714" y="392.571" type="line"/>
+			<point x="407.571" y="0" type="line"/>
+			<point x="618" y="0" type="line"/>
+			<point x="580.857" y="392.571" type="line"/>
+			<point x="915.429" y="372.286" type="line"/>
+			<point x="915.429" y="558.143" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Symbol</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Other</string>
+		</dict>
+	</lib>
+</glyph>

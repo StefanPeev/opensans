@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tavdagesh-hb.rvrn" format="2">
+	<advance width="1320"/>
+	<outline>
+		<component base="tav-hb"/>
+		<component base="dagesh-hb.small" xyScale="0" xOffset="700.857" yOffset="253.714"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>hebrew</string>
+		</dict>
+	</lib>
+	<note>
+		uniFB4A
+	</note>
+</glyph>

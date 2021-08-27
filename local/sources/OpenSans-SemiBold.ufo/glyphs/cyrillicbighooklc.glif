@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cyrillicbighooklc" format="2">
+	<advance width="638"/>
+	<outline>
+		<contour>
+			<point x="209.143" y="-498.143" type="curve" smooth="yes"/>
+			<point x="459.571" y="-498.143"/>
+			<point x="561.429" y="-328.286"/>
+			<point x="561.429" y="-132.429" type="curve" smooth="yes"/>
+			<point x="561.429" y="251.143" type="line"/>
+			<point x="248.857" y="251.143" type="line"/>
+			<point x="248.857" y="0" type="line"/>
+			<point x="269.857" y="0" type="line"/>
+			<point x="269.857" y="-74.4286" type="line" smooth="yes"/>
+			<point x="269.857" y="-227.571"/>
+			<point x="209.571" y="-262.857"/>
+			<point x="137.286" y="-262.857" type="curve" smooth="yes"/>
+			<point x="95.1429" y="-262.857"/>
+			<point x="67.1429" y="-257.714"/>
+			<point x="23.1429" y="-243.857" type="curve"/>
+			<point x="23.1429" y="-475.857" type="line"/>
+			<point x="68.5714" y="-490.143"/>
+			<point x="146.571" y="-498.143"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string></string>
+		</dict>
+	</lib>
+</glyph>

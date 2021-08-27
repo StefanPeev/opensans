@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01A4" format="2">
+	<unicode hex="01A4"/>
+	<advance width="1359"/>
+	<outline>
+		<contour>
+			<point x="370.143" y="0" type="line"/>
+			<point x="473.714" y="0" type="line"/>
+			<point x="473.714" y="604.714" type="line"/>
+			<point x="709.857" y="604.714" type="line" smooth="yes"/>
+			<point x="1054" y="604.714"/>
+			<point x="1247.71" y="746.571"/>
+			<point x="1247.71" y="1052.43" type="curve" smooth="yes"/>
+			<point x="1247.71" y="1337.71"/>
+			<point x="1072" y="1462"/>
+			<point x="737" y="1462" type="curve" smooth="yes"/>
+			<point x="322.286" y="1462" type="line" smooth="yes"/>
+			<point x="113.714" y="1462"/>
+			<point x="18" y="1340"/>
+			<point x="18" y="1188.71" type="curve" smooth="yes"/>
+			<point x="18" y="1141.71"/>
+			<point x="26.4286" y="1098.71"/>
+			<point x="38.1429" y="1072" type="curve"/>
+			<point x="127.429" y="1072" type="line"/>
+			<point x="119.429" y="1090.43"/>
+			<point x="107.286" y="1134.14"/>
+			<point x="107.286" y="1179.43" type="curve" smooth="yes"/>
+			<point x="107.286" y="1295.14"/>
+			<point x="170.857" y="1371.57"/>
+			<point x="324" y="1371.57" type="curve" smooth="yes"/>
+			<point x="370.143" y="1371.57" type="line"/>
+		</contour>
+		<contour>
+			<point x="473.714" y="695.286" type="line"/>
+			<point x="473.714" y="1371.57" type="line"/>
+			<point x="727.571" y="1371.57" type="line" smooth="yes"/>
+			<point x="1010.14" y="1371.57"/>
+			<point x="1142.86" y="1276.71"/>
+			<point x="1142.86" y="1049" type="curve" smooth="yes"/>
+			<point x="1142.86" y="777.429"/>
+			<point x="963.857" y="695.286"/>
+			<point x="701.714" y="695.286" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="684.714" y="0"/>
+	<anchor name="top" x="684.714" y="1462"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsRight</key>
+			<string>P</string>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>P</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

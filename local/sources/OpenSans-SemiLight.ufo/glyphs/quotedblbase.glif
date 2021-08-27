@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblbase" format="2">
+	<unicode hex="201E"/>
+	<advance width="869"/>
+	<outline>
+		<contour>
+			<point x="697.571" y="258.429" type="line"/>
+			<point x="549.071" y="258.429" type="line"/>
+			<point x="533.643" y="105.357"/>
+			<point x="486.214" y="-113.5"/>
+			<point x="431.143" y="-271.857" type="curve"/>
+			<point x="552.929" y="-271.857" type="line"/>
+			<point x="619.643" y="-127.286"/>
+			<point x="682" y="78.1429"/>
+			<point x="710.929" y="239" type="curve"/>
+		</contour>
+		<contour>
+			<point x="334.143" y="258.429" type="line"/>
+			<point x="185.643" y="258.429" type="line"/>
+			<point x="169.571" y="105.357"/>
+			<point x="122.143" y="-113.5"/>
+			<point x="67.7143" y="-271.857" type="curve"/>
+			<point x="189.5" y="-271.857" type="line"/>
+			<point x="255.571" y="-127.286"/>
+			<point x="317.929" y="78.1429"/>
+			<point x="347.214" y="239" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>quotedblright</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Punctuation</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Quote</string>
+		</dict>
+	</lib>
+</glyph>

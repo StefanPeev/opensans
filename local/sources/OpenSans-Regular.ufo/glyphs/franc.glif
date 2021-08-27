@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="franc" format="2">
+	<unicode hex="20A3"/>
+	<advance width="1181"/>
+	<outline>
+		<contour>
+			<point x="245.714" y="0" type="line"/>
+			<point x="443.571" y="0" type="line"/>
+			<point x="443.571" y="293.714" type="line"/>
+			<point x="811.143" y="293.714" type="line"/>
+			<point x="811.143" y="413" type="line"/>
+			<point x="443.571" y="413" type="line"/>
+			<point x="443.571" y="683.143" type="line"/>
+			<point x="1038.14" y="683.143" type="line"/>
+			<point x="1038.14" y="848.571" type="line"/>
+			<point x="443.571" y="848.571" type="line"/>
+			<point x="443.571" y="1297" type="line"/>
+			<point x="1075.43" y="1297" type="line"/>
+			<point x="1075.43" y="1462" type="line"/>
+			<point x="245.714" y="1462" type="line"/>
+			<point x="245.714" y="413" type="line"/>
+			<point x="77.8571" y="413" type="line"/>
+			<point x="77.8571" y="293.714" type="line"/>
+			<point x="245.714" y="293.714" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Symbol</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Currency</string>
+		</dict>
+	</lib>
+</glyph>

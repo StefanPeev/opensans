@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="foursuperior" format="2">
+	<unicode hex="2074"/>
+	<advance width="693"/>
+	<outline>
+		<contour>
+			<point x="673.857" y="1101.57" type="line"/>
+			<point x="673.857" y="1172.29" type="line"/>
+			<point x="526.571" y="1172.29" type="line"/>
+			<point x="526.571" y="1735" type="line"/>
+			<point x="434.714" y="1735" type="line"/>
+			<point x="32.4286" y="1160.29" type="line"/>
+			<point x="32.4286" y="1101.57" type="line"/>
+			<point x="443.571" y="1101.57" type="line"/>
+			<point x="443.571" y="852" type="line"/>
+			<point x="526.571" y="852" type="line"/>
+			<point x="526.571" y="1101.57" type="line"/>
+		</contour>
+		<contour>
+			<point x="443.571" y="1172.29" type="line"/>
+			<point x="118.571" y="1172.29" type="line"/>
+			<point x="377.429" y="1539.14" type="line" smooth="yes"/>
+			<point x="405.286" y="1579"/>
+			<point x="421" y="1604.57"/>
+			<point x="446.286" y="1649" type="curve"/>
+			<point x="443.857" y="1596.29"/>
+			<point x="443.571" y="1548.14"/>
+			<point x="443.571" y="1484" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Number</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Small</string>
+		</dict>
+	</lib>
+</glyph>

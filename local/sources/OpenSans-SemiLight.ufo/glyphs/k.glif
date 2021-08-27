@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="k" format="2">
+	<unicode hex="006B"/>
+	<advance width="1080"/>
+	<outline>
+		<contour>
+			<point x="341.571" y="1556" type="line"/>
+			<point x="166.5" y="1556" type="line"/>
+			<point x="166.5" y="0" type="line"/>
+			<point x="341.571" y="0" type="line"/>
+			<point x="341.571" y="336.643" type="line"/>
+			<point x="518.071" y="517.857" type="line"/>
+			<point x="886.286" y="0" type="line"/>
+			<point x="1086.43" y="0" type="line"/>
+			<point x="640.786" y="628.5" type="line"/>
+			<point x="1051.14" y="1099.57" type="line"/>
+			<point x="850.429" y="1099.57" type="line"/>
+			<point x="453.071" y="643.286" type="line" smooth="yes"/>
+			<point x="410.929" y="595"/>
+			<point x="375.286" y="545.786"/>
+			<point x="333.357" y="494.929" type="curve"/>
+			<point x="332.429" y="494.929" type="line"/>
+			<point x="338.714" y="612"/>
+			<point x="341.571" y="726.643"/>
+			<point x="341.571" y="843.714" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="540.357" y="0"/>
+	<anchor name="top" x="256.214" y="1556"/>
+	<anchor name="topright" x="1053.64" y="1556"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

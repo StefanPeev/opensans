@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA66F" format="2">
+	<unicode hex="A66F"/>
+	<outline>
+		<contour>
+			<point x="-350" y="1288.14" type="curve"/>
+			<point x="351.714" y="1288.14" type="line"/>
+			<point x="352" y="1230.14"/>
+			<point x="379.857" y="1202.14"/>
+			<point x="426.286" y="1202.14" type="curve" smooth="yes"/>
+			<point x="478.857" y="1202.14"/>
+			<point x="503.286" y="1237"/>
+			<point x="503.286" y="1292.57" type="curve" smooth="yes"/>
+			<point x="503.286" y="1350.14"/>
+			<point x="482.857" y="1391.71"/>
+			<point x="418.857" y="1391.71" type="curve" smooth="yes"/>
+			<point x="-417.714" y="1391.71" type="line" smooth="yes"/>
+			<point x="-478.714" y="1391.71"/>
+			<point x="-503" y="1359"/>
+			<point x="-503" y="1293.71" type="curve" smooth="yes"/>
+			<point x="-503" y="1243.57"/>
+			<point x="-478.714" y="1202.14"/>
+			<point x="-426.571" y="1202.14" type="curve" smooth="yes"/>
+			<point x="-379" y="1202.14"/>
+			<point x="-351.429" y="1227"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="-0.285714" y="1079.14"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>cyrillic</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

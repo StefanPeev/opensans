@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twofifths" format="2">
+	<unicode hex="2156"/>
+	<advance width="1961"/>
+	<outline>
+		<component base="two.numr"/>
+		<component base="fraction" xOffset="923.714"/>
+		<component base="five.dnom" xOffset="1162.29"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>two.numr</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>two.dnom</string>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Number</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>two.numr</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>two.dnom</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Fraction</string>
+		</dict>
+	</lib>
+</glyph>

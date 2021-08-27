@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ounce" format="2">
+	<unicode hex="2125"/>
+	<advance width="1283"/>
+	<outline>
+		<contour>
+			<point x="1103.57" y="1005.86" type="line"/>
+			<point x="111.714" y="1005.86" type="line"/>
+			<point x="111.714" y="717.429" type="line"/>
+			<point x="630.714" y="717.429" type="line"/>
+			<point x="298.571" y="391.714" type="line"/>
+			<point x="298.571" y="148.143" type="line"/>
+			<point x="409.143" y="148.143" type="line" smooth="yes"/>
+			<point x="722.714" y="148.143"/>
+			<point x="827.143" y="80.1429"/>
+			<point x="827.143" y="-29" type="curve" smooth="yes"/>
+			<point x="827.143" y="-136.714"/>
+			<point x="764.429" y="-216.857"/>
+			<point x="503.571" y="-216.857" type="curve" smooth="yes"/>
+			<point x="370.143" y="-216.857"/>
+			<point x="191.286" y="-178.857"/>
+			<point x="57.5714" y="-116.143" type="curve"/>
+			<point x="57.5714" y="-408.857" type="line"/>
+			<point x="188.857" y="-461.571"/>
+			<point x="345" y="-492"/>
+			<point x="525.286" y="-492" type="curve"/>
+			<point x="984.857" y="-489.429"/>
+			<point x="1174" y="-297.857"/>
+			<point x="1175.43" y="-7" type="curve"/>
+			<point x="1175.14" y="224"/>
+			<point x="1027.86" y="364.571"/>
+			<point x="686.857" y="380" type="curve"/>
+			<point x="1103.57" y="783.143" type="line"/>
+		</contour>
+		<contour>
+			<point x="686.286" y="901.143" type="line"/>
+			<point x="1103.57" y="1292.71" type="line"/>
+			<point x="1103.57" y="1515.43" type="line"/>
+			<point x="111.714" y="1515.43" type="line"/>
+			<point x="111.714" y="1227" type="line"/>
+			<point x="628.714" y="1227" type="line"/>
+			<point x="365.714" y="980" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsRight</key>
+			<string>uni04E0</string>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Symbol</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>uni04E0</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Other</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FED" format="2">
+	<unicode hex="1FED"/>
+	<advance width="1237"/>
+	<outline>
+		<contour>
+			<point x="745.714" y="1263.43" type="line"/>
+			<point x="745.714" y="1290.29" type="line"/>
+			<point x="722.857" y="1368.86"/>
+			<point x="690.714" y="1501.86"/>
+			<point x="682.143" y="1588.71" type="curve"/>
+			<point x="442" y="1588.71" type="line"/>
+			<point x="442" y="1568.71" type="line"/>
+			<point x="478.429" y="1479.57"/>
+			<point x="540.857" y="1370.86"/>
+			<point x="612.857" y="1263.43" type="curve"/>
+		</contour>
+		<contour>
+			<point x="179.286" y="1382.43" type="curve" smooth="yes"/>
+			<point x="179.286" y="1296"/>
+			<point x="223.143" y="1252.71"/>
+			<point x="302.714" y="1252.71" type="curve" smooth="yes"/>
+			<point x="381.571" y="1252.71"/>
+			<point x="428.286" y="1296"/>
+			<point x="428.286" y="1382.43" type="curve" smooth="yes"/>
+			<point x="428.286" y="1469"/>
+			<point x="381.571" y="1512.57"/>
+			<point x="302.714" y="1512.57" type="curve" smooth="yes"/>
+			<point x="223.143" y="1512.57"/>
+			<point x="179.286" y="1469"/>
+		</contour>
+		<contour>
+			<point x="813.286" y="1382.43" type="curve" smooth="yes"/>
+			<point x="813.286" y="1296"/>
+			<point x="858.571" y="1252.71"/>
+			<point x="939.857" y="1252.71" type="curve" smooth="yes"/>
+			<point x="1019.86" y="1252.71"/>
+			<point x="1065.14" y="1296"/>
+			<point x="1065.14" y="1382.43" type="curve" smooth="yes"/>
+			<point x="1065.14" y="1469"/>
+			<point x="1019.86" y="1512.57"/>
+			<point x="939.857" y="1512.57" type="curve" smooth="yes"/>
+			<point x="858.571" y="1512.57"/>
+			<point x="813.286" y="1469"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="621.571" y="1118.14"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>greek</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Spacing</string>
+		</dict>
+	</lib>
+</glyph>

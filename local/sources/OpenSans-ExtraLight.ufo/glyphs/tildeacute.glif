@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildeacute" format="2">
+	<outline>
+		<contour>
+			<point x="-337" y="1233.86" type="curve"/>
+			<point x="-271.857" y="1233.86" type="line"/>
+			<point x="-258.429" y="1347.43"/>
+			<point x="-204.571" y="1374.14"/>
+			<point x="-150.714" y="1374.14" type="curve" smooth="yes"/>
+			<point x="-39.4286" y="1374.14"/>
+			<point x="7.71429" y="1231.86"/>
+			<point x="145.857" y="1231.86" type="curve" smooth="yes"/>
+			<point x="257" y="1231.86"/>
+			<point x="328.571" y="1306.86"/>
+			<point x="339.286" y="1439.86" type="curve"/>
+			<point x="273.857" y="1439.86" type="line"/>
+			<point x="261.571" y="1325.29"/>
+			<point x="205.429" y="1297"/>
+			<point x="148.714" y="1297" type="curve" smooth="yes"/>
+			<point x="42.4286" y="1297"/>
+			<point x="-10.8571" y="1440.14"/>
+			<point x="-148.429" y="1440.14" type="curve" smooth="yes"/>
+			<point x="-259.286" y="1440.14"/>
+			<point x="-326.857" y="1367.71"/>
+		</contour>
+		<contour>
+			<point x="-85.8571" y="1497.71" type="line"/>
+			<point x="-13.2857" y="1497.71" type="line"/>
+			<point x="51.1429" y="1547"/>
+			<point x="182.143" y="1680.57"/>
+			<point x="241.286" y="1771.14" type="curve"/>
+			<point x="241.286" y="1793.71" type="line"/>
+			<point x="125.714" y="1793.71" type="line"/>
+			<point x="79.1429" y="1711.14"/>
+			<point x="-1.85714" y="1603.43"/>
+			<point x="-85.8571" y="1518.86" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string></string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA719" format="2">
+	<unicode hex="A719"/>
+	<advance width="761"/>
+	<outline>
+		<contour>
+			<point x="678.714" y="1296.14" type="line"/>
+			<point x="678.714" y="1392.57" type="line"/>
+			<point x="82" y="1392.57" type="line"/>
+			<point x="82" y="1296.14" type="line"/>
+		</contour>
+		<contour>
+			<point x="463.143" y="1632.86" type="curve" smooth="yes"/>
+			<point x="463.143" y="1678.71"/>
+			<point x="433.857" y="1709.86"/>
+			<point x="382.571" y="1709.86" type="curve" smooth="yes"/>
+			<point x="333.714" y="1709.86"/>
+			<point x="299" y="1682.43"/>
+			<point x="299" y="1632.86" type="curve" smooth="yes"/>
+			<point x="299" y="1583.29"/>
+			<point x="333.714" y="1552.43"/>
+			<point x="382.571" y="1552.43" type="curve" smooth="yes"/>
+			<point x="433.857" y="1552.43"/>
+			<point x="463.143" y="1583.29"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Modifier</string>
+		</dict>
+	</lib>
+</glyph>

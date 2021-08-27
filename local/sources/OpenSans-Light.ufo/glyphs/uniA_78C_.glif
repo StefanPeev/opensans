@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA78C" format="2">
+	<unicode hex="A78C"/>
+	<advance width="383"/>
+	<outline>
+		<contour>
+			<point x="140.714" y="801.857" type="line"/>
+			<point x="238.286" y="801.857" type="line"/>
+			<point x="268" y="1462" type="line"/>
+			<point x="111" y="1462" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

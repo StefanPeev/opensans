@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="psi" format="2">
+	<unicode hex="03C8"/>
+	<advance width="1658"/>
+	<outline>
+		<contour>
+			<point x="949.857" y="1554" type="line"/>
+			<point x="715.143" y="1554" type="line"/>
+			<point x="715.143" y="183.857" type="line"/>
+			<point x="493.143" y="195.857"/>
+			<point x="386.429" y="306.571"/>
+			<point x="386.429" y="549.571" type="curve" smooth="yes"/>
+			<point x="386.429" y="1110.71" type="line"/>
+			<point x="146.857" y="1110.71" type="line"/>
+			<point x="146.857" y="552.714" type="line" smooth="yes"/>
+			<point x="146.857" y="175"/>
+			<point x="353.286" y="-1.42857"/>
+			<point x="715.143" y="-13.4286" type="curve"/>
+			<point x="715.143" y="-492" type="line"/>
+			<point x="949.857" y="-492" type="line"/>
+			<point x="949.857" y="-13.4286" type="line"/>
+			<point x="1322.14" y="4.57143"/>
+			<point x="1543.14" y="199.429"/>
+			<point x="1543.14" y="593.571" type="curve" smooth="yes"/>
+			<point x="1543.14" y="776.714"/>
+			<point x="1516.57" y="932.857"/>
+			<point x="1460.14" y="1110.71" type="curve"/>
+			<point x="1221.29" y="1110.71" type="line"/>
+			<point x="1273.43" y="937.429"/>
+			<point x="1301.86" y="774.429"/>
+			<point x="1301.86" y="597.571" type="curve" smooth="yes"/>
+			<point x="1301.86" y="324.286"/>
+			<point x="1192.86" y="198.143"/>
+			<point x="949.857" y="183.857" type="curve"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="829.286" y="-492"/>
+	<anchor name="top" x="829.286" y="1554"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>greek</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

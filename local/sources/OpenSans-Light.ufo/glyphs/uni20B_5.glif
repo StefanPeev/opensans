@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni20B5" format="2">
+	<unicode hex="20B5"/>
+	<advance width="1272"/>
+	<outline>
+		<contour>
+			<point x="852.429" y="1596.86" type="line"/>
+			<point x="754.857" y="1596.86" type="line"/>
+			<point x="754.857" y="1481" type="line"/>
+			<point x="357.571" y="1450.86"/>
+			<point x="125" y="1143.29"/>
+			<point x="125" y="734.143" type="curve" smooth="yes"/>
+			<point x="125" y="292.429"/>
+			<point x="334.571" y="-7.71429"/>
+			<point x="754.857" y="-19.4286" type="curve"/>
+			<point x="754.857" y="-178.286" type="line"/>
+			<point x="852.429" y="-178.286" type="line"/>
+			<point x="852.429" y="-17.7143" type="line"/>
+			<point x="979.286" y="-11.4286"/>
+			<point x="1084.43" y="14.2857"/>
+			<point x="1170.71" y="49.5714" type="curve"/>
+			<point x="1170.71" y="176" type="line"/>
+			<point x="1075.29" y="140.714"/>
+			<point x="973.571" y="117"/>
+			<point x="852.429" y="109.857" type="curve"/>
+			<point x="852.429" y="1350.57" type="line"/>
+			<point x="949.714" y="1344.57"/>
+			<point x="1051.57" y="1324.14"/>
+			<point x="1157.43" y="1270" type="curve"/>
+			<point x="1205.71" y="1396.43" type="line"/>
+			<point x="1093.29" y="1447.43"/>
+			<point x="978.143" y="1476.43"/>
+			<point x="852.429" y="1481.29" type="curve"/>
+		</contour>
+		<contour>
+			<point x="754.857" y="1349.71" type="curve"/>
+			<point x="754.857" y="110.429" type="line"/>
+			<point x="435" y="126.429"/>
+			<point x="278.857" y="366.143"/>
+			<point x="278.857" y="733.571" type="curve" smooth="yes"/>
+			<point x="278.857" y="1070"/>
+			<point x="447.286" y="1319"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Symbol</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Currency</string>
+		</dict>
+	</lib>
+</glyph>

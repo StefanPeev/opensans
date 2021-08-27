@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caroncomb.sc" format="2">
+	<advance width="1200"/>
+	<outline>
+		<contour>
+			<point x="915.571" y="1617.71" type="line"/>
+			<point x="802.357" y="1617.71" type="line"/>
+			<point x="732.571" y="1551.86"/>
+			<point x="665.071" y="1476.29"/>
+			<point x="599.214" y="1399.43" type="curve"/>
+			<point x="541.429" y="1469.64"/>
+			<point x="469.429" y="1548.36"/>
+			<point x="394.643" y="1617.71" type="curve"/>
+			<point x="282" y="1617.71" type="line"/>
+			<point x="282" y="1597.64" type="line"/>
+			<point x="377.857" y="1482.43"/>
+			<point x="451.286" y="1375.5"/>
+			<point x="495.143" y="1290.36" type="curve"/>
+			<point x="701.143" y="1290.36" type="line"/>
+			<point x="754.786" y="1381.21"/>
+			<point x="849.643" y="1514.21"/>
+			<point x="915.571" y="1597.64" type="curve"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="599.929" y="1168.21"/>
+	<anchor name="top" x="601.357" y="1617.71"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Smallcaps</string>
+		</dict>
+	</lib>
+</glyph>

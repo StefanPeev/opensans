@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lowlinecomb" format="2">
+	<unicode hex="0332"/>
+	<outline>
+		<contour>
+			<point x="459.143" y="-296.429" type="line"/>
+			<point x="459.143" y="-207.571" type="line"/>
+			<point x="-458.286" y="-207.571" type="line"/>
+			<point x="-458.286" y="-296.429" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_bottom" x="0.857143" y="0"/>
+	<anchor name="bottom" x="2.57143" y="-296.429"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

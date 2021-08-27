@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acute" format="2">
+	<unicode hex="00B4"/>
+	<advance width="658"/>
+	<outline>
+		<contour>
+			<point x="576.286" y="1569" type="line"/>
+			<point x="358" y="1569" type="line"/>
+			<point x="295" y="1479.29"/>
+			<point x="164.571" y="1339.71"/>
+			<point x="82" y="1260.29" type="curve"/>
+			<point x="82" y="1241" type="line"/>
+			<point x="218" y="1241" type="line"/>
+			<point x="327.286" y="1322.43"/>
+			<point x="494" y="1465.43"/>
+			<point x="576.286" y="1551.43" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Spacing</string>
+		</dict>
+	</lib>
+</glyph>

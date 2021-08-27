@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10068.loclBGR" format="2">
+	<advance width="1083"/>
+	<outline>
+		<contour>
+			<point x="121.571" y="316.286" type="curve" smooth="yes"/>
+			<point x="121.571" y="517"/>
+			<point x="278.209" y="590.428"/>
+			<point x="468.571" y="656.286" type="curve" smooth="yes"/>
+			<point x="648.6" y="718.604"/>
+			<point x="729.857" y="743.714"/>
+			<point x="729.857" y="838.571" type="curve" smooth="yes"/>
+			<point x="729.857" y="917.857"/>
+			<point x="658" y="958.429"/>
+			<point x="539.143" y="958.429" type="curve" smooth="yes"/>
+			<point x="453.571" y="958.429"/>
+			<point x="334.857" y="928.857"/>
+			<point x="238.286" y="883.857" type="curve"/>
+			<point x="167.714" y="1049.71" type="line"/>
+			<point x="285.714" y="1100.71"/>
+			<point x="399.857" y="1131.14"/>
+			<point x="540.286" y="1131.14" type="curve" smooth="yes"/>
+			<point x="799" y="1131.14"/>
+			<point x="966.571" y="1023.29"/>
+			<point x="966.571" y="825.429" type="curve" smooth="yes"/>
+			<point x="966.571" y="633.857"/>
+			<point x="855.962" y="569.839"/>
+			<point x="665.714" y="502.714" type="curve" smooth="yes"/>
+			<point x="479.823" y="436.735"/>
+			<point x="367.857" y="398"/>
+			<point x="367.857" y="301.429" type="curve" smooth="yes"/>
+			<point x="367.857" y="214.429"/>
+			<point x="433.857" y="164.143"/>
+			<point x="590.429" y="164.143" type="curve" smooth="yes"/>
+			<point x="694" y="164.143"/>
+			<point x="828.143" y="190.714"/>
+			<point x="956.143" y="251" type="curve"/>
+			<point x="956.143" y="45.5714" type="line"/>
+			<point x="847.857" y="2.57143"/>
+			<point x="725.714" y="-20"/>
+			<point x="569.286" y="-20" type="curve" smooth="yes"/>
+			<point x="256.571" y="-20"/>
+			<point x="121.571" y="115.429"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="556" y="0"/>
+	<anchor name="top" x="556" y="1110.71"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>=s</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>=s</string>
+		</dict>
+	</lib>
+</glyph>

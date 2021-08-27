@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclamdown.sc" format="2">
+	<advance width="419"/>
+	<outline>
+		<contour>
+			<point x="305.714" y="795.286" type="curve" smooth="yes"/>
+			<point x="305.714" y="856"/>
+			<point x="270.429" y="890.857"/>
+			<point x="210" y="890.857" type="curve" smooth="yes"/>
+			<point x="145.286" y="890.857"/>
+			<point x="113.857" y="856"/>
+			<point x="113.857" y="795.286" type="curve" smooth="yes"/>
+			<point x="113.857" y="734.286"/>
+			<point x="144.714" y="699.286"/>
+			<point x="210" y="699.286" type="curve" smooth="yes"/>
+			<point x="271" y="699.286"/>
+			<point x="305.714" y="734.286"/>
+		</contour>
+		<contour>
+			<point x="288.143" y="-289.571" type="line"/>
+			<point x="272.429" y="542.714" type="line"/>
+			<point x="142.571" y="542.714" type="line"/>
+			<point x="126.286" y="-289.571" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Punctuation</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Smallcaps</string>
+		</dict>
+	</lib>
+</glyph>

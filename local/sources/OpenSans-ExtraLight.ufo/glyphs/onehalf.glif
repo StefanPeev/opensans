@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onehalf" format="2">
+	<unicode hex="00BD"/>
+	<advance width="1577"/>
+	<outline>
+		<contour>
+			<point x="312.429" y="0" type="line"/>
+			<point x="404.286" y="0" type="line"/>
+			<point x="1165.14" y="1462" type="line"/>
+			<point x="1073.29" y="1462" type="line"/>
+		</contour>
+		<contour>
+			<point x="294" y="586" type="line"/>
+			<point x="379.857" y="586" type="line"/>
+			<point x="379.857" y="1462" type="line"/>
+			<point x="313.429" y="1462" type="line"/>
+			<point x="26.5714" y="1295.14" type="line"/>
+			<point x="66.1429" y="1232.29" type="line"/>
+			<point x="160.429" y="1285.86" type="line" smooth="yes"/>
+			<point x="220" y="1319.43"/>
+			<point x="256" y="1339.86"/>
+			<point x="297.143" y="1368.14" type="curve"/>
+			<point x="295.143" y="1303.29"/>
+			<point x="294" y="1198.14"/>
+			<point x="294" y="1128" type="curve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="942.429" y="0" type="line"/>
+			<point x="1530.71" y="0" type="line"/>
+			<point x="1530.71" y="75.8571" type="line"/>
+			<point x="1054.43" y="75.8571" type="line"/>
+			<point x="1263.29" y="285" type="line"/>
+			<point x="1412.14" y="437.286"/>
+			<point x="1506.29" y="526.429"/>
+			<point x="1506.29" y="665.429" type="curve" smooth="yes"/>
+			<point x="1506.29" y="802.429"/>
+			<point x="1410.29" y="899"/>
+			<point x="1242.71" y="899" type="curve" smooth="yes"/>
+			<point x="1138.29" y="899"/>
+			<point x="1047.29" y="865.429"/>
+			<point x="968.714" y="799.143" type="curve"/>
+			<point x="1012" y="740.286" type="line"/>
+			<point x="1085" y="797.571"/>
+			<point x="1153.29" y="824.857"/>
+			<point x="1234.57" y="824.857" type="curve" smooth="yes"/>
+			<point x="1354.71" y="824.857"/>
+			<point x="1418" y="757.143"/>
+			<point x="1418" y="660.714" type="curve" smooth="yes"/>
+			<point x="1418" y="548.571"/>
+			<point x="1332.14" y="464.286"/>
+			<point x="1189.14" y="318" type="curve" smooth="yes"/>
+			<point x="942.429" y="66.4286" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsRight</key>
+			<string>=twosuperior</string>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Number</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>=twosuperior</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Fraction</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="second" format="2">
+	<unicode hex="2033"/>
+	<advance width="985"/>
+	<outline>
+		<contour>
+			<point x="501" y="945.571" type="line"/>
+			<point x="675.714" y="945.571" type="line"/>
+			<point x="1004.71" y="1462" type="line"/>
+			<point x="776.143" y="1462" type="line"/>
+		</contour>
+		<contour>
+			<point x="72" y="945.571" type="line"/>
+			<point x="246.714" y="945.571" type="line"/>
+			<point x="575.143" y="1462" type="line"/>
+			<point x="347.143" y="1462" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Symbol</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Other</string>
+		</dict>
+	</lib>
+</glyph>

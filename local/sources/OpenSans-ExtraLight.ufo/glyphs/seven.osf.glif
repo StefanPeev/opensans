@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven.osf" format="2">
+	<advance width="1163"/>
+	<outline>
+		<contour>
+			<point x="247.714" y="-370.714" type="line"/>
+			<point x="356.857" y="-370.714" type="line"/>
+			<point x="954" y="1025.86" type="line"/>
+			<point x="954" y="1088.43" type="line"/>
+			<point x="9.57143" y="1088.43" type="line"/>
+			<point x="9.57143" y="997.857" type="line"/>
+			<point x="837.143" y="997.857" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Number</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Decimal Digit</string>
+		</dict>
+	</lib>
+</glyph>

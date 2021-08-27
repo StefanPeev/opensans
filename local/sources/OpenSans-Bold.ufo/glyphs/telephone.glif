@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="telephone" format="2">
+	<unicode hex="2121"/>
+	<advance width="1632"/>
+	<outline>
+		<contour>
+			<point x="209.286" y="741" type="line"/>
+			<point x="384.857" y="741" type="line"/>
+			<point x="384.857" y="1303.86" type="line"/>
+			<point x="563.143" y="1303.86" type="line"/>
+			<point x="563.143" y="1462" type="line"/>
+			<point x="31.1429" y="1462" type="line"/>
+			<point x="31.1429" y="1303.86" type="line"/>
+			<point x="209.286" y="1303.86" type="line"/>
+		</contour>
+		<contour>
+			<point x="637.143" y="741" type="line"/>
+			<point x="1062.43" y="741" type="line"/>
+			<point x="1062.43" y="886.143" type="line"/>
+			<point x="813.571" y="886.143" type="line"/>
+			<point x="813.571" y="1037.86" type="line"/>
+			<point x="1044.86" y="1037.86" type="line"/>
+			<point x="1044.86" y="1181.29" type="line"/>
+			<point x="813.571" y="1181.29" type="line"/>
+			<point x="813.571" y="1318.43" type="line"/>
+			<point x="1062.43" y="1318.43" type="line"/>
+			<point x="1062.43" y="1462" type="line"/>
+			<point x="637.143" y="1462" type="line"/>
+		</contour>
+		<contour>
+			<point x="1186.86" y="741" type="line"/>
+			<point x="1597.86" y="741" type="line"/>
+			<point x="1597.86" y="900.714" type="line"/>
+			<point x="1363.29" y="900.714" type="line"/>
+			<point x="1363.29" y="1462" type="line"/>
+			<point x="1186.86" y="1462" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>trademark</string>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Symbol</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>trademark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Other</string>
+		</dict>
+	</lib>
+</glyph>

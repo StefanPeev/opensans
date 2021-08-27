@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="greater" format="2">
+	<unicode hex="003E"/>
+	<advance width="1195"/>
+	<outline>
+		<contour>
+			<point x="95.2857" y="453.429" type="line"/>
+			<point x="95.2857" y="193" type="line"/>
+			<point x="1096.71" y="640.714" type="line"/>
+			<point x="1096.71" y="793.429" type="line"/>
+			<point x="95.2857" y="1290" type="line"/>
+			<point x="95.2857" y="1027.86" type="line"/>
+			<point x="751.286" y="727.286" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Symbol</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Math</string>
+		</dict>
+	</lib>
+</glyph>

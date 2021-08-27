@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2E3C" format="2">
+	<unicode hex="2E3C"/>
+	<outline>
+		<contour>
+			<point x="200.143" y="-189.286" type="line"/>
+			<point x="117.429" y="-106.571" type="line"/>
+			<point x="2.28571" y="-222" type="line"/>
+			<point x="-110.571" y="-107.714" type="line"/>
+			<point x="-199.286" y="-196.429" type="line"/>
+			<point x="-85" y="-310.429" type="line"/>
+			<point x="-203" y="-431.286" type="line"/>
+			<point x="-120.857" y="-514.286" type="line"/>
+			<point x="-1.42857" y="-393.143" type="line"/>
+			<point x="114" y="-509.714" type="line"/>
+			<point x="202.714" y="-421" type="line"/>
+			<point x="87" y="-304.714" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Punctuation</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Other</string>
+		</dict>
+	</lib>
+</glyph>

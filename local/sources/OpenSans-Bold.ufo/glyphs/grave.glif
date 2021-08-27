@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grave" format="2">
+	<unicode hex="0060"/>
+	<advance width="807"/>
+	<outline>
+		<contour>
+			<point x="459.286" y="1569" type="curve"/>
+			<point x="82" y="1569" type="line"/>
+			<point x="82" y="1548.86" type="line"/>
+			<point x="176.286" y="1468.86"/>
+			<point x="384.857" y="1313.86"/>
+			<point x="495.571" y="1241" type="curve"/>
+			<point x="724.571" y="1241" type="line"/>
+			<point x="724.571" y="1267.57" type="line"/>
+			<point x="654" y="1344.43"/>
+			<point x="527.857" y="1477.57"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Spacing</string>
+		</dict>
+	</lib>
+</glyph>

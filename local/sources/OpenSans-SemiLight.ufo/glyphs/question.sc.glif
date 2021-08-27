@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="question.sc" format="2">
+	<advance width="751"/>
+	<outline>
+		<contour>
+			<point x="233.643" y="385.857" type="curve" smooth="yes"/>
+			<point x="233.643" y="342.429" type="line"/>
+			<point x="384.571" y="342.429" type="line"/>
+			<point x="384.571" y="355.571" type="line" smooth="yes"/>
+			<point x="384.571" y="475.5"/>
+			<point x="412.5" y="523.357"/>
+			<point x="505.643" y="584.429" type="curve" smooth="yes"/>
+			<point x="639.857" y="671.571"/>
+			<point x="705.571" y="754"/>
+			<point x="705.571" y="899.5" type="curve" smooth="yes"/>
+			<point x="705.571" y="1080.79"/>
+			<point x="578.5" y="1185.86"/>
+			<point x="371.643" y="1185.86" type="curve" smooth="yes"/>
+			<point x="232.214" y="1185.86"/>
+			<point x="119" y="1148.36"/>
+			<point x="24.6429" y="1099.86" type="curve"/>
+			<point x="83.1429" y="974.214" type="line"/>
+			<point x="169.929" y="1020.86"/>
+			<point x="262.5" y="1050.57"/>
+			<point x="354.786" y="1050.57" type="curve" smooth="yes"/>
+			<point x="475.143" y="1050.57"/>
+			<point x="541.643" y="990.143"/>
+			<point x="541.643" y="885.143" type="curve" smooth="yes"/>
+			<point x="541.643" y="776.929"/>
+			<point x="489.071" y="732.5"/>
+			<point x="378.429" y="661.286" type="curve" smooth="yes"/>
+			<point x="258" y="584.143"/>
+			<point x="233.643" y="506.786"/>
+		</contour>
+		<contour>
+			<point x="206.429" y="85.2143" type="curve" smooth="yes"/>
+			<point x="206.429" y="18.0714"/>
+			<point x="245.714" y="-17.4286"/>
+			<point x="312.429" y="-17.4286" type="curve" smooth="yes"/>
+			<point x="381.071" y="-17.4286"/>
+			<point x="417.071" y="18.0714"/>
+			<point x="417.071" y="85.2143" type="curve" smooth="yes"/>
+			<point x="417.071" y="153.929"/>
+			<point x="381.071" y="189.929"/>
+			<point x="312.429" y="189.929" type="curve" smooth="yes"/>
+			<point x="245.714" y="189.929"/>
+			<point x="206.429" y="153.929"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Punctuation</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Smallcaps</string>
+		</dict>
+	</lib>
+</glyph>

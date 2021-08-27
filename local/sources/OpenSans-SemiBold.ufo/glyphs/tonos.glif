@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tonos" format="2">
+	<unicode hex="0384"/>
+	<advance width="1129"/>
+	<outline>
+		<contour>
+			<point x="444" y="1241" type="line"/>
+			<point x="615.857" y="1241" type="line"/>
+			<point x="687.857" y="1366"/>
+			<point x="747.429" y="1491.86"/>
+			<point x="791.286" y="1611.14" type="curve"/>
+			<point x="791.286" y="1635.14" type="line"/>
+			<point x="529" y="1635.14" type="line"/>
+			<point x="514.429" y="1526.29"/>
+			<point x="474.857" y="1364.29"/>
+			<point x="444" y="1268.57" type="curve"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="564.429" y="1118.14"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>greek</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Spacing</string>
+		</dict>
+	</lib>
+</glyph>

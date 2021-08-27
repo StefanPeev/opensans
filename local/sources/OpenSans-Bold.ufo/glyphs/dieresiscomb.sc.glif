@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresiscomb.sc" format="2">
+	<advance width="1234"/>
+	<outline>
+		<contour>
+			<point x="195.429" y="1498.71" type="curve" smooth="yes"/>
+			<point x="195.429" y="1390.86"/>
+			<point x="272.286" y="1338.86"/>
+			<point x="372.714" y="1338.86" type="curve" smooth="yes"/>
+			<point x="468.286" y="1338.86"/>
+			<point x="551.429" y="1390.86"/>
+			<point x="551.429" y="1498.71" type="curve" smooth="yes"/>
+			<point x="551.429" y="1607.14"/>
+			<point x="468.286" y="1659.57"/>
+			<point x="372.714" y="1659.57" type="curve" smooth="yes"/>
+			<point x="272.286" y="1659.57"/>
+			<point x="195.429" y="1607.14"/>
+		</contour>
+		<contour>
+			<point x="681.571" y="1498.71" type="curve" smooth="yes"/>
+			<point x="681.571" y="1390.86"/>
+			<point x="758.429" y="1338.86"/>
+			<point x="859.714" y="1338.86" type="curve" smooth="yes"/>
+			<point x="956.143" y="1338.86"/>
+			<point x="1039.29" y="1390.86"/>
+			<point x="1039.29" y="1498.71" type="curve" smooth="yes"/>
+			<point x="1039.29" y="1607.14"/>
+			<point x="956.143" y="1659.57"/>
+			<point x="859.714" y="1659.57" type="curve" smooth="yes"/>
+			<point x="758.429" y="1659.57"/>
+			<point x="681.571" y="1607.14"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="618" y="1200.71"/>
+	<anchor name="top" x="621.429" y="1659.57"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Smallcaps</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="daletsymbol" format="2">
+	<unicode hex="2138"/>
+	<advance width="894"/>
+	<outline>
+		<contour>
+			<point x="600.857" y="0" type="line"/>
+			<point x="687.857" y="0" type="line"/>
+			<point x="687.857" y="1112" type="line"/>
+			<point x="854.286" y="1112" type="line"/>
+			<point x="854.286" y="1191.14" type="line"/>
+			<point x="4" y="1191.14" type="line"/>
+			<point x="4" y="1112" type="line"/>
+			<point x="600.857" y="1112" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Symbol</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Math</string>
+		</dict>
+	</lib>
+</glyph>

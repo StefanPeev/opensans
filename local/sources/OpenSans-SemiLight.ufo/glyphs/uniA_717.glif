@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA717" format="2">
+	<unicode hex="A717"/>
+	<advance width="597"/>
+	<outline>
+		<contour>
+			<point x="514.857" y="1948.86" type="line"/>
+			<point x="403.5" y="1948.86" type="line"/>
+			<point x="403.5" y="1338.71" type="line"/>
+			<point x="514.857" y="1338.71" type="line"/>
+		</contour>
+		<contour>
+			<point x="253.643" y="1643.21" type="curve" smooth="yes"/>
+			<point x="253.643" y="1696.14"/>
+			<point x="223.214" y="1731.14"/>
+			<point x="169.286" y="1731.14" type="curve" smooth="yes"/>
+			<point x="119.143" y="1731.14"/>
+			<point x="82" y="1700"/>
+			<point x="82" y="1643.21" type="curve" smooth="yes"/>
+			<point x="82" y="1587.86"/>
+			<point x="119.143" y="1554.29"/>
+			<point x="169.286" y="1554.29" type="curve" smooth="yes"/>
+			<point x="223.214" y="1554.29"/>
+			<point x="253.643" y="1587.86"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>uniA719</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>uniA719</string>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>uniA719</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>uniA719</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Modifier</string>
+		</dict>
+	</lib>
+</glyph>

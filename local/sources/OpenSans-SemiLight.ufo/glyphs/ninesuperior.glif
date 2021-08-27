@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ninesuperior" format="2">
+	<unicode hex="2079"/>
+	<advance width="724"/>
+	<outline>
+		<contour>
+			<point x="347.571" y="1749" type="curve" smooth="yes"/>
+			<point x="164.429" y="1749"/>
+			<point x="41.8571" y="1632.57"/>
+			<point x="41.8571" y="1451.29" type="curve" smooth="yes"/>
+			<point x="41.8571" y="1271.64"/>
+			<point x="138.857" y="1175.79"/>
+			<point x="298.429" y="1175.79" type="curve" smooth="yes"/>
+			<point x="410.5" y="1175.79"/>
+			<point x="483.429" y="1223.5"/>
+			<point x="525" y="1285.57" type="curve"/>
+			<point x="531.143" y="1285.57" type="line"/>
+			<point x="520" y="1060.14"/>
+			<point x="429.286" y="944.857"/>
+			<point x="239.786" y="944.857" type="curve" smooth="yes"/>
+			<point x="177.071" y="944.857"/>
+			<point x="126.429" y="952.714"/>
+			<point x="91.0714" y="962.714" type="curve"/>
+			<point x="91.0714" y="849.857" type="line"/>
+			<point x="130.286" y="839.143"/>
+			<point x="178.929" y="833.5"/>
+			<point x="242.571" y="833.5" type="curve" smooth="yes"/>
+			<point x="519" y="833.5"/>
+			<point x="670.143" y="996.429"/>
+			<point x="670.143" y="1377.93" type="curve" smooth="yes"/>
+			<point x="670.143" y="1621.71"/>
+			<point x="538.714" y="1749"/>
+		</contour>
+		<contour>
+			<point x="352.929" y="1641.57" type="curve" smooth="yes"/>
+			<point x="465.286" y="1641.57"/>
+			<point x="533.357" y="1557.36"/>
+			<point x="533.357" y="1431.36" type="curve" smooth="yes"/>
+			<point x="533.357" y="1329.07"/>
+			<point x="439.357" y="1270"/>
+			<point x="345.143" y="1270" type="curve" smooth="yes"/>
+			<point x="235.143" y="1270"/>
+			<point x="177.571" y="1335.21"/>
+			<point x="177.571" y="1451.29" type="curve" smooth="yes"/>
+			<point x="177.571" y="1569.93"/>
+			<point x="245.286" y="1641.57"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Number</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Small</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="endash" format="2">
+	<unicode hex="2013"/>
+	<advance width="1024"/>
+	<outline>
+		<contour>
+			<point x="77.4286" y="463.714" type="line"/>
+			<point x="946.571" y="463.714" type="line"/>
+			<point x="946.571" y="643.714" type="line"/>
+			<point x="77.4286" y="643.714" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Punctuation</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Dash</string>
+		</dict>
+	</lib>
+</glyph>

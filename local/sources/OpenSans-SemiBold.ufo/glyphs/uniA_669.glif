@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA669" format="2">
+	<unicode hex="A669"/>
+	<advance width="1334"/>
+	<outline>
+		<contour>
+			<point x="663.143" y="-18.5714" type="curve" smooth="yes"/>
+			<point x="1027" y="-18.5714"/>
+			<point x="1237.86" y="201.571"/>
+			<point x="1237.86" y="561" type="curve" smooth="yes"/>
+			<point x="1237.86" y="916.857"/>
+			<point x="1016.14" y="1137"/>
+			<point x="672.286" y="1137" type="curve" smooth="yes"/>
+			<point x="312.714" y="1137"/>
+			<point x="96" y="925.714"/>
+			<point x="96" y="561" type="curve" smooth="yes"/>
+			<point x="96" y="200.429"/>
+			<point x="321.143" y="-18.5714"/>
+		</contour>
+		<contour>
+			<point x="667.429" y="201.714" type="curve" smooth="yes"/>
+			<point x="468.286" y="201.714"/>
+			<point x="351.714" y="335"/>
+			<point x="351.714" y="561" type="curve" smooth="yes"/>
+			<point x="351.714" y="791.429"/>
+			<point x="475.857" y="916"/>
+			<point x="668" y="916" type="curve" smooth="yes"/>
+			<point x="870.571" y="916"/>
+			<point x="981.857" y="780.857"/>
+			<point x="981.857" y="561" type="curve" smooth="yes"/>
+			<point x="981.857" y="336.143"/>
+			<point x="866.286" y="201.714"/>
+		</contour>
+		<contour>
+			<point x="668.571" y="412.714" type="curve" smooth="yes"/>
+			<point x="750.429" y="412.714"/>
+			<point x="810.714" y="461.429"/>
+			<point x="810.714" y="563.571" type="curve" smooth="yes"/>
+			<point x="810.714" y="671.571"/>
+			<point x="750.429" y="716.571"/>
+			<point x="668.571" y="716.571" type="curve" smooth="yes"/>
+			<point x="586.857" y="716.571"/>
+			<point x="525.429" y="669.429"/>
+			<point x="525.429" y="563.571" type="curve" smooth="yes"/>
+			<point x="525.429" y="460"/>
+			<point x="586.857" y="412.714"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>cyrillic</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

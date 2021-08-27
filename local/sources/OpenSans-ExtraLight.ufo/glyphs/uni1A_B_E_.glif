@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1ABE" format="2">
+	<unicode hex="1ABE"/>
+	<outline>
+		<contour>
+			<point x="-827.571" y="452" type="curve" smooth="yes"/>
+			<point x="-827.571" y="366"/>
+			<point x="-787.286" y="282.714"/>
+			<point x="-702.429" y="219" type="curve"/>
+			<point x="-623" y="219" type="line"/>
+			<point x="-700" y="284.714"/>
+			<point x="-742" y="366.714"/>
+			<point x="-742" y="452" type="curve" smooth="yes"/>
+			<point x="-742" y="531.714"/>
+			<point x="-700" y="613.714"/>
+			<point x="-623" y="678" type="curve"/>
+			<point x="-702.429" y="678" type="line"/>
+			<point x="-787.286" y="615.714"/>
+			<point x="-827.571" y="538"/>
+		</contour>
+		<contour>
+			<point x="827.286" y="446" type="curve" smooth="yes"/>
+			<point x="827.286" y="532"/>
+			<point x="787" y="614"/>
+			<point x="700.429" y="678" type="curve"/>
+			<point x="621" y="678" type="line"/>
+			<point x="699.714" y="612"/>
+			<point x="740" y="530"/>
+			<point x="740" y="446" type="curve" smooth="yes"/>
+			<point x="740" y="365"/>
+			<point x="699.714" y="283"/>
+			<point x="621" y="219" type="curve"/>
+			<point x="700.429" y="219" type="line"/>
+			<point x="787" y="281"/>
+			<point x="827.286" y="360"/>
+		</contour>
+	</outline>
+	<anchor name="_center" x="-0.285714" y="449"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Enclosing</string>
+		</dict>
+	</lib>
+</glyph>

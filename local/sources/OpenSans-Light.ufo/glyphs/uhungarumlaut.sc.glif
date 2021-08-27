@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uhungarumlaut.sc" format="2">
+	<advance width="1207"/>
+	<outline>
+		<component base="u.sc"/>
+		<component base="hungarumlaut" xyScale="0" xOffset="251.286" yOffset="67.2857"/>
+	</outline>
+	<anchor name="bottom" x="604.857" y="0"/>
+	<anchor name="top" x="604.857" y="1636.29"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsWidth</key>
+			<string>=u.sc</string>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>u.sc</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>hungarumlaut</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+			<string>=u.sc</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Smallcaps</string>
+		</dict>
+	</lib>
+</glyph>

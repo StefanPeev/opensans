@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FEF" format="2">
+	<unicode hex="1FEF"/>
+	<advance width="1241"/>
+	<outline>
+		<contour>
+			<point x="711.286" y="1241" type="line"/>
+			<point x="711.286" y="1270.57" type="line"/>
+			<point x="677.714" y="1346"/>
+			<point x="637" y="1477.71"/>
+			<point x="620" y="1575.57" type="curve"/>
+			<point x="391.714" y="1575.57" type="line"/>
+			<point x="391.714" y="1548.86" type="line"/>
+			<point x="434.714" y="1450.86"/>
+			<point x="502.429" y="1334.71"/>
+			<point x="573.429" y="1241" type="curve"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="591" y="1110.71"/>
+	<anchor name="top" x="554.429" y="1575.57"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>greek</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Spacing</string>
+		</dict>
+	</lib>
+</glyph>

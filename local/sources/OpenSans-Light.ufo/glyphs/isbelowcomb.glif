@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="isbelowcomb" format="2">
+	<unicode hex="1DD0"/>
+	<outline>
+		<contour>
+			<point x="469.143" y="-256.286" type="curve" smooth="yes"/>
+			<point x="469.143" y="-138.857"/>
+			<point x="402.429" y="-59.7143"/>
+			<point x="288.571" y="-30.7143" type="curve"/>
+			<point x="249" y="-119" type="line"/>
+			<point x="319.571" y="-136.714"/>
+			<point x="362.857" y="-176.571"/>
+			<point x="362.857" y="-236.857" type="curve" smooth="yes"/>
+			<point x="362.857" y="-297.286"/>
+			<point x="327" y="-344.571"/>
+			<point x="259.714" y="-344.571" type="curve" smooth="yes"/>
+			<point x="112.571" y="-344.571"/>
+			<point x="46.7143" y="-192.429"/>
+			<point x="-116.429" y="-192.429" type="curve" smooth="yes"/>
+			<point x="-258.286" y="-192.429"/>
+			<point x="-339.286" y="-274"/>
+			<point x="-450.714" y="-453.714" type="curve"/>
+			<point x="-346.286" y="-453.714" type="line"/>
+			<point x="-299.857" y="-346.714"/>
+			<point x="-242.714" y="-300"/>
+			<point x="-133.571" y="-300" type="curve" smooth="yes"/>
+			<point x="-13.4286" y="-300"/>
+			<point x="65.5714" y="-457.143"/>
+			<point x="258" y="-457.143" type="curve" smooth="yes"/>
+			<point x="379.714" y="-457.143"/>
+			<point x="469.143" y="-383.571"/>
+		</contour>
+		<contour>
+			<point x="-301" y="0" type="line"/>
+			<point x="-469.143" y="-453.714" type="line"/>
+			<point x="-346.286" y="-453.714" type="line"/>
+			<point x="-180.143" y="0" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_bottom" x="0" y="0"/>
+	<anchor name="bottom" x="1.14286" y="-464.286"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

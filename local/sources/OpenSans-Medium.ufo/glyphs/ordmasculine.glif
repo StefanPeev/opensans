@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ordmasculine" format="2">
+	<unicode hex="00BA"/>
+	<advance width="768"/>
+	<outline>
+		<contour>
+			<point x="711" y="1122.43" type="curve" smooth="yes"/>
+			<point x="711" y="1337.29"/>
+			<point x="586.143" y="1481.57"/>
+			<point x="388.429" y="1481.57" type="curve" smooth="yes"/>
+			<point x="185.714" y="1481.57"/>
+			<point x="60.5714" y="1347.71"/>
+			<point x="60.5714" y="1122.43" type="curve" smooth="yes"/>
+			<point x="60.5714" y="906"/>
+			<point x="186" y="763.286"/>
+			<point x="383.143" y="763.286" type="curve" smooth="yes"/>
+			<point x="589.857" y="763.286"/>
+			<point x="711" y="904.571"/>
+		</contour>
+		<contour>
+			<point x="228.143" y="1122.43" type="curve" smooth="yes"/>
+			<point x="228.143" y="1264.43"/>
+			<point x="283.571" y="1344.86"/>
+			<point x="387.286" y="1344.86" type="curve" smooth="yes"/>
+			<point x="494.286" y="1344.86"/>
+			<point x="541.143" y="1255"/>
+			<point x="541.143" y="1122.43" type="curve" smooth="yes"/>
+			<point x="541.143" y="986.429"/>
+			<point x="491.714" y="901.143"/>
+			<point x="384.286" y="901.143" type="curve" smooth="yes"/>
+			<point x="279.286" y="901.143"/>
+			<point x="228.143" y="985.571"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="382" y="767.857"/>
+	<anchor name="top" x="392.429" y="1485"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Superscript</string>
+		</dict>
+	</lib>
+</glyph>

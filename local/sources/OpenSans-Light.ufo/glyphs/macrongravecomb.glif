@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macrongravecomb" format="2">
+	<unicode hex="1DC6"/>
+	<outline>
+		<contour>
+			<point x="-269.429" y="1455.29" type="line"/>
+			<point x="-269.429" y="1359.43" type="line"/>
+			<point x="0.285714" y="1359.43" type="line"/>
+			<point x="234.857" y="1248.29" type="line"/>
+			<point x="278.857" y="1333.86" type="line"/>
+			<point x="21.7143" y="1455.29" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="4.85714" y="1095.86"/>
+	<anchor name="top" x="6" y="1455.29"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

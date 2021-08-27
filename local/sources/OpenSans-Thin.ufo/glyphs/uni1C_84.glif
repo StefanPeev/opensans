@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1C84" format="2">
+	<unicode hex="1C84"/>
+	<advance width="754"/>
+	<outline>
+		<contour>
+			<point x="639" y="1462" type="line"/>
+			<point x="-154" y="1462" type="line"/>
+			<point x="-154" y="1411" type="line"/>
+			<point x="582" y="1411" type="line"/>
+			<point x="362" y="0" type="line"/>
+			<point x="416" y="0" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="377" y="0"/>
+	<anchor name="top" x="377" y="1081"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string></string>
+		</dict>
+	</lib>
+</glyph>

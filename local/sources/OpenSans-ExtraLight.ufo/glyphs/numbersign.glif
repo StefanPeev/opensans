@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numbersign" format="2">
+	<unicode hex="0023"/>
+	<advance width="1328"/>
+	<outline>
+		<contour>
+			<point x="968.286" y="927" type="line"/>
+			<point x="1273.57" y="927" type="line"/>
+			<point x="1273.57" y="1006.14" type="line"/>
+			<point x="982.857" y="1006.14" type="line"/>
+			<point x="1070.43" y="1462" type="line"/>
+			<point x="988.429" y="1462" type="line"/>
+			<point x="900.143" y="1006.14" type="line"/>
+			<point x="527.571" y="1006.14" type="line"/>
+			<point x="615.286" y="1462" type="line"/>
+			<point x="533.286" y="1462" type="line"/>
+			<point x="445.857" y="1006.14" type="line"/>
+			<point x="132.286" y="1006.14" type="line"/>
+			<point x="132.286" y="927" type="line"/>
+			<point x="431.143" y="927" type="line"/>
+			<point x="354.714" y="532.714" type="line"/>
+			<point x="54.1429" y="532.714" type="line"/>
+			<point x="54.1429" y="454.429" type="line"/>
+			<point x="340.857" y="454.429" type="line"/>
+			<point x="253.429" y="0" type="line"/>
+			<point x="335.286" y="0" type="line"/>
+			<point x="423.429" y="454.429" type="line"/>
+			<point x="796.286" y="454.429" type="line"/>
+			<point x="708.714" y="0" type="line"/>
+			<point x="790.714" y="0" type="line"/>
+			<point x="878.429" y="454.429" type="line"/>
+			<point x="1195.86" y="454.429" type="line"/>
+			<point x="1195.86" y="532.714" type="line"/>
+			<point x="892" y="532.714" type="line"/>
+		</contour>
+		<contour>
+			<point x="437.429" y="532.714" type="line"/>
+			<point x="513.714" y="927" type="line"/>
+			<point x="886.286" y="927" type="line"/>
+			<point x="809.857" y="532.714" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Punctuation</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Other</string>
+		</dict>
+	</lib>
+</glyph>

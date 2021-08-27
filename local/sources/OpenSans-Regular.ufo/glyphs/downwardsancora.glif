@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="downwardsancora" format="2">
+	<unicode hex="2E14"/>
+	<advance width="1536"/>
+	<outline>
+		<contour>
+			<point x="953.857" y="166.571" type="curve"/>
+			<point x="865.429" y="255.429" type="line"/>
+			<point x="755.143" y="212.714"/>
+			<point x="658.571" y="225.429"/>
+			<point x="554.286" y="309.857" type="curve"/>
+			<point x="1347.43" y="1104" type="line"/>
+			<point x="1268" y="1183.43" type="line"/>
+			<point x="473.857" y="390.286" type="line"/>
+			<point x="389.429" y="494.571"/>
+			<point x="376.143" y="591.143"/>
+			<point x="418.857" y="701.857" type="curve"/>
+			<point x="330.571" y="789.857" type="line"/>
+			<point x="235.857" y="596.286"/>
+			<point x="280.286" y="422.286"/>
+			<point x="432.571" y="269.143" type="curve" smooth="yes"/>
+			<point x="586.286" y="116.286"/>
+			<point x="759.714" y="71.8571"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Punctuation</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Other</string>
+		</dict>
+	</lib>
+</glyph>

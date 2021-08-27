@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1ABB" format="2">
+	<unicode hex="1ABB"/>
+	<outline>
+		<contour>
+			<point x="-418.571" y="1484.14" type="curve" smooth="yes"/>
+			<point x="-418.571" y="1398.14"/>
+			<point x="-377.286" y="1314.71"/>
+			<point x="-292.571" y="1251" type="curve"/>
+			<point x="-213" y="1251" type="line"/>
+			<point x="-290" y="1316.71"/>
+			<point x="-332.143" y="1398.71"/>
+			<point x="-332.143" y="1484.14" type="curve" smooth="yes"/>
+			<point x="-332.143" y="1564.71"/>
+			<point x="-290" y="1646.71"/>
+			<point x="-213" y="1710" type="curve"/>
+			<point x="-292.571" y="1710" type="line"/>
+			<point x="-377.286" y="1648.71"/>
+			<point x="-418.571" y="1570.14"/>
+		</contour>
+		<contour>
+			<point x="418.286" y="1479" type="curve" smooth="yes"/>
+			<point x="418.286" y="1565"/>
+			<point x="377" y="1647"/>
+			<point x="290.571" y="1710" type="curve"/>
+			<point x="211" y="1710" type="line"/>
+			<point x="289.714" y="1645"/>
+			<point x="330.143" y="1563"/>
+			<point x="330.143" y="1479" type="curve" smooth="yes"/>
+			<point x="330.143" y="1397"/>
+			<point x="289.714" y="1315"/>
+			<point x="211" y="1251" type="curve"/>
+			<point x="290.571" y="1251" type="line"/>
+			<point x="377" y="1313"/>
+			<point x="418.286" y="1393"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="-0.285714" y="1088.43"/>
+	<anchor name="top" x="0.571429" y="1710"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

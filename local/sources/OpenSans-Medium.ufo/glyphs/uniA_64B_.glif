@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA64B" format="2">
+	<unicode hex="A64B"/>
+	<advance width="1008"/>
+	<outline>
+		<contour>
+			<point x="492.429" y="-20" type="curve" smooth="yes"/>
+			<point x="733.429" y="-20"/>
+			<point x="862.429" y="137.857"/>
+			<point x="862.429" y="324.429" type="curve" smooth="yes"/>
+			<point x="862.429" y="481.143"/>
+			<point x="815.429" y="590.143"/>
+			<point x="626" y="762.286" type="curve"/>
+			<point x="851.143" y="965.286"/>
+			<point x="970.286" y="1209"/>
+			<point x="969.714" y="1556" type="curve"/>
+			<point x="710.429" y="1556" type="line"/>
+			<point x="711" y="1265"/>
+			<point x="651.286" y="1078.86"/>
+			<point x="489" y="905" type="curve"/>
+			<point x="320.143" y="1071.43"/>
+			<point x="295.143" y="1174.57"/>
+			<point x="295.143" y="1371.14" type="curve"/>
+			<point x="49" y="1371.14" type="line"/>
+			<point x="49" y="1108.29"/>
+			<point x="95.4286" y="972.143"/>
+			<point x="352.286" y="738.857" type="curve"/>
+			<point x="187.714" y="593.429"/>
+			<point x="116.143" y="470.429"/>
+			<point x="116.143" y="314.714" type="curve" smooth="yes"/>
+			<point x="116.143" y="112.429"/>
+			<point x="259.143" y="-20"/>
+		</contour>
+		<contour>
+			<point x="493.857" y="148.143" type="curve" smooth="yes"/>
+			<point x="383.286" y="148.143"/>
+			<point x="316.286" y="210.143"/>
+			<point x="316.286" y="317.571" type="curve" smooth="yes"/>
+			<point x="316.286" y="416.714"/>
+			<point x="359" y="495"/>
+			<point x="488.143" y="608.714" type="curve"/>
+			<point x="625" y="488.143"/>
+			<point x="660" y="416.286"/>
+			<point x="660" y="319.286" type="curve" smooth="yes"/>
+			<point x="660" y="211"/>
+			<point x="598.286" y="148.143"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="500.429" y="-4"/>
+	<anchor name="top" x="496.429" y="1563"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>cyrillic</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

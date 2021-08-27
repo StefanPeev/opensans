@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alephsymbol" format="2">
+	<unicode hex="2135"/>
+	<advance width="1242"/>
+	<outline>
+		<contour>
+			<point x="1076.71" y="-45.8571" type="curve"/>
+			<point x="1164" y="26" type="line"/>
+			<point x="1075.43" y="152.429"/>
+			<point x="960.714" y="317"/>
+			<point x="833.714" y="482.143" type="curve"/>
+			<point x="1023" y="692"/>
+			<point x="1133.43" y="969"/>
+			<point x="1148" y="1192.29" type="curve"/>
+			<point x="1025.86" y="1192.29" type="line"/>
+			<point x="1020.14" y="1008.71"/>
+			<point x="930.571" y="761.571"/>
+			<point x="766.571" y="567.143" type="curve"/>
+			<point x="570.429" y="824.429"/>
+			<point x="363.143" y="1054.29"/>
+			<point x="186.571" y="1223.43" type="curve"/>
+			<point x="104.714" y="1140.86" type="line"/>
+			<point x="190.714" y="1058.71"/>
+			<point x="288.143" y="967.571"/>
+			<point x="386.143" y="852.429" type="curve"/>
+			<point x="169.143" y="574.857"/>
+			<point x="86.5714" y="248.429"/>
+			<point x="76.5714" y="-1.42857" type="curve"/>
+			<point x="192.143" y="-1.42857" type="line"/>
+			<point x="204.857" y="227.571"/>
+			<point x="274.714" y="514.143"/>
+			<point x="460.857" y="768.857" type="curve"/>
+			<point x="684.286" y="512.857"/>
+			<point x="924.571" y="175.286"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Symbol</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Math</string>
+		</dict>
+	</lib>
+</glyph>

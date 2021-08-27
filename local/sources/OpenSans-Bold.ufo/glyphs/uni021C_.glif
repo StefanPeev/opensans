@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni021C" format="2">
+	<unicode hex="021C"/>
+	<advance width="1279"/>
+	<outline>
+		<contour>
+			<point x="91.1429" y="-369" type="line"/>
+			<point x="845.857" y="-221.286"/>
+			<point x="1179" y="-2.85714"/>
+			<point x="1179" y="376.429" type="curve" smooth="yes"/>
+			<point x="1179" y="562.143"/>
+			<point x="1086" y="681.429"/>
+			<point x="960.571" y="752.429" type="curve"/>
+			<point x="1080" y="842.143"/>
+			<point x="1141.86" y="950"/>
+			<point x="1141.86" y="1087.43" type="curve" smooth="yes"/>
+			<point x="1141.86" y="1345.14"/>
+			<point x="941.143" y="1483"/>
+			<point x="627" y="1483" type="curve" smooth="yes"/>
+			<point x="408.286" y="1483"/>
+			<point x="232" y="1426.71"/>
+			<point x="67.1429" y="1318.71" type="curve"/>
+			<point x="213.857" y="1078.86" type="line"/>
+			<point x="327.143" y="1147.14"/>
+			<point x="464.429" y="1198"/>
+			<point x="591.857" y="1198" type="curve" smooth="yes"/>
+			<point x="709.286" y="1198"/>
+			<point x="795.286" y="1162.86"/>
+			<point x="795.286" y="1052.29" type="curve" smooth="yes"/>
+			<point x="795.286" y="934.286"/>
+			<point x="690.857" y="871.714"/>
+			<point x="314.857" y="785.143" type="curve"/>
+			<point x="374.857" y="520.143" type="line"/>
+			<point x="500.143" y="548.143"/>
+			<point x="611.571" y="578.571"/>
+			<point x="706.714" y="615.286" type="curve"/>
+			<point x="781.143" y="562.429"/>
+			<point x="824" y="494.857"/>
+			<point x="824" y="395.857" type="curve" smooth="yes"/>
+			<point x="824" y="196.714"/>
+			<point x="700" y="68.2857"/>
+			<point x="91.1429" y="-58.7143" type="curve"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="674.143" y="-209.286"/>
+	<anchor name="top" x="634.286" y="1462"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

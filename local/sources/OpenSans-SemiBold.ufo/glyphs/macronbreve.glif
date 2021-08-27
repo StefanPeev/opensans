@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macronbreve" format="2">
+	<unicode hex="1DCC"/>
+	<outline>
+		<contour>
+			<point x="-600.429" y="1576.86" type="line"/>
+			<point x="-1231.86" y="1576.86" type="line"/>
+			<point x="-1231.86" y="1393.71" type="line"/>
+			<point x="-600.429" y="1393.71" type="line"/>
+		</contour>
+		<contour>
+			<point x="-721.857" y="1576.86" type="line"/>
+			<point x="-707.571" y="1361.71"/>
+			<point x="-591.429" y="1238.71"/>
+			<point x="-360.429" y="1237.29" type="curve"/>
+			<point x="-139.429" y="1238.71"/>
+			<point x="-11.1429" y="1366"/>
+			<point x="3.42857" y="1576.86" type="curve"/>
+			<point x="-170.429" y="1576.86" type="line"/>
+			<point x="-197.143" y="1459.29"/>
+			<point x="-262.429" y="1424.57"/>
+			<point x="-361" y="1423.14" type="curve"/>
+			<point x="-476.857" y="1424.57"/>
+			<point x="-527" y="1451.57"/>
+			<point x="-554.286" y="1576.86" type="curve"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="-614.143" y="1118.14"/>
+	<anchor name="top" x="-611.286" y="1576.86"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

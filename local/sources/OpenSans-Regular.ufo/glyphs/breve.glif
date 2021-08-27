@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="breve" format="2">
+	<unicode hex="02D8"/>
+	<advance width="798"/>
+	<outline>
+		<contour>
+			<point x="715.571" y="1530.86" type="curve"/>
+			<point x="592" y="1530.86" type="line"/>
+			<point x="572.714" y="1423.29"/>
+			<point x="510.429" y="1371.86"/>
+			<point x="396.714" y="1371.86" type="curve" smooth="yes"/>
+			<point x="277.286" y="1371.86"/>
+			<point x="219.714" y="1419.86"/>
+			<point x="201.571" y="1530.86" type="curve"/>
+			<point x="82" y="1530.86" type="line"/>
+			<point x="93.1429" y="1347.14"/>
+			<point x="200.714" y="1241"/>
+			<point x="396.714" y="1241" type="curve" smooth="yes"/>
+			<point x="587" y="1241"/>
+			<point x="698.714" y="1350.14"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Spacing</string>
+		</dict>
+	</lib>
+</glyph>

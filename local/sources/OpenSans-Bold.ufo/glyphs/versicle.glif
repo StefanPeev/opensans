@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="versicle" format="2">
+	<unicode hex="2123"/>
+	<advance width="1305"/>
+	<outline>
+		<component base="V"/>
+		<contour>
+			<point x="739.143" y="1536" type="line"/>
+			<point x="190" y="-298.714" type="line"/>
+			<point x="322.286" y="-298.714" type="line"/>
+			<point x="902" y="1617" type="line"/>
+			<point x="339.143" y="1796.57" type="line"/>
+			<point x="294.714" y="1669.14" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>V</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Symbol</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Other</string>
+		</dict>
+	</lib>
+</glyph>

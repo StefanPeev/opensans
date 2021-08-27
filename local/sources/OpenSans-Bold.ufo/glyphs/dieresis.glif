@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis" format="2">
+	<unicode hex="00A8"/>
+	<advance width="1225"/>
+	<outline>
+		<contour>
+			<point x="240.857" y="1409.57" type="curve" smooth="yes"/>
+			<point x="240.857" y="1313.71"/>
+			<point x="305.714" y="1266.71"/>
+			<point x="393.286" y="1266.71" type="curve" smooth="yes"/>
+			<point x="478.571" y="1266.71"/>
+			<point x="548" y="1313.71"/>
+			<point x="548" y="1409.57" type="curve" smooth="yes"/>
+			<point x="548" y="1507.57"/>
+			<point x="478.571" y="1554"/>
+			<point x="393.286" y="1554" type="curve" smooth="yes"/>
+			<point x="305.714" y="1554"/>
+			<point x="240.857" y="1507.57"/>
+		</contour>
+		<contour>
+			<point x="705.571" y="1409.57" type="curve" smooth="yes"/>
+			<point x="705.571" y="1313.71"/>
+			<point x="770.429" y="1266.71"/>
+			<point x="859.714" y="1266.71" type="curve" smooth="yes"/>
+			<point x="945.857" y="1266.71"/>
+			<point x="1015.29" y="1313.71"/>
+			<point x="1015.29" y="1409.57" type="curve" smooth="yes"/>
+			<point x="1015.29" y="1507.57"/>
+			<point x="945.857" y="1554"/>
+			<point x="859.714" y="1554" type="curve" smooth="yes"/>
+			<point x="770.429" y="1554"/>
+			<point x="705.571" y="1507.57"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Spacing</string>
+		</dict>
+	</lib>
+</glyph>

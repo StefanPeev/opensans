@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02AB" format="2">
+	<unicode hex="02AB"/>
+	<advance width="1198"/>
+	<outline>
+		<contour>
+			<point x="171.429" y="0" type="line"/>
+			<point x="1119.29" y="0" type="line"/>
+			<point x="1119.29" y="121.857" type="line"/>
+			<point x="494.714" y="121.857" type="line"/>
+			<point x="1117" y="1005.29" type="line"/>
+			<point x="1117" y="1095.86" type="line"/>
+			<point x="321.714" y="1095.86" type="line"/>
+			<point x="321.714" y="1556" type="line"/>
+			<point x="171.429" y="1556" type="line"/>
+		</contour>
+		<contour>
+			<point x="321.714" y="107" type="line"/>
+			<point x="321.714" y="974" type="line"/>
+			<point x="933.857" y="974" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="657.429" y="0"/>
+	<anchor name="top" x="657.429" y="1556"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsRight</key>
+			<string>z</string>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>z</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dottedacute" format="2">
+	<unicode hex="1DC1"/>
+	<outline>
+		<contour>
+			<point x="-124.571" y="1307.86" type="line"/>
+			<point x="-51.7143" y="1307.86" type="line"/>
+			<point x="18" y="1408.43"/>
+			<point x="82.4286" y="1525.71"/>
+			<point x="115.714" y="1610.57" type="curve"/>
+			<point x="115.714" y="1630.57" type="line"/>
+			<point x="-24.2857" y="1630.57" type="line"/>
+			<point x="-42.5714" y="1539.43"/>
+			<point x="-87.8571" y="1412.43"/>
+			<point x="-124.571" y="1333" type="curve"/>
+		</contour>
+		<contour>
+			<point x="-279.714" y="1315.57" type="curve" smooth="yes"/>
+			<point x="-221.286" y="1315.57"/>
+			<point x="-199" y="1351.14"/>
+			<point x="-199" y="1405.29" type="curve" smooth="yes"/>
+			<point x="-199" y="1460"/>
+			<point x="-221.286" y="1495.43"/>
+			<point x="-279.714" y="1495.43" type="curve" smooth="yes"/>
+			<point x="-333.286" y="1495.43"/>
+			<point x="-356.714" y="1460"/>
+			<point x="-356.714" y="1405.29" type="curve" smooth="yes"/>
+			<point x="-356.714" y="1351.14"/>
+			<point x="-333.286" y="1315.57"/>
+		</contour>
+		<contour>
+			<point x="275.429" y="1473.29" type="curve" smooth="yes"/>
+			<point x="333.857" y="1473.29"/>
+			<point x="355.857" y="1508"/>
+			<point x="355.857" y="1562.14" type="curve" smooth="yes"/>
+			<point x="355.857" y="1616.14"/>
+			<point x="333.857" y="1652.29"/>
+			<point x="275.429" y="1652.29" type="curve" smooth="yes"/>
+			<point x="221.571" y="1652.29"/>
+			<point x="197.571" y="1616.14"/>
+			<point x="197.571" y="1562.14" type="curve" smooth="yes"/>
+			<point x="197.571" y="1508"/>
+			<point x="221.571" y="1473.29"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="-0.857143" y="1095.86"/>
+	<anchor name="top" x="0.285714" y="1652.29"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

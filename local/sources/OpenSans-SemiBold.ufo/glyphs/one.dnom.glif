@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.dnom" format="2">
+	<advance width="776"/>
+	<outline>
+		<contour>
+			<point x="552.857" y="877" type="line"/>
+			<point x="384.714" y="877" type="line"/>
+			<point x="62.4286" y="637.714" type="line"/>
+			<point x="173" y="503.429" type="line"/>
+			<point x="257.857" y="568" type="line"/>
+			<point x="290.714" y="590.857"/>
+			<point x="322" y="616.714"/>
+			<point x="344" y="642.714" type="curve"/>
+			<point x="340.571" y="601.571"/>
+			<point x="336.286" y="471"/>
+			<point x="336.286" y="418" type="curve" smooth="yes"/>
+			<point x="336.286" y="0" type="line"/>
+			<point x="552.857" y="0" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>onesuperior</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Number</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Fraction</string>
+		</dict>
+	</lib>
+</glyph>

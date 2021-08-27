@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni030103040308" format="2">
+	<outline>
+		<contour>
+			<point x="688.429" y="1643.29" type="line"/>
+			<point x="107.571" y="1643.29" type="line"/>
+			<point x="107.571" y="1545.14" type="line"/>
+			<point x="688.429" y="1545.14" type="line"/>
+		</contour>
+		<contour>
+			<point x="201.429" y="1429.57" type="curve" smooth="yes"/>
+			<point x="149.143" y="1429.57"/>
+			<point x="123.857" y="1392.86"/>
+			<point x="123.857" y="1344.71" type="curve" smooth="yes"/>
+			<point x="123.857" y="1294.14"/>
+			<point x="149.143" y="1259.43"/>
+			<point x="201.429" y="1259.43" type="curve" smooth="yes"/>
+			<point x="260.429" y="1259.43"/>
+			<point x="281.714" y="1294.14"/>
+			<point x="281.714" y="1344.71" type="curve" smooth="yes"/>
+			<point x="281.714" y="1392.86"/>
+			<point x="260.429" y="1429.57"/>
+		</contour>
+		<contour>
+			<point x="590.714" y="1429.57" type="curve" smooth="yes"/>
+			<point x="538" y="1429.57"/>
+			<point x="513.429" y="1392.86"/>
+			<point x="513.429" y="1344.71" type="curve" smooth="yes"/>
+			<point x="513.429" y="1294.14"/>
+			<point x="538" y="1259.43"/>
+			<point x="590.714" y="1259.43" type="curve" smooth="yes"/>
+			<point x="650" y="1259.43"/>
+			<point x="670.571" y="1294.14"/>
+			<point x="670.571" y="1344.71" type="curve" smooth="yes"/>
+			<point x="670.571" y="1392.86"/>
+			<point x="650" y="1429.57"/>
+		</contour>
+		<contour>
+			<point x="648.571" y="1972.71" type="line"/>
+			<point x="490" y="1972.71" type="line"/>
+			<point x="451.857" y="1907.14"/>
+			<point x="382.143" y="1818"/>
+			<point x="323.429" y="1765.86" type="curve"/>
+			<point x="323.429" y="1743.71" type="line"/>
+			<point x="414.143" y="1743.71" type="line"/>
+			<point x="502.714" y="1804.14"/>
+			<point x="594.429" y="1895.43"/>
+			<point x="648.571" y="1955.86" type="curve"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="398.143" y="1095.86"/>
+	<anchor name="top" x="399.571" y="1972.71"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.originalWidth</key>
+			<integer>889</integer>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

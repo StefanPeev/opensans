@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tsadidagesh-hb" format="2">
+	<unicode hex="FB46"/>
+	<advance width="1107"/>
+	<outline>
+		<component base="tsadi-hb"/>
+		<component base="dagesh-hb" xyScale="0" xOffset="253.714" yOffset="-77.4286"/>
+	</outline>
+	<note>
+		uniFB46
+	</note>
+</glyph>

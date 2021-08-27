@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02F3" format="2">
+	<unicode hex="02F3"/>
+	<advance width="675"/>
+	<outline>
+		<contour>
+			<point x="333.143" y="-575.571" type="curve" smooth="yes"/>
+			<point x="469" y="-575.571"/>
+			<point x="575.286" y="-484.714"/>
+			<point x="575.286" y="-342.571" type="curve" smooth="yes"/>
+			<point x="575.286" y="-206.714"/>
+			<point x="466.714" y="-111.857"/>
+			<point x="333.143" y="-111.857" type="curve" smooth="yes"/>
+			<point x="194.429" y="-111.857"/>
+			<point x="93" y="-205"/>
+			<point x="93" y="-343.714" type="curve" smooth="yes"/>
+			<point x="93" y="-485.571"/>
+			<point x="195.286" y="-575.571"/>
+		</contour>
+		<contour>
+			<point x="334.286" y="-458.571" type="curve" smooth="yes"/>
+			<point x="262.857" y="-458.571"/>
+			<point x="219.714" y="-408.571"/>
+			<point x="219.714" y="-343.714" type="curve" smooth="yes"/>
+			<point x="219.714" y="-278.857"/>
+			<point x="268.857" y="-228.857"/>
+			<point x="334.286" y="-228.857" type="curve" smooth="yes"/>
+			<point x="398.286" y="-228.857"/>
+			<point x="449.143" y="-278.857"/>
+			<point x="449.143" y="-343.714" type="curve" smooth="yes"/>
+			<point x="449.143" y="-408.571"/>
+			<point x="400.571" y="-458.571"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Symbol</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Modifier</string>
+		</dict>
+	</lib>
+</glyph>

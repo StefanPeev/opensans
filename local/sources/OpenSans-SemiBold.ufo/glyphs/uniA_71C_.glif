@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA71C" format="2">
+	<unicode hex="A71C"/>
+	<advance width="982"/>
+	<outline>
+		<contour>
+			<point x="491.429" y="1204.43" type="line"/>
+			<point x="792.286" y="1556" type="line"/>
+			<point x="553" y="1556" type="line"/>
+			<point x="553" y="1823" type="line"/>
+			<point x="429.429" y="1823" type="line"/>
+			<point x="429.429" y="1556" type="line"/>
+			<point x="189.857" y="1556" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Modifier</string>
+		</dict>
+	</lib>
+</glyph>

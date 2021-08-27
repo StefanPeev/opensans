@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="swungdash" format="2">
+	<unicode hex="2053"/>
+	<advance width="2048"/>
+	<outline>
+		<contour>
+			<point x="1543.57" y="624" type="curve" smooth="yes"/>
+			<point x="1276.43" y="624"/>
+			<point x="844.714" y="795"/>
+			<point x="553.571" y="795" type="curve" smooth="yes"/>
+			<point x="302.286" y="795"/>
+			<point x="116.143" y="651"/>
+			<point x="102.143" y="409.571" type="curve"/>
+			<point x="267.143" y="409.571" type="line"/>
+			<point x="286.857" y="524.143"/>
+			<point x="390.286" y="572"/>
+			<point x="518" y="572" type="curve" smooth="yes"/>
+			<point x="762.714" y="572"/>
+			<point x="1209.29" y="400.714"/>
+			<point x="1507.14" y="400.714" type="curve" smooth="yes"/>
+			<point x="1759.14" y="400.714"/>
+			<point x="1937.57" y="544.714"/>
+			<point x="1959.29" y="784.429" type="curve"/>
+			<point x="1794.43" y="784.429" type="line"/>
+			<point x="1768" y="681.857"/>
+			<point x="1681.71" y="624"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Punctuation</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Other</string>
+		</dict>
+	</lib>
+</glyph>

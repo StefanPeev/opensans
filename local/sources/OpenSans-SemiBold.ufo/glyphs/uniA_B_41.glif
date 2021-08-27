@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniAB41" format="2">
+	<unicode hex="AB41"/>
+	<advance width="1984"/>
+	<outline>
+		<component base="oe" xScale="-1" yScale="-1" xOffset="1983.57" yOffset="1118.14"/>
+		<contour>
+			<point x="1060.86" y="-95.1429" type="line"/>
+			<point x="1777.86" y="1123.57" type="line"/>
+			<point x="1649" y="1193.57" type="line"/>
+			<point x="931.143" y="-26.5714" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>oe</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

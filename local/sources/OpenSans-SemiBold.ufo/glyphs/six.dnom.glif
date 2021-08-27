@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="six.dnom" format="2">
+	<advance width="776"/>
+	<outline>
+		<contour>
+			<point x="525.857" y="897" type="curve" smooth="yes"/>
+			<point x="151.857" y="897"/>
+			<point x="46.1429" y="667.857"/>
+			<point x="46.1429" y="362.429" type="curve" smooth="yes"/>
+			<point x="46.1429" y="111.857"/>
+			<point x="189.286" y="-21"/>
+			<point x="400.857" y="-21" type="curve" smooth="yes"/>
+			<point x="597.857" y="-21"/>
+			<point x="723.714" y="96.5714"/>
+			<point x="723.714" y="289" type="curve" smooth="yes"/>
+			<point x="723.714" y="467.286"/>
+			<point x="631.714" y="560.429"/>
+			<point x="478.571" y="560.429" type="curve" smooth="yes"/>
+			<point x="375.429" y="560.429"/>
+			<point x="313.571" y="522.571"/>
+			<point x="273.429" y="465" type="curve"/>
+			<point x="265.143" y="465" type="line"/>
+			<point x="273.714" y="635.429"/>
+			<point x="349.857" y="726"/>
+			<point x="534.714" y="726" type="curve" smooth="yes"/>
+			<point x="592.714" y="726"/>
+			<point x="633.714" y="720.286"/>
+			<point x="666.571" y="714.286" type="curve"/>
+			<point x="666.571" y="885.286" type="line"/>
+			<point x="627.714" y="892.429"/>
+			<point x="570.857" y="897"/>
+		</contour>
+		<contour>
+			<point x="391.143" y="423" type="curve" smooth="yes"/>
+			<point x="465" y="423"/>
+			<point x="507.286" y="375.143"/>
+			<point x="507.286" y="289" type="curve" smooth="yes"/>
+			<point x="507.286" y="194.143"/>
+			<point x="463.857" y="142.857"/>
+			<point x="381.571" y="142.857" type="curve" smooth="yes"/>
+			<point x="299.143" y="142.857"/>
+			<point x="254.714" y="216"/>
+			<point x="254.714" y="301.286" type="curve" smooth="yes"/>
+			<point x="254.714" y="373.429"/>
+			<point x="313.714" y="423"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>sixsuperior</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Number</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Fraction</string>
+		</dict>
+	</lib>
+</glyph>

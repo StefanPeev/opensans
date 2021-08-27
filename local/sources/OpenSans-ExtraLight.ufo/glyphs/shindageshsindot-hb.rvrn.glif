@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="shindageshsindot-hb.rvrn" format="2">
+	<advance width="1404"/>
+	<outline>
+		<component base="shin-hb"/>
+		<component base="dagesh-hb.small" xyScale="0" xOffset="785.143" yOffset="38.7143"/>
+		<component base="sindot-hb" xyScale="0" xOffset="131" yOffset="155.714"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>hebrew</string>
+		</dict>
+	</lib>
+	<note>
+		uniFB2D
+	</note>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutecomb" format="2">
+	<unicode hex="0301"/>
+	<outline>
+		<contour>
+			<point x="-91.5" y="1569" type="line"/>
+			<point x="-283.571" y="1569" type="line"/>
+			<point x="-346.071" y="1479.57"/>
+			<point x="-476.929" y="1338.93"/>
+			<point x="-561.071" y="1259.07" type="curve"/>
+			<point x="-561.071" y="1241" type="line"/>
+			<point x="-440.571" y="1241" type="line"/>
+			<point x="-331.5" y="1323.86"/>
+			<point x="-172.071" y="1464.86"/>
+			<point x="-91.5" y="1551.86" type="curve"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="-430.714" y="1099.57"/>
+	<anchor name="top" x="-430.714" y="1568.29"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>acute</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

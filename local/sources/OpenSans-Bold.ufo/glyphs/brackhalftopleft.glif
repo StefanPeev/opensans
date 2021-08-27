@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brackhalftopleft" format="2">
+	<unicode hex="2E22"/>
+	<advance width="702"/>
+	<outline>
+		<contour>
+			<point x="376.714" y="543.857" type="line"/>
+			<point x="376.714" y="1275.57" type="line"/>
+			<point x="645.714" y="1275.57" type="line"/>
+			<point x="645.714" y="1462" type="line"/>
+			<point x="166.286" y="1462" type="line"/>
+			<point x="166.286" y="543.857" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Punctuation</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Parenthesis</string>
+		</dict>
+	</lib>
+</glyph>

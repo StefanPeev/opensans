@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FC1" format="2">
+	<unicode hex="1FC1"/>
+	<advance width="1197"/>
+	<outline>
+		<contour>
+			<point x="210.286" y="1535.86" type="curve"/>
+			<point x="350.143" y="1535.86" type="line"/>
+			<point x="365.571" y="1611.57"/>
+			<point x="396" y="1628.71"/>
+			<point x="430.857" y="1628.71" type="curve" smooth="yes"/>
+			<point x="531.857" y="1628.71"/>
+			<point x="642.857" y="1538.14"/>
+			<point x="765.143" y="1538.14" type="curve" smooth="yes"/>
+			<point x="876.143" y="1538.14"/>
+			<point x="965.286" y="1616.14"/>
+			<point x="981.571" y="1792.29" type="curve"/>
+			<point x="839.143" y="1792.29" type="line"/>
+			<point x="825.857" y="1717"/>
+			<point x="794.714" y="1699.43"/>
+			<point x="760" y="1699.43" type="curve" smooth="yes"/>
+			<point x="653.571" y="1699.43"/>
+			<point x="538.571" y="1790"/>
+			<point x="430.857" y="1790" type="curve" smooth="yes"/>
+			<point x="307" y="1790"/>
+			<point x="225.429" y="1715.71"/>
+		</contour>
+		<contour>
+			<point x="382.571" y="1207" type="curve" smooth="yes"/>
+			<point x="466.143" y="1207"/>
+			<point x="521" y="1253"/>
+			<point x="521" y="1331.71" type="curve" smooth="yes"/>
+			<point x="521" y="1415.29"/>
+			<point x="466.143" y="1461.71"/>
+			<point x="382.571" y="1461.71" type="curve" smooth="yes"/>
+			<point x="296.714" y="1461.71"/>
+			<point x="245.571" y="1415.29"/>
+			<point x="245.571" y="1331.71" type="curve" smooth="yes"/>
+			<point x="245.571" y="1253"/>
+			<point x="296.714" y="1207"/>
+		</contour>
+		<contour>
+			<point x="795" y="1207" type="curve" smooth="yes"/>
+			<point x="880.286" y="1207"/>
+			<point x="933.429" y="1253"/>
+			<point x="933.429" y="1331.71" type="curve" smooth="yes"/>
+			<point x="933.429" y="1415.29"/>
+			<point x="880.286" y="1461.71"/>
+			<point x="795" y="1461.71" type="curve" smooth="yes"/>
+			<point x="706.571" y="1461.71"/>
+			<point x="658" y="1415.29"/>
+			<point x="658" y="1331.71" type="curve" smooth="yes"/>
+			<point x="658" y="1253"/>
+			<point x="706.571" y="1207"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="590.857" y="1125.57"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>greek</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Spacing</string>
+		</dict>
+	</lib>
+</glyph>

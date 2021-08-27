@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eth" format="2">
+	<unicode hex="00F0"/>
+	<advance width="1186"/>
+	<outline>
+		<contour>
+			<point x="435.429" y="1556.57" type="curve"/>
+			<point x="385.286" y="1473.86" type="line"/>
+			<point x="458.429" y="1440.71"/>
+			<point x="531.857" y="1395"/>
+			<point x="584.286" y="1353.71" type="curve"/>
+			<point x="363.429" y="1219.57" type="line"/>
+			<point x="416.143" y="1137.71" type="line"/>
+			<point x="656.714" y="1285.29" type="line"/>
+			<point x="782.429" y="1167.14"/>
+			<point x="863.571" y="1000.14"/>
+			<point x="902.571" y="839" type="curve"/>
+			<point x="897.429" y="837.857" type="line"/>
+			<point x="838.857" y="915"/>
+			<point x="745.714" y="969.714"/>
+			<point x="569.857" y="969.714" type="curve" smooth="yes"/>
+			<point x="306.429" y="969.714"/>
+			<point x="108.714" y="783.143"/>
+			<point x="108.714" y="468.714" type="curve" smooth="yes"/>
+			<point x="108.714" y="167.143"/>
+			<point x="289.714" y="-20"/>
+			<point x="586.143" y="-20" type="curve" smooth="yes"/>
+			<point x="902.857" y="-20"/>
+			<point x="1070.57" y="231.143"/>
+			<point x="1070.57" y="563.571" type="curve" smooth="yes"/>
+			<point x="1070.57" y="879.714"/>
+			<point x="969.571" y="1140.14"/>
+			<point x="759.714" y="1348.86" type="curve"/>
+			<point x="953.286" y="1467.29" type="line"/>
+			<point x="901.857" y="1550" type="line"/>
+			<point x="682.143" y="1413" type="line"/>
+			<point x="617.714" y="1463.43"/>
+			<point x="537.429" y="1510.14"/>
+		</contour>
+		<contour>
+			<point x="594.429" y="853" type="curve" smooth="yes"/>
+			<point x="852.429" y="853"/>
+			<point x="916.286" y="684"/>
+			<point x="916.286" y="572.857" type="curve" smooth="yes"/>
+			<point x="916.286" y="259.857"/>
+			<point x="799" y="95.8571"/>
+			<point x="587.286" y="95.8571" type="curve" smooth="yes"/>
+			<point x="386.286" y="95.8571"/>
+			<point x="262.571" y="231.143"/>
+			<point x="262.571" y="469.286" type="curve" smooth="yes"/>
+			<point x="262.571" y="715.571"/>
+			<point x="398.571" y="853"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="592.714" y="0"/>
+	<anchor name="top" x="592.714" y="1557.14"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

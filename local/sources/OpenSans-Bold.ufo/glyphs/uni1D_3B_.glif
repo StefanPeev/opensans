@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1D3B" format="2">
+	<unicode hex="1D3B"/>
+	<advance width="1084"/>
+	<outline>
+		<contour>
+			<point x="107" y="588" type="line"/>
+			<point x="398.571" y="588" type="line"/>
+			<point x="781.714" y="1232.71" type="line"/>
+			<point x="788" y="1232.71" type="line"/>
+			<point x="781.714" y="1173.57"/>
+			<point x="776.571" y="1080.57"/>
+			<point x="776.571" y="1014.57" type="curve" smooth="yes"/>
+			<point x="776.571" y="588" type="line"/>
+			<point x="977" y="588" type="line"/>
+			<point x="977" y="1464" type="line"/>
+			<point x="685.143" y="1464" type="line"/>
+			<point x="304" y="828.571" type="line"/>
+			<point x="300.286" y="828.571" type="line"/>
+			<point x="304" y="884.429"/>
+			<point x="309.143" y="977"/>
+			<point x="309.143" y="1037.43" type="curve" smooth="yes"/>
+			<point x="309.143" y="1464" type="line"/>
+			<point x="107" y="1464" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="541.857" y="588"/>
+	<anchor name="top" x="541.857" y="1464"/>
+	<anchor name="topright" x="1063.14" y="1464"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Modifier</string>
+		</dict>
+	</lib>
+</glyph>

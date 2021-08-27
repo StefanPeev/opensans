@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threesuperior" format="2">
+	<unicode hex="00B3"/>
+	<advance width="796"/>
+	<outline>
+		<contour>
+			<point x="397.714" y="1746.43" type="curve" smooth="yes"/>
+			<point x="256.857" y="1746.43"/>
+			<point x="145.286" y="1698"/>
+			<point x="64.2857" y="1635.86" type="curve"/>
+			<point x="167.429" y="1483.71" type="line"/>
+			<point x="238.571" y="1536.71"/>
+			<point x="296.571" y="1558.29"/>
+			<point x="367.714" y="1558.29" type="curve" smooth="yes"/>
+			<point x="443.286" y="1558.29"/>
+			<point x="475" y="1519.14"/>
+			<point x="475" y="1476.86" type="curve" smooth="yes"/>
+			<point x="475" y="1422.43"/>
+			<point x="440.143" y="1383.29"/>
+			<point x="323.286" y="1383.29" type="curve" smooth="yes"/>
+			<point x="235.143" y="1383.29" type="line"/>
+			<point x="235.143" y="1208.86" type="line"/>
+			<point x="343.857" y="1208.86" type="line" smooth="yes"/>
+			<point x="471.571" y="1208.86"/>
+			<point x="495" y="1170.71"/>
+			<point x="495" y="1121.14" type="curve" smooth="yes"/>
+			<point x="495" y="1060.43"/>
+			<point x="441.857" y="1033.86"/>
+			<point x="358.714" y="1033.86" type="curve" smooth="yes"/>
+			<point x="253.571" y="1033.86"/>
+			<point x="153" y="1056"/>
+			<point x="67.5714" y="1112.29" type="curve"/>
+			<point x="67.5714" y="903.571" type="line"/>
+			<point x="147.857" y="858.857"/>
+			<point x="253.286" y="837.143"/>
+			<point x="369" y="837.143" type="curve" smooth="yes"/>
+			<point x="596.857" y="837.143"/>
+			<point x="735.286" y="927.714"/>
+			<point x="735.286" y="1092" type="curve" smooth="yes"/>
+			<point x="735.286" y="1206.43"/>
+			<point x="673" y="1274.57"/>
+			<point x="546.286" y="1306.43" type="curve"/>
+			<point x="546.286" y="1313.86" type="line"/>
+			<point x="659.571" y="1353.57"/>
+			<point x="707.429" y="1427.86"/>
+			<point x="707.429" y="1531.71" type="curve" smooth="yes"/>
+			<point x="707.429" y="1661.57"/>
+			<point x="592.857" y="1746.43"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Number</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Small</string>
+		</dict>
+	</lib>
+</glyph>

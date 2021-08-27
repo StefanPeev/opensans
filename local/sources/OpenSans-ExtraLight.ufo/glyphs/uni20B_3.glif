@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni20B3" format="2">
+	<unicode hex="20B3"/>
+	<advance width="1186"/>
+	<outline>
+		<contour>
+			<point x="645.857" y="1462" type="line"/>
+			<point x="540.429" y="1462" type="line"/>
+			<point x="315.857" y="857.571" type="line"/>
+			<point x="6.28571" y="857.571" type="line"/>
+			<point x="6.28571" y="790.286" type="line"/>
+			<point x="292.857" y="790.286" type="line"/>
+			<point x="189.857" y="516.571" type="line"/>
+			<point x="6.28571" y="516.571" type="line"/>
+			<point x="6.28571" y="449.286" type="line"/>
+			<point x="166.714" y="449.286" type="line"/>
+			<point x="0" y="0" type="line"/>
+			<point x="103.571" y="0" type="line"/>
+			<point x="266.857" y="449.286" type="line"/>
+			<point x="918.571" y="449.286" type="line"/>
+			<point x="1083.14" y="0" type="line"/>
+			<point x="1186.71" y="0" type="line"/>
+			<point x="1019.29" y="449.286" type="line"/>
+			<point x="1178.29" y="449.286" type="line"/>
+			<point x="1178.29" y="516.571" type="line"/>
+			<point x="996.286" y="516.571" type="line"/>
+			<point x="893.571" y="790.286" type="line"/>
+			<point x="1178.29" y="790.286" type="line"/>
+			<point x="1178.29" y="857.571" type="line"/>
+			<point x="870.571" y="857.571" type="line"/>
+		</contour>
+		<contour>
+			<point x="794.714" y="790.286" type="line"/>
+			<point x="895.571" y="516.571" type="line"/>
+			<point x="291.571" y="516.571" type="line"/>
+			<point x="391.714" y="790.286" type="line"/>
+		</contour>
+		<contour>
+			<point x="592.286" y="1354.14" type="curve"/>
+			<point x="611.143" y="1294"/>
+			<point x="642.143" y="1203.71"/>
+			<point x="769.571" y="857.571" type="curve"/>
+			<point x="415.857" y="857.571" type="line"/>
+			<point x="529.571" y="1162"/>
+			<point x="569.143" y="1278.29"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Symbol</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Currency</string>
+		</dict>
+	</lib>
+</glyph>

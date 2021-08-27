@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA695" format="2">
+	<unicode hex="A695"/>
+	<advance width="1204"/>
+	<outline>
+		<contour>
+			<point x="177" y="1294.43" type="curve" smooth="yes"/>
+			<point x="177" y="0" type="line"/>
+			<point x="279.143" y="0" type="line"/>
+			<point x="279.143" y="600.857" type="line" smooth="yes"/>
+			<point x="279.143" y="885.571"/>
+			<point x="421.857" y="1021.71"/>
+			<point x="644.429" y="1021.71" type="curve" smooth="yes"/>
+			<point x="827.286" y="1021.71"/>
+			<point x="933.714" y="920.571"/>
+			<point x="933.714" y="694.286" type="curve" smooth="yes"/>
+			<point x="933.714" y="0" type="line"/>
+			<point x="1035.29" y="0" type="line"/>
+			<point x="1035.29" y="713" type="line" smooth="yes"/>
+			<point x="1035.29" y="984.571"/>
+			<point x="894.143" y="1109.29"/>
+			<point x="662.571" y="1109.29" type="curve" smooth="yes"/>
+			<point x="446.143" y="1109.29"/>
+			<point x="326.857" y="1001.14"/>
+			<point x="279.429" y="873.857" type="curve"/>
+			<point x="272.571" y="873.857" type="line"/>
+			<point x="276" y="928"/>
+			<point x="279.143" y="971.857"/>
+			<point x="279.143" y="1035" type="curve" smooth="yes"/>
+			<point x="279.143" y="1289.86" type="line" smooth="yes"/>
+			<point x="279.143" y="1410.43"/>
+			<point x="328.429" y="1479.71"/>
+			<point x="429.429" y="1479.71" type="curve" smooth="yes"/>
+			<point x="472.571" y="1479.71"/>
+			<point x="516.143" y="1474.86"/>
+			<point x="556.857" y="1458" type="curve"/>
+			<point x="568.857" y="1539.57" type="line"/>
+			<point x="525.857" y="1554.86"/>
+			<point x="477.857" y="1565.29"/>
+			<point x="416.286" y="1565.29" type="curve" smooth="yes"/>
+			<point x="277.714" y="1565.29"/>
+			<point x="177" y="1478.57"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>cyrillic</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

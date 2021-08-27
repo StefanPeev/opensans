@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jdotless" format="2">
+	<unicode hex="0237"/>
+	<advance width="493"/>
+	<outline>
+		<contour>
+			<point x="46.7143" y="-492" type="curve" smooth="yes"/>
+			<point x="218.714" y="-492"/>
+			<point x="320.286" y="-379.143"/>
+			<point x="320.286" y="-202" type="curve" smooth="yes"/>
+			<point x="320.286" y="1095.86" type="line"/>
+			<point x="170" y="1095.86" type="line"/>
+			<point x="170" y="-172.857" type="line" smooth="yes"/>
+			<point x="170" y="-302.714"/>
+			<point x="116.429" y="-365.714"/>
+			<point x="21" y="-365.714" type="curve" smooth="yes"/>
+			<point x="-21.1429" y="-365.714"/>
+			<point x="-61" y="-361.143"/>
+			<point x="-102.571" y="-344.857" type="curve"/>
+			<point x="-102.571" y="-469.857" type="line"/>
+			<point x="-64.5714" y="-482.429"/>
+			<point x="-8.42857" y="-492"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="46.7143" y="-492"/>
+	<anchor name="top" x="247" y="1095.86"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsWidth</key>
+			<string>=j</string>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+			<string>=j</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

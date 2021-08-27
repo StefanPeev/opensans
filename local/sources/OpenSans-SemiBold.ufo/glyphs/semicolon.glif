@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="semicolon" format="2">
+	<unicode hex="003B"/>
+	<advance width="563"/>
+	<outline>
+		<contour>
+			<point x="427.143" y="281.571" type="line"/>
+			<point x="166.571" y="281.571" type="line"/>
+			<point x="146.429" y="119.857"/>
+			<point x="107.714" y="-88.8571"/>
+			<point x="63" y="-279" type="curve"/>
+			<point x="275.143" y="-279" type="line"/>
+			<point x="339.286" y="-130.143"/>
+			<point x="403.571" y="109.571"/>
+			<point x="438.857" y="258" type="curve"/>
+		</contour>
+		<contour>
+			<point x="115.429" y="976" type="curve" smooth="yes"/>
+			<point x="115.429" y="868.143"/>
+			<point x="185.429" y="820.857"/>
+			<point x="280.714" y="820.857" type="curve" smooth="yes"/>
+			<point x="374" y="820.857"/>
+			<point x="444.571" y="868.143"/>
+			<point x="444.571" y="976" type="curve" smooth="yes"/>
+			<point x="444.571" y="1085.43"/>
+			<point x="374" y="1130.71"/>
+			<point x="280.714" y="1130.71" type="curve" smooth="yes"/>
+			<point x="185.429" y="1130.71"/>
+			<point x="115.429" y="1085.43"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Punctuation</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Other</string>
+		</dict>
+	</lib>
+</glyph>

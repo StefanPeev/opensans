@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cyrillichookleft" format="2">
+	<advance width="419"/>
+	<outline>
+		<contour>
+			<point x="246.571" y="-238.429" type="curve" smooth="yes"/>
+			<point x="246.571" y="-305.143"/>
+			<point x="211.429" y="-338.571"/>
+			<point x="145.571" y="-338.571" type="curve" smooth="yes"/>
+			<point x="108.286" y="-338.571"/>
+			<point x="63.5714" y="-330.857"/>
+			<point x="38.5714" y="-321.143" type="curve"/>
+			<point x="38.5714" y="-443.857" type="line"/>
+			<point x="70.4286" y="-454.429"/>
+			<point x="115.143" y="-464.571"/>
+			<point x="171.429" y="-464.571" type="curve" smooth="yes"/>
+			<point x="292" y="-464.571"/>
+			<point x="385.714" y="-395"/>
+			<point x="385.714" y="-269.143" type="curve" smooth="yes"/>
+			<point x="385.714" y="-173.714"/>
+			<point x="329.857" y="-85.7143"/>
+			<point x="194" y="13.1429" type="curve"/>
+			<point x="81.5714" y="0" type="line"/>
+			<point x="175.714" y="-80"/>
+			<point x="246.571" y="-152.429"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string></string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="daletdagesh-hb" format="2">
+	<unicode hex="FB33"/>
+	<advance width="1093"/>
+	<outline>
+		<component base="dalet-hb"/>
+		<component base="dagesh-hb" xyScale="0" xOffset="300.429" yOffset="39.5714"/>
+	</outline>
+	<note>
+		uniFB33
+	</note>
+</glyph>

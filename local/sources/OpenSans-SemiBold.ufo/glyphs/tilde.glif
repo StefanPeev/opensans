@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tilde" format="2">
+	<unicode hex="02DC"/>
+	<advance width="955"/>
+	<outline>
+		<contour>
+			<point x="82" y="1245.29" type="curve"/>
+			<point x="225.143" y="1245.29" type="line"/>
+			<point x="240.714" y="1343.29"/>
+			<point x="279.286" y="1358.43"/>
+			<point x="312.857" y="1358.43" type="curve" smooth="yes"/>
+			<point x="418.286" y="1358.43"/>
+			<point x="518.429" y="1246.14"/>
+			<point x="644.571" y="1246.14" type="curve" smooth="yes"/>
+			<point x="767.571" y="1246.14"/>
+			<point x="858.429" y="1334.43"/>
+			<point x="873.714" y="1548.14" type="curve"/>
+			<point x="728.143" y="1548.14" type="line"/>
+			<point x="714.714" y="1451"/>
+			<point x="673.714" y="1434.43"/>
+			<point x="639.429" y="1434.43" type="curve" smooth="yes"/>
+			<point x="534.429" y="1434.43"/>
+			<point x="425.429" y="1546.71"/>
+			<point x="314" y="1546.71" type="curve" smooth="yes"/>
+			<point x="178.571" y="1546.71"/>
+			<point x="96.2857" y="1462.43"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Spacing</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="homotheticabovecomb" format="2">
+	<unicode hex="034B"/>
+	<outline>
+		<contour>
+			<point x="368.286" y="1669.29" type="curve"/>
+			<point x="252.429" y="1669.29" type="line"/>
+			<point x="242.143" y="1573.71"/>
+			<point x="210.286" y="1540"/>
+			<point x="155.143" y="1540" type="curve" smooth="yes"/>
+			<point x="43" y="1540"/>
+			<point x="-43.4286" y="1665.43"/>
+			<point x="-167.143" y="1665.43" type="curve" smooth="yes"/>
+			<point x="-298.429" y="1665.43"/>
+			<point x="-367.714" y="1579.71"/>
+			<point x="-381.571" y="1396.71" type="curve"/>
+			<point x="-266.429" y="1396.71" type="line"/>
+			<point x="-255.857" y="1490"/>
+			<point x="-222.571" y="1525.57"/>
+			<point x="-167.143" y="1525.57" type="curve" smooth="yes"/>
+			<point x="-59.5714" y="1525.57"/>
+			<point x="26.8571" y="1400.14"/>
+			<point x="160.286" y="1400.14" type="curve" smooth="yes"/>
+			<point x="283" y="1400.14"/>
+			<point x="356" y="1487.86"/>
+		</contour>
+		<contour>
+			<point x="0" y="1373.43" type="curve" smooth="yes"/>
+			<point x="-66.1429" y="1373.43"/>
+			<point x="-103" y="1332.71"/>
+			<point x="-103" y="1264.86" type="curve" smooth="yes"/>
+			<point x="-103" y="1198.43"/>
+			<point x="-66.1429" y="1158.43"/>
+			<point x="0" y="1158.43" type="curve" smooth="yes"/>
+			<point x="68.4286" y="1158.43"/>
+			<point x="105.857" y="1198.43"/>
+			<point x="105.857" y="1264.86" type="curve" smooth="yes"/>
+			<point x="105.857" y="1332.71"/>
+			<point x="68.4286" y="1373.43"/>
+		</contour>
+		<contour>
+			<point x="-0.857143" y="1911.29" type="curve" smooth="yes"/>
+			<point x="-67" y="1911.29"/>
+			<point x="-103.857" y="1871.14"/>
+			<point x="-103.857" y="1803.71" type="curve" smooth="yes"/>
+			<point x="-103.857" y="1737.29"/>
+			<point x="-67" y="1696.29"/>
+			<point x="-0.857143" y="1696.29" type="curve" smooth="yes"/>
+			<point x="67.5714" y="1696.29"/>
+			<point x="105" y="1737.29"/>
+			<point x="105" y="1803.71" type="curve" smooth="yes"/>
+			<point x="105" y="1871.14"/>
+			<point x="67.5714" y="1911.29"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="-7.42857" y="1028.43"/>
+	<anchor name="top" x="-5.14286" y="1911.29"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

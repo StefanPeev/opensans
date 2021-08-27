@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fiveeighths" format="2">
+	<unicode hex="215D"/>
+	<advance width="1700"/>
+	<outline>
+		<contour>
+			<point x="406.929" y="0" type="line"/>
+			<point x="551.714" y="0" type="line"/>
+			<point x="1310.5" y="1462" type="line"/>
+			<point x="1165.71" y="1462" type="line"/>
+		</contour>
+		<contour>
+			<point x="328.357" y="571" type="curve" smooth="yes"/>
+			<point x="529.071" y="571"/>
+			<point x="667.786" y="673.714"/>
+			<point x="667.786" y="861.786" type="curve" smooth="yes"/>
+			<point x="667.786" y="1019"/>
+			<point x="563.357" y="1134.79"/>
+			<point x="369.143" y="1134.79" type="curve" smooth="yes"/>
+			<point x="323.857" y="1134.79"/>
+			<point x="275.286" y="1127.64"/>
+			<point x="233.429" y="1120.36" type="curve"/>
+			<point x="253.214" y="1355.29" type="line"/>
+			<point x="626" y="1355.29" type="line"/>
+			<point x="626" y="1464.86" type="line"/>
+			<point x="155.929" y="1464.86" type="line"/>
+			<point x="122.071" y="1042.93" type="line"/>
+			<point x="192" y="1016.64" type="line"/>
+			<point x="224.929" y="1028.57"/>
+			<point x="276.5" y="1037.71"/>
+			<point x="330.857" y="1037.71" type="curve" smooth="yes"/>
+			<point x="469.857" y="1037.71"/>
+			<point x="533.571" y="966.071"/>
+			<point x="533.571" y="861.786" type="curve" smooth="yes"/>
+			<point x="533.571" y="744.143"/>
+			<point x="454.929" y="677.643"/>
+			<point x="317.643" y="677.643" type="curve" smooth="yes"/>
+			<point x="232.357" y="677.643"/>
+			<point x="157.429" y="703.429"/>
+			<point x="79.8571" y="746.571" type="curve"/>
+			<point x="79.8571" y="627.429" type="line"/>
+			<point x="144.643" y="594.429"/>
+			<point x="223.643" y="571"/>
+		</contour>
+		<contour>
+			<point x="1352.79" y="87.5" type="curve" smooth="yes"/>
+			<point x="1241.71" y="87.5"/>
+			<point x="1173.21" y="149.429"/>
+			<point x="1173.21" y="235.929" type="curve" smooth="yes"/>
+			<point x="1173.21" y="322.5"/>
+			<point x="1226.79" y="374.071"/>
+			<point x="1342.93" y="405.714" type="curve"/>
+			<point x="1367.93" y="399.143" type="line" smooth="yes"/>
+			<point x="1502.79" y="364.571"/>
+			<point x="1533.43" y="303.857"/>
+			<point x="1533.43" y="235.643" type="curve" smooth="yes"/>
+			<point x="1533.43" y="141.786"/>
+			<point x="1469.14" y="87.5"/>
+		</contour>
+		<contour>
+			<point x="1354.21" y="-12.2143" type="curve" smooth="yes"/>
+			<point x="1540.43" y="-12.2143"/>
+			<point x="1661.43" y="90.2857"/>
+			<point x="1661.43" y="234.929" type="curve" smooth="yes"/>
+			<point x="1661.43" y="342"/>
+			<point x="1604.93" y="414.571"/>
+			<point x="1468.71" y="461" type="curve"/>
+			<point x="1582.43" y="512.571"/>
+			<point x="1632.21" y="578.357"/>
+			<point x="1632.21" y="674.429" type="curve" smooth="yes"/>
+			<point x="1632.21" y="801.857"/>
+			<point x="1527.71" y="889.857"/>
+			<point x="1352.36" y="889.857" type="curve" smooth="yes"/>
+			<point x="1181.43" y="889.857"/>
+			<point x="1072.21" y="800.714"/>
+			<point x="1072.21" y="674.571" type="curve" smooth="yes"/>
+			<point x="1072.21" y="579.429"/>
+			<point x="1117.07" y="508"/>
+			<point x="1224.86" y="458.714" type="curve"/>
+			<point x="1096.57" y="405.071"/>
+			<point x="1045.64" y="345.857"/>
+			<point x="1045.64" y="232.357" type="curve" smooth="yes"/>
+			<point x="1045.64" y="85.4286"/>
+			<point x="1161.86" y="-12.2143"/>
+		</contour>
+		<contour>
+			<point x="1352.93" y="507.286" type="curve"/>
+			<point x="1249.64" y="540.714"/>
+			<point x="1197" y="585.357"/>
+			<point x="1197" y="664.214" type="curve" smooth="yes"/>
+			<point x="1197" y="739.714"/>
+			<point x="1254.79" y="790.714"/>
+			<point x="1350.93" y="790.714" type="curve" smooth="yes"/>
+			<point x="1449.5" y="790.714"/>
+			<point x="1506.79" y="742.429"/>
+			<point x="1506.79" y="665.5" type="curve" smooth="yes"/>
+			<point x="1506.79" y="588.286"/>
+			<point x="1459.07" y="538.929"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Number</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Fraction</string>
+		</dict>
+	</lib>
+</glyph>

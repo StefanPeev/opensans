@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zigzagabovecomb" format="2">
+	<unicode hex="035B"/>
+	<outline>
+		<contour>
+			<point x="198.571" y="1446.57" type="line"/>
+			<point x="-96" y="1446.57" type="line"/>
+			<point x="-52.4286" y="1589.14" type="line"/>
+			<point x="-133.429" y="1589.14" type="line"/>
+			<point x="-202.571" y="1363.29" type="line"/>
+			<point x="92.8571" y="1363.29" type="line"/>
+			<point x="49.2857" y="1220.71" type="line"/>
+			<point x="130.286" y="1220.71" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="-1.42857" y="1088.43"/>
+	<anchor name="top" x="-0.857143" y="1589.14"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

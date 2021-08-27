@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gimelsymbol" format="2">
+	<unicode hex="2137"/>
+	<advance width="816"/>
+	<outline>
+		<contour>
+			<point x="15.1429" y="-49" type="line"/>
+			<point x="296.714" y="118.714" type="line" smooth="yes"/>
+			<point x="373.857" y="165.286"/>
+			<point x="431.429" y="228.714"/>
+			<point x="442.714" y="316.714" type="curve"/>
+			<point x="520.286" y="0" type="line"/>
+			<point x="749" y="0" type="line"/>
+			<point x="624" y="409.429" type="line"/>
+			<point x="606.286" y="471"/>
+			<point x="592.143" y="523.571"/>
+			<point x="592.143" y="578.857" type="curve" smooth="yes"/>
+			<point x="592.143" y="824.714" type="line" smooth="yes"/>
+			<point x="592.143" y="1000.43"/>
+			<point x="567.286" y="1096"/>
+			<point x="404.571" y="1138.43" type="curve"/>
+			<point x="92.8571" y="1222.71" type="line"/>
+			<point x="92.8571" y="1023" type="line"/>
+			<point x="268" y="973.143" type="line" smooth="yes"/>
+			<point x="342.571" y="951.857"/>
+			<point x="369.857" y="920.714"/>
+			<point x="369.857" y="815.857" type="curve" smooth="yes"/>
+			<point x="369.857" y="587.571" type="line" smooth="yes"/>
+			<point x="369.857" y="385.429"/>
+			<point x="296.857" y="352.714"/>
+			<point x="15.1429" y="181.429" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Symbol</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Math</string>
+		</dict>
+	</lib>
+</glyph>

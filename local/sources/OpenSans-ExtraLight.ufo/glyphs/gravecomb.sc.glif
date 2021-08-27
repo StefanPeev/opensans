@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gravecomb.sc" format="2">
+	<advance width="1184"/>
+	<outline>
+		<contour>
+			<point x="615.429" y="1271.29" type="curve"/>
+			<point x="696.429" y="1271.29" type="line"/>
+			<point x="696.429" y="1286.29" type="line"/>
+			<point x="608.286" y="1367.14"/>
+			<point x="476.714" y="1509.29"/>
+			<point x="414.429" y="1598.43" type="curve"/>
+			<point x="289.857" y="1598.43" type="line"/>
+			<point x="289.857" y="1583.43" type="line"/>
+			<point x="366" y="1493.86"/>
+			<point x="505.857" y="1358.14"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="520.286" y="1154.29"/>
+	<anchor name="top" x="494.571" y="1598.43"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Smallcaps</string>
+		</dict>
+	</lib>
+</glyph>

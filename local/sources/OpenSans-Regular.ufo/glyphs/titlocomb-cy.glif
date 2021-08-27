@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="titlocomb-cy" format="2">
+	<unicode hex="0483"/>
+	<outline>
+		<contour>
+			<point x="-769.286" y="1261.29" type="curve"/>
+			<point x="-292.143" y="1261.29" type="line" smooth="yes"/>
+			<point x="-212.571" y="1261.29"/>
+			<point x="-191" y="1312.14"/>
+			<point x="-191" y="1375" type="curve" smooth="yes"/>
+			<point x="-191" y="1437.86"/>
+			<point x="-218.571" y="1477.14"/>
+			<point x="-280" y="1477.14" type="curve" smooth="yes"/>
+			<point x="-331.143" y="1477.14"/>
+			<point x="-363.857" y="1448.57"/>
+			<point x="-365.286" y="1391.14" type="curve"/>
+			<point x="-843.286" y="1391.14" type="line" smooth="yes"/>
+			<point x="-916.286" y="1391.14"/>
+			<point x="-944.714" y="1352.14"/>
+			<point x="-944.714" y="1279.71" type="curve" smooth="yes"/>
+			<point x="-944.714" y="1225"/>
+			<point x="-916.286" y="1175.29"/>
+			<point x="-856.571" y="1175.29" type="curve" smooth="yes"/>
+			<point x="-803.714" y="1175.29"/>
+			<point x="-772.429" y="1200.14"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="-565.286" y="1103.29"/>
+	<anchor name="top" x="-563.571" y="1479.43"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>cyrillic</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

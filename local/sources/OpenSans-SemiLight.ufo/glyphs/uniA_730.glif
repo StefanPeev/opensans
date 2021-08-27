@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA730" format="2">
+	<unicode hex="A730"/>
+	<advance width="795"/>
+	<outline>
+		<contour>
+			<point x="291.857" y="0" type="line"/>
+			<point x="291.857" y="463.929" type="line"/>
+			<point x="738.571" y="463.929" type="line"/>
+			<point x="738.571" y="585.214" type="line"/>
+			<point x="291.857" y="585.214" type="line"/>
+			<point x="291.857" y="977.643" type="line"/>
+			<point x="766.571" y="977.643" type="line"/>
+			<point x="766.571" y="1098.29" type="line"/>
+			<point x="149.643" y="1098.29" type="line"/>
+			<point x="149.643" y="0" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

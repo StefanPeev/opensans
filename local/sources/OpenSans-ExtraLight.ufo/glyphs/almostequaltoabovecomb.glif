@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="almostequaltoabovecomb" format="2">
+	<unicode hex="034C"/>
+	<outline>
+		<contour>
+			<point x="145.857" y="1530.86" type="curve" smooth="yes"/>
+			<point x="250.143" y="1530.86"/>
+			<point x="329.429" y="1611.71"/>
+			<point x="352.143" y="1770.43" type="curve"/>
+			<point x="281.571" y="1770.43" type="line"/>
+			<point x="259" y="1640.86"/>
+			<point x="208" y="1597"/>
+			<point x="146.143" y="1597" type="curve" smooth="yes"/>
+			<point x="54.4286" y="1597"/>
+			<point x="-23.4286" y="1770.71"/>
+			<point x="-150.143" y="1770.71" type="curve" smooth="yes"/>
+			<point x="-264.429" y="1770.71"/>
+			<point x="-338" y="1677"/>
+			<point x="-351.429" y="1531.14" type="curve"/>
+			<point x="-284.714" y="1531.14" type="line"/>
+			<point x="-257.571" y="1667.57"/>
+			<point x="-214" y="1703.71"/>
+			<point x="-155.857" y="1703.71" type="curve" smooth="yes"/>
+			<point x="-53.1429" y="1703.71"/>
+			<point x="14.2857" y="1530.86"/>
+		</contour>
+		<contour>
+			<point x="145.857" y="1243.86" type="curve" smooth="yes"/>
+			<point x="250.143" y="1243.86"/>
+			<point x="329.429" y="1324.86"/>
+			<point x="352.143" y="1483.57" type="curve"/>
+			<point x="281.571" y="1483.57" type="line"/>
+			<point x="259" y="1353.86"/>
+			<point x="208" y="1310.14"/>
+			<point x="146.143" y="1310.14" type="curve" smooth="yes"/>
+			<point x="54.4286" y="1310.14"/>
+			<point x="-23.4286" y="1483.86"/>
+			<point x="-150.143" y="1483.86" type="curve" smooth="yes"/>
+			<point x="-261" y="1483.86"/>
+			<point x="-338" y="1390.86"/>
+			<point x="-351.429" y="1244.14" type="curve"/>
+			<point x="-284.714" y="1244.14" type="line"/>
+			<point x="-257.571" y="1381.43"/>
+			<point x="-210.571" y="1417.57"/>
+			<point x="-155.857" y="1417.57" type="curve" smooth="yes"/>
+			<point x="-53.1429" y="1417.57"/>
+			<point x="14.2857" y="1243.86"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="0.285714" y="1088.43"/>
+	<anchor name="top" x="0.857143" y="1770.71"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

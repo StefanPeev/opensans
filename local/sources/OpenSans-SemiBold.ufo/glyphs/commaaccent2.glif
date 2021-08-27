@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaaccent2" format="2">
+	<advance width="982"/>
+	<outline>
+		<contour>
+			<point x="666.429" y="-125" type="line"/>
+			<point x="396" y="-125" type="line"/>
+			<point x="391.143" y="-205.857"/>
+			<point x="360.571" y="-349.714"/>
+			<point x="335" y="-428.571" type="curve"/>
+			<point x="335" y="-453" type="line"/>
+			<point x="511.857" y="-453" type="line"/>
+			<point x="583.429" y="-346"/>
+			<point x="625.286" y="-254"/>
+			<point x="666.429" y="-144.143" type="curve"/>
+		</contour>
+	</outline>
+	<anchor name="_bottom" x="508.571" y="0"/>
+	<anchor name="bottom" x="507.143" y="-453"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string></string>
+		</dict>
+	</lib>
+</glyph>

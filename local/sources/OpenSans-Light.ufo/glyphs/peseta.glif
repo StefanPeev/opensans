@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="peseta" format="2">
+	<unicode hex="20A7"/>
+	<advance width="1598"/>
+	<outline>
+		<contour>
+			<point x="398.571" y="1462" type="curve" smooth="yes"/>
+			<point x="172.286" y="1462" type="line"/>
+			<point x="172.286" y="0" type="line"/>
+			<point x="318.857" y="0" type="line"/>
+			<point x="318.857" y="572.857" type="line"/>
+			<point x="383.857" y="572.857" type="line" smooth="yes"/>
+			<point x="762.429" y="572.857"/>
+			<point x="924.429" y="742.857"/>
+			<point x="924.429" y="1037" type="curve" smooth="yes"/>
+			<point x="924.429" y="1323.57"/>
+			<point x="742.429" y="1462"/>
+		</contour>
+		<contour>
+			<point x="397.714" y="1335.29" type="line" smooth="yes"/>
+			<point x="657.286" y="1335.29"/>
+			<point x="777.429" y="1245.57"/>
+			<point x="777.429" y="1032.14" type="curve" smooth="yes"/>
+			<point x="777.429" y="807.143"/>
+			<point x="650.429" y="698.429"/>
+			<point x="373.857" y="698.429" type="curve" smooth="yes"/>
+			<point x="318.857" y="698.429" type="line"/>
+			<point x="318.857" y="1335.29" type="line"/>
+		</contour>
+		<contour>
+			<point x="1254.29" y="1067.86" type="line"/>
+			<point x="1170.14" y="1067.86" type="line"/>
+			<point x="1125.86" y="840.286" type="line"/>
+			<point x="959" y="797.286" type="line"/>
+			<point x="959" y="733" type="line"/>
+			<point x="1115.57" y="733" type="line"/>
+			<point x="1115.57" y="262.143" type="line" smooth="yes"/>
+			<point x="1115.57" y="63.4286"/>
+			<point x="1200" y="-20"/>
+			<point x="1372.57" y="-20" type="curve" smooth="yes"/>
+			<point x="1433.29" y="-20"/>
+			<point x="1489.14" y="-9.71429"/>
+			<point x="1530.86" y="8" type="curve"/>
+			<point x="1530.86" y="118.143" type="line"/>
+			<point x="1495.71" y="103.857"/>
+			<point x="1454.71" y="95.2857"/>
+			<point x="1403.71" y="95.2857" type="curve" smooth="yes"/>
+			<point x="1299.29" y="95.2857"/>
+			<point x="1254.29" y="144.857"/>
+			<point x="1254.29" y="282" type="curve" smooth="yes"/>
+			<point x="1254.29" y="733" type="line"/>
+			<point x="1507.43" y="733" type="line"/>
+			<point x="1507.43" y="843.143" type="line"/>
+			<point x="1254.29" y="843.143" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Symbol</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Currency</string>
+		</dict>
+	</lib>
+</glyph>

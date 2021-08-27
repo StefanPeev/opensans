@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="combiningconjoiningmacron" format="2">
+	<unicode hex="FE26"/>
+	<outline>
+		<contour>
+			<point x="-596.5" y="1421.14" type="line"/>
+			<point x="-596.5" y="1302.71" type="line"/>
+			<point x="597.786" y="1302.71" type="line"/>
+			<point x="597.786" y="1421.14" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="1.28571" y="1099.57"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni052C" format="2">
+	<unicode hex="052C"/>
+	<advance width="1505"/>
+	<outline>
+		<contour>
+			<point x="11.4286" y="-413.429" type="line"/>
+			<point x="254.571" y="-413.429" type="line"/>
+			<point x="254.571" y="0" type="line"/>
+			<point x="1211.57" y="0" type="line"/>
+			<point x="1211.57" y="-413.429" type="line"/>
+			<point x="1454.71" y="-413.429" type="line"/>
+			<point x="1454.71" y="207" type="line"/>
+			<point x="1286" y="207" type="line"/>
+			<point x="1286" y="1462" type="line"/>
+			<point x="591.143" y="1462" type="line"/>
+			<point x="577.714" y="1218.29"/>
+			<point x="533" y="957.571"/>
+			<point x="460.143" y="718.571" type="curve"/>
+			<point x="356.143" y="748.143"/>
+			<point x="311" y="826.143"/>
+			<point x="311" y="937.429" type="curve" smooth="yes"/>
+			<point x="311" y="1462" type="line"/>
+			<point x="82.5714" y="1462" type="line"/>
+			<point x="82.5714" y="871" type="line" smooth="yes"/>
+			<point x="82.5714" y="682.143"/>
+			<point x="179.143" y="556"/>
+			<point x="379.286" y="513.571" type="curve"/>
+			<point x="336.143" y="400.714"/>
+			<point x="287.571" y="295.714"/>
+			<point x="234.857" y="207" type="curve"/>
+			<point x="11.4286" y="207" type="line"/>
+		</contour>
+		<contour>
+			<point x="479.857" y="207" type="line"/>
+			<point x="527.571" y="292.286"/>
+			<point x="570.714" y="393"/>
+			<point x="606.571" y="497.571" type="curve"/>
+			<point x="758.714" y="501.571"/>
+			<point x="893.571" y="535.429"/>
+			<point x="1035.43" y="589.857" type="curve"/>
+			<point x="1035.43" y="207" type="line"/>
+		</contour>
+		<contour>
+			<point x="671.714" y="691.429" type="curve"/>
+			<point x="724.857" y="877.429"/>
+			<point x="766.143" y="1074.71"/>
+			<point x="777.429" y="1255.57" type="curve"/>
+			<point x="1035.43" y="1255.57" type="line"/>
+			<point x="1035.43" y="767.857" type="line"/>
+			<point x="931.857" y="725.857"/>
+			<point x="822.286" y="697.143"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="751.286" y="-413.429"/>
+	<anchor name="top" x="751.286" y="1462"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsRight</key>
+			<string>afii10021</string>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>afii10021</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>cyrillic</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

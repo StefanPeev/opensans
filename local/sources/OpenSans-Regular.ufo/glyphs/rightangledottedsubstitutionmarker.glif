@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rightangledottedsubstitutionmarker" format="2">
+	<unicode hex="2E01"/>
+	<advance width="1024"/>
+	<outline>
+		<contour>
+			<point x="359.143" y="565" type="line"/>
+			<point x="359.143" y="1348.86" type="line"/>
+			<point x="778" y="1348.86" type="line"/>
+			<point x="778" y="1462" type="line"/>
+			<point x="246" y="1462" type="line"/>
+			<point x="246" y="565" type="line"/>
+		</contour>
+		<contour>
+			<point x="515.429" y="1040.71" type="curve" smooth="yes"/>
+			<point x="515.429" y="969.857"/>
+			<point x="552.571" y="935.143"/>
+			<point x="608.714" y="935.143" type="curve" smooth="yes"/>
+			<point x="663.714" y="935.143"/>
+			<point x="700.571" y="969.857"/>
+			<point x="700.571" y="1040.71" type="curve" smooth="yes"/>
+			<point x="700.571" y="1113"/>
+			<point x="663.714" y="1146.29"/>
+			<point x="608.714" y="1146.29" type="curve" smooth="yes"/>
+			<point x="552.571" y="1146.29"/>
+			<point x="515.429" y="1113"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Punctuation</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Other</string>
+		</dict>
+	</lib>
+</glyph>

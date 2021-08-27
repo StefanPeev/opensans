@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexgravecomb" format="2">
+	<outline>
+		<contour>
+			<point x="-1113.43" y="1241" type="line"/>
+			<point x="-933.286" y="1241" type="line"/>
+			<point x="-865" y="1286.86"/>
+			<point x="-790.286" y="1347.14"/>
+			<point x="-721.429" y="1412.57" type="curve"/>
+			<point x="-651.857" y="1347.14"/>
+			<point x="-579.286" y="1286.86"/>
+			<point x="-510.143" y="1241" type="curve"/>
+			<point x="-329.143" y="1241" type="line"/>
+			<point x="-329.143" y="1267.57" type="line"/>
+			<point x="-395.714" y="1343"/>
+			<point x="-484.286" y="1464.57"/>
+			<point x="-545.143" y="1555.57" type="curve"/>
+			<point x="-897" y="1555.57" type="line"/>
+			<point x="-959.429" y="1464.57"/>
+			<point x="-1044.29" y="1343"/>
+			<point x="-1113.43" y="1267.57" type="curve"/>
+		</contour>
+		<contour>
+			<point x="-1188.43" y="1436" type="curve"/>
+			<point x="-1024.14" y="1436" type="line"/>
+			<point x="-1024.14" y="1461.71" type="line"/>
+			<point x="-1078.29" y="1515.57"/>
+			<point x="-1125.86" y="1577.29"/>
+			<point x="-1168" y="1663" type="curve"/>
+			<point x="-1421.43" y="1663" type="line"/>
+			<point x="-1421.43" y="1642.43" type="line"/>
+			<point x="-1364" y="1564.43"/>
+			<point x="-1269" y="1493.57"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string></string>
+		</dict>
+	</lib>
+</glyph>

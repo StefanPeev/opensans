@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alefdagesh-hb" format="2">
+	<unicode hex="FB30"/>
+	<advance width="1276"/>
+	<outline>
+		<component base="alef-hb"/>
+		<component base="dagesh-hb" xyScale="0" xOffset="546.714" yOffset="-365.286"/>
+	</outline>
+	<note>
+		uniFB30
+	</note>
+</glyph>

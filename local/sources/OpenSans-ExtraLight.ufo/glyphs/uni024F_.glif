@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni024F" format="2">
+	<unicode hex="024F"/>
+	<advance width="933"/>
+	<outline>
+		<component base="y"/>
+		<contour>
+			<point x="924.714" y="714.143" type="line"/>
+			<point x="3.85714" y="714.143" type="line"/>
+			<point x="3.85714" y="634.143" type="line"/>
+			<point x="924.714" y="634.143" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="127.857" y="-497.143"/>
+	<anchor name="top" x="464.714" y="1088.43"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>y</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

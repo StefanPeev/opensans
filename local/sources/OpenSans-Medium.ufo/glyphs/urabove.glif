@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="urabove" format="2">
+	<unicode hex="1DD1"/>
+	<outline>
+		<contour>
+			<point x="52.7143" y="1475.14" type="curve" smooth="yes"/>
+			<point x="52.7143" y="1605.57"/>
+			<point x="-42.1429" y="1689.86"/>
+			<point x="-176" y="1689.86" type="curve" smooth="yes"/>
+			<point x="-314.143" y="1689.86"/>
+			<point x="-405.857" y="1596.14"/>
+			<point x="-405.857" y="1467.71" type="curve" smooth="yes"/>
+			<point x="-405.857" y="1329.86"/>
+			<point x="-312.143" y="1243"/>
+			<point x="-177.429" y="1243" type="curve"/>
+			<point x="-177.429" y="1347.14" type="line"/>
+			<point x="-249.429" y="1347.14"/>
+			<point x="-293.143" y="1397.43"/>
+			<point x="-293.143" y="1467.43" type="curve" smooth="yes"/>
+			<point x="-293.143" y="1536.29"/>
+			<point x="-247.143" y="1585.29"/>
+			<point x="-174.571" y="1585.29" type="curve" smooth="yes"/>
+			<point x="-97.4286" y="1585.29"/>
+			<point x="-51.8571" y="1532.57"/>
+			<point x="-51.8571" y="1450" type="curve" smooth="yes"/>
+			<point x="-51.8571" y="1318.71"/>
+			<point x="41.8571" y="1234.43"/>
+			<point x="177.714" y="1234.43" type="curve" smooth="yes"/>
+			<point x="315.857" y="1234.43"/>
+			<point x="406.714" y="1326.43"/>
+			<point x="406.714" y="1457.43" type="curve" smooth="yes"/>
+			<point x="406.714" y="1594.43"/>
+			<point x="313" y="1681.29"/>
+			<point x="179.143" y="1681.29" type="curve"/>
+			<point x="179.143" y="1577.43" type="line"/>
+			<point x="249.429" y="1577.43"/>
+			<point x="294" y="1526.86"/>
+			<point x="294" y="1458.57" type="curve" smooth="yes"/>
+			<point x="294" y="1387.14"/>
+			<point x="249.714" y="1339"/>
+			<point x="175.429" y="1339" type="curve" smooth="yes"/>
+			<point x="98.5714" y="1339"/>
+			<point x="52.7143" y="1390.57"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="0.857143" y="1110.71"/>
+	<anchor name="top" x="3.14286" y="1691.57"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

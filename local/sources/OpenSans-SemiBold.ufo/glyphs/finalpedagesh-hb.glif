@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="finalpedagesh-hb" format="2">
+	<unicode hex="FB43"/>
+	<advance width="1284"/>
+	<outline>
+		<component base="finalpe-hb"/>
+		<component base="dagesh-hb" xyScale="0" xOffset="588.286" yOffset="233.143"/>
+	</outline>
+	<note>
+		uniFB43
+	</note>
+</glyph>

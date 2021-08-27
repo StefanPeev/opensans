@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1F8D" format="2">
+	<unicode hex="1F8D"/>
+	<advance width="2098"/>
+	<outline>
+		<component base="uni1FDE" xyScale="0" xOffset="-388.857" yOffset="-105.429"/>
+		<component base="A" xOffset="182.286"/>
+		<component base="iota" xOffset="1427.86"/>
+	</outline>
+	<anchor name="bottom" x="1822.86" y="0"/>
+	<anchor name="top" x="1664" y="1095.86"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsRight</key>
+			<string>iota</string>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>uni1FDE</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>A</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>iota</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>iota</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>greek</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

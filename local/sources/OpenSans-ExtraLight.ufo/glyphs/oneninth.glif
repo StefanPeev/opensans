@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oneninth" format="2">
+	<unicode hex="2151"/>
+	<advance width="1634"/>
+	<outline>
+		<component base="one.numr"/>
+		<component base="fraction" xOffset="631.429"/>
+		<component base="nine.dnom" xOffset="943.286"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>one.numr</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>zero.dnom</string>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Number</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>one.numr</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>zero.dnom</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Fraction</string>
+		</dict>
+	</lib>
+</glyph>

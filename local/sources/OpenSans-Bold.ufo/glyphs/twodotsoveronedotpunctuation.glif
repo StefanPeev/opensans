@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twodotsoveronedotpunctuation" format="2">
+	<unicode hex="2E2A"/>
+	<advance width="1748"/>
+	<outline>
+		<contour>
+			<point x="683.286" y="130.857" type="curve" smooth="yes"/>
+			<point x="683.286" y="7.14286"/>
+			<point x="767.857" y="-43.7143"/>
+			<point x="874.286" y="-43.7143" type="curve" smooth="yes"/>
+			<point x="974.429" y="-43.7143"/>
+			<point x="1058.29" y="7.14286"/>
+			<point x="1058.29" y="130.857" type="curve" smooth="yes"/>
+			<point x="1058.29" y="260.714"/>
+			<point x="974.429" y="308.286"/>
+			<point x="874.286" y="308.286" type="curve" smooth="yes"/>
+			<point x="767.857" y="308.286"/>
+			<point x="683.286" y="260.714"/>
+		</contour>
+		<contour>
+			<point x="104.857" y="1328.14" type="curve" smooth="yes"/>
+			<point x="104.857" y="1204.43"/>
+			<point x="190.429" y="1152.14"/>
+			<point x="295.714" y="1152.14" type="curve" smooth="yes"/>
+			<point x="397" y="1152.14"/>
+			<point x="479.857" y="1204.43"/>
+			<point x="479.857" y="1328.14" type="curve" smooth="yes"/>
+			<point x="479.857" y="1456.86"/>
+			<point x="397" y="1504.71"/>
+			<point x="295.714" y="1504.71" type="curve" smooth="yes"/>
+			<point x="190.429" y="1504.71"/>
+			<point x="104.857" y="1456.86"/>
+		</contour>
+		<contour>
+			<point x="1267.14" y="1328.14" type="curve" smooth="yes"/>
+			<point x="1267.14" y="1204.43"/>
+			<point x="1352.57" y="1152.14"/>
+			<point x="1457.86" y="1152.14" type="curve" smooth="yes"/>
+			<point x="1559.14" y="1152.14"/>
+			<point x="1642" y="1204.43"/>
+			<point x="1642" y="1328.14" type="curve" smooth="yes"/>
+			<point x="1642" y="1456.86"/>
+			<point x="1559.14" y="1504.71"/>
+			<point x="1457.86" y="1504.71" type="curve" smooth="yes"/>
+			<point x="1352.57" y="1504.71"/>
+			<point x="1267.14" y="1456.86"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Punctuation</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Other</string>
+		</dict>
+	</lib>
+</glyph>

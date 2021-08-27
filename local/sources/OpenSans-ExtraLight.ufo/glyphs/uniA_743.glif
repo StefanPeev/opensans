@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA743" format="2">
+	<unicode hex="A743"/>
+	<advance width="990"/>
+	<outline>
+		<component base="k"/>
+		<contour>
+			<point x="426.857" y="193.286" type="line"/>
+			<point x="473.571" y="134.571" type="line"/>
+			<point x="938.571" y="494.286" type="line"/>
+			<point x="890" y="553.857" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="495.143" y="0"/>
+	<anchor name="top" x="230.286" y="1556"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsWidth</key>
+			<string>=k</string>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>k</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+			<string>=k</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccentcomb.sc" format="2">
+	<advance width="610"/>
+	<outline>
+		<contour>
+			<point x="301.286" y="1348.86" type="curve" smooth="yes"/>
+			<point x="390.714" y="1348.86"/>
+			<point x="453.286" y="1381.29"/>
+			<point x="453.286" y="1479.14" type="curve" smooth="yes"/>
+			<point x="453.286" y="1578.57"/>
+			<point x="390.714" y="1610.71"/>
+			<point x="301.286" y="1610.71" type="curve" smooth="yes"/>
+			<point x="214.571" y="1610.71"/>
+			<point x="153.143" y="1577.43"/>
+			<point x="153.143" y="1479.14" type="curve" smooth="yes"/>
+			<point x="153.143" y="1382.43"/>
+			<point x="214.571" y="1348.86"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="301" y="1182.14"/>
+	<anchor name="top" x="305.571" y="1610.71"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Smallcaps</string>
+		</dict>
+	</lib>
+</glyph>

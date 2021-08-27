@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevehookcomb" format="2">
+	<outline>
+		<contour>
+			<point x="-316.571" y="1565.57" type="curve"/>
+			<point x="-474.429" y="1565.57" type="line"/>
+			<point x="-484.571" y="1465.43"/>
+			<point x="-570.714" y="1405.71"/>
+			<point x="-696.571" y="1405.71" type="curve" smooth="yes"/>
+			<point x="-834.143" y="1405.71"/>
+			<point x="-905" y="1470.86"/>
+			<point x="-918.143" y="1565.57" type="curve"/>
+			<point x="-1084.57" y="1565.57" type="line"/>
+			<point x="-1069.71" y="1374.43"/>
+			<point x="-929.714" y="1241"/>
+			<point x="-693.429" y="1241" type="curve" smooth="yes"/>
+			<point x="-443" y="1241"/>
+			<point x="-324.143" y="1363.57"/>
+		</contour>
+		<contour>
+			<point x="-723.143" y="1801.43" type="curve" smooth="yes"/>
+			<point x="-764.429" y="1801.43"/>
+			<point x="-806.857" y="1795.14"/>
+			<point x="-831" y="1788.57" type="curve"/>
+			<point x="-831" y="1668.14" type="line"/>
+			<point x="-818.571" y="1672.71"/>
+			<point x="-773.429" y="1680.71"/>
+			<point x="-746.143" y="1680.71" type="curve" smooth="yes"/>
+			<point x="-692.714" y="1680.71"/>
+			<point x="-684.571" y="1653.71"/>
+			<point x="-684.571" y="1635" type="curve" smooth="yes"/>
+			<point x="-684.571" y="1609.43"/>
+			<point x="-711.286" y="1585"/>
+			<point x="-778.429" y="1583.29" type="curve"/>
+			<point x="-771.286" y="1486.14" type="line"/>
+			<point x="-662" y="1486.14" type="line"/>
+			<point x="-656.286" y="1533.43" type="line"/>
+			<point x="-581.714" y="1548.43"/>
+			<point x="-543.571" y="1593.71"/>
+			<point x="-543.571" y="1661.86" type="curve" smooth="yes"/>
+			<point x="-543.571" y="1759.57"/>
+			<point x="-617.429" y="1801.43"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string></string>
+		</dict>
+	</lib>
+</glyph>

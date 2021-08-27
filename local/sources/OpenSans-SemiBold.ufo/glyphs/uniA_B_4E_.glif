@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniAB4E" format="2">
+	<unicode hex="AB4E"/>
+	<advance width="1315"/>
+	<outline>
+		<contour>
+			<point x="1165" y="716.857" type="line"/>
+			<point x="870.571" y="716.857" type="line"/>
+			<point x="870.571" y="587.286" type="line" smooth="yes"/>
+			<point x="870.571" y="342.286"/>
+			<point x="797" y="215.286"/>
+			<point x="624.143" y="215.286" type="curve" smooth="yes"/>
+			<point x="497.571" y="215.286"/>
+			<point x="437.429" y="301.857"/>
+			<point x="437.429" y="476" type="curve" smooth="yes"/>
+			<point x="437.429" y="1118.14" type="line"/>
+			<point x="143" y="1118.14" type="line"/>
+			<point x="143" y="388.714" type="line" smooth="yes"/>
+			<point x="143" y="107.714"/>
+			<point x="302.143" y="-20"/>
+			<point x="530.571" y="-20" type="curve" smooth="yes"/>
+			<point x="696" y="-20"/>
+			<point x="823" y="48.4286"/>
+			<point x="887.143" y="165.571" type="curve"/>
+			<point x="904.714" y="165.571" type="line"/>
+			<point x="942" y="0" type="line"/>
+			<point x="1165" y="0" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

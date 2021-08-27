@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04B0" format="2">
+	<unicode hex="04B0"/>
+	<advance width="1174"/>
+	<outline>
+		<contour>
+			<point x="488.429" y="0" type="line"/>
+			<point x="689.286" y="0" type="line"/>
+			<point x="689.286" y="343.286" type="line"/>
+			<point x="1014" y="343.286" type="line"/>
+			<point x="1014" y="511.286" type="line"/>
+			<point x="689.286" y="511.286" type="line"/>
+			<point x="689.286" y="566.429" type="line"/>
+			<point x="1173.71" y="1462" type="line"/>
+			<point x="955.429" y="1462" type="line"/>
+			<point x="587.429" y="746.286" type="line"/>
+			<point x="219.143" y="1462" type="line"/>
+			<point x="0" y="1462" type="line"/>
+			<point x="488.429" y="556.714" type="line"/>
+			<point x="488.429" y="511.286" type="line"/>
+			<point x="159.714" y="511.286" type="line"/>
+			<point x="159.714" y="343.286" type="line"/>
+			<point x="488.429" y="343.286" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="587.429" y="0"/>
+	<anchor name="top" x="587.429" y="1462"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>cyrillic</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

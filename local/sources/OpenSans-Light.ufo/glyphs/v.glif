@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="v" format="2">
+	<unicode hex="0076"/>
+	<advance width="987"/>
+	<outline>
+		<contour>
+			<point x="422" y="0" type="line"/>
+			<point x="564.714" y="0" type="line"/>
+			<point x="986.714" y="1095.86" type="line"/>
+			<point x="830.429" y="1095.86" type="line"/>
+			<point x="553.714" y="333.857" type="line"/>
+			<point x="527" y="264.429"/>
+			<point x="512.143" y="213"/>
+			<point x="494.286" y="152.286" type="curve"/>
+			<point x="489.429" y="152.286" type="line"/>
+			<point x="473.714" y="212.429"/>
+			<point x="456.143" y="268.143"/>
+			<point x="430" y="334.429" type="curve"/>
+			<point x="155.857" y="1095.86" type="line"/>
+			<point x="0" y="1095.86" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="494" y="0"/>
+	<anchor name="top" x="492.286" y="1095.86"/>
+	<anchor name="topright" x="945.714" y="1095.86"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

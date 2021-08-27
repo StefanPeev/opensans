@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA7A1" format="2">
+	<unicode hex="A7A1"/>
+	<advance width="1180"/>
+	<outline>
+		<component base="g.salt"/>
+		<contour>
+			<point x="1.71429" y="579.286" type="line"/>
+			<point x="1.71429" y="408.143" type="line"/>
+			<point x="1280.43" y="589.571" type="line"/>
+			<point x="1280.43" y="760" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsWidth</key>
+			<string>=g</string>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+			<string>=g</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

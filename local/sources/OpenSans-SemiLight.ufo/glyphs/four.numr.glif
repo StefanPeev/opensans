@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.numr" format="2">
+	<advance width="724"/>
+	<outline>
+		<contour>
+			<point x="705.143" y="807.929" type="line"/>
+			<point x="705.143" y="911.214" type="line"/>
+			<point x="563.429" y="911.214" type="line"/>
+			<point x="563.429" y="1469" type="line"/>
+			<point x="420.786" y="1469" type="line"/>
+			<point x="31.5714" y="899.214" type="line"/>
+			<point x="31.5714" y="807.929" type="line"/>
+			<point x="432.429" y="807.929" type="line"/>
+			<point x="432.429" y="586" type="line"/>
+			<point x="563.429" y="586" type="line"/>
+			<point x="563.429" y="807.929" type="line"/>
+		</contour>
+		<contour>
+			<point x="432.429" y="911.214" type="line"/>
+			<point x="149.429" y="911.214" type="line"/>
+			<point x="369.071" y="1228.36" type="line" smooth="yes"/>
+			<point x="395.214" y="1266.5"/>
+			<point x="413.5" y="1300.43"/>
+			<point x="436.214" y="1344" type="curve"/>
+			<point x="433.143" y="1291.71"/>
+			<point x="432.429" y="1247.86"/>
+			<point x="432.429" y="1186.5" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>foursuperior</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Number</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Fraction</string>
+		</dict>
+	</lib>
+</glyph>

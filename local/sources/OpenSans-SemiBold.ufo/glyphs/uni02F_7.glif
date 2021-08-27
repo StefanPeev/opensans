@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02F7" format="2">
+	<unicode hex="02F7"/>
+	<advance width="955"/>
+	<outline>
+		<contour>
+			<point x="82" y="-424.143" type="curve"/>
+			<point x="225.143" y="-424.143" type="line"/>
+			<point x="240.714" y="-326.143"/>
+			<point x="279.286" y="-311"/>
+			<point x="312.857" y="-311" type="curve" smooth="yes"/>
+			<point x="418.286" y="-311"/>
+			<point x="518.429" y="-423.286"/>
+			<point x="644.571" y="-423.286" type="curve" smooth="yes"/>
+			<point x="767.571" y="-423.286"/>
+			<point x="858.429" y="-335"/>
+			<point x="873.714" y="-121.286" type="curve"/>
+			<point x="728.143" y="-121.286" type="line"/>
+			<point x="714.714" y="-218.429"/>
+			<point x="673.714" y="-235"/>
+			<point x="639.429" y="-235" type="curve" smooth="yes"/>
+			<point x="534.429" y="-235"/>
+			<point x="425.429" y="-122.714"/>
+			<point x="314" y="-122.714" type="curve" smooth="yes"/>
+			<point x="178.571" y="-122.714"/>
+			<point x="96.2857" y="-207"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>tilde</string>
+			<key>com.fontlab.metricsWidth</key>
+			<string>tilde</string>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>tilde</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Symbol</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>tilde</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+			<string>tilde</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Modifier</string>
+		</dict>
+	</lib>
+</glyph>

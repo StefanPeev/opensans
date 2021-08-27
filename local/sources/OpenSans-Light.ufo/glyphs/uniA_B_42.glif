@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniAB42" format="2">
+	<unicode hex="AB42"/>
+	<advance width="1948"/>
+	<outline>
+		<component base="oe" xScale="-1" yScale="-1" xOffset="1948.43" yOffset="1095.86"/>
+		<contour>
+			<point x="934.429" y="602.429" type="line"/>
+			<point x="934.429" y="495.714" type="line"/>
+			<point x="1753.29" y="495.714" type="line"/>
+			<point x="1753.29" y="602.429" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>oe</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+			<key>com.schriftgestaltung.componentsLocked</key>
+			<array>
+				<true/>
+			</array>
+		</dict>
+	</lib>
+</glyph>

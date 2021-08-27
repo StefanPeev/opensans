@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="candraBinducomb" format="2">
+	<unicode hex="0310"/>
+	<outline>
+		<contour>
+			<point x="311.571" y="1534.29" type="curve"/>
+			<point x="205.286" y="1534.29" type="line"/>
+			<point x="193.571" y="1426.71"/>
+			<point x="125.286" y="1347"/>
+			<point x="-0.857143" y="1347" type="curve" smooth="yes"/>
+			<point x="-119.857" y="1347"/>
+			<point x="-196.143" y="1422.43"/>
+			<point x="-205.857" y="1534.29" type="curve"/>
+			<point x="-310.429" y="1534.29" type="line"/>
+			<point x="-299.286" y="1351"/>
+			<point x="-195.429" y="1241"/>
+			<point x="-0.857143" y="1241" type="curve" smooth="yes"/>
+			<point x="188.571" y="1241"/>
+			<point x="294.714" y="1354.43"/>
+		</contour>
+		<contour>
+			<point x="-5.71429" y="1625.86" type="curve" smooth="yes"/>
+			<point x="-67.7143" y="1625.86"/>
+			<point x="-96.5714" y="1588.86"/>
+			<point x="-96.5714" y="1533.14" type="curve" smooth="yes"/>
+			<point x="-96.5714" y="1478"/>
+			<point x="-67.7143" y="1441.86"/>
+			<point x="-5.71429" y="1441.86" type="curve" smooth="yes"/>
+			<point x="60.8571" y="1441.86"/>
+			<point x="88.7143" y="1478"/>
+			<point x="88.7143" y="1533.14" type="curve" smooth="yes"/>
+			<point x="88.7143" y="1588.86"/>
+			<point x="60.8571" y="1625.86"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="1.14286" y="1103.29"/>
+	<anchor name="top" x="2.85714" y="1625.86"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

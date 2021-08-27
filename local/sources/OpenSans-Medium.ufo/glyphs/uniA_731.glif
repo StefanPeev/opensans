@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA731" format="2">
+	<unicode hex="A731"/>
+	<advance width="895"/>
+	<outline>
+		<contour>
+			<point x="818.714" y="313.714" type="curve" smooth="yes"/>
+			<point x="818.714" y="492.143"/>
+			<point x="715.429" y="566"/>
+			<point x="539.143" y="634" type="curve" smooth="yes"/>
+			<point x="366" y="702.143"/>
+			<point x="293.286" y="736"/>
+			<point x="293.286" y="829.286" type="curve" smooth="yes"/>
+			<point x="293.286" y="911.286"/>
+			<point x="357.429" y="964"/>
+			<point x="477.714" y="964" type="curve" smooth="yes"/>
+			<point x="558.857" y="964"/>
+			<point x="656" y="941.143"/>
+			<point x="750" y="899.571" type="curve"/>
+			<point x="812.714" y="1056.86" type="line"/>
+			<point x="720.429" y="1095.29"/>
+			<point x="612" y="1126.86"/>
+			<point x="484.286" y="1126.86" type="curve" smooth="yes"/>
+			<point x="251" y="1126.86"/>
+			<point x="95.4286" y="1017.29"/>
+			<point x="95.4286" y="820.714" type="curve" smooth="yes"/>
+			<point x="95.4286" y="633.286"/>
+			<point x="203.286" y="565.143"/>
+			<point x="383.571" y="492.857" type="curve"/>
+			<point x="547.143" y="430.714"/>
+			<point x="619.714" y="396"/>
+			<point x="619.714" y="298.286" type="curve" smooth="yes"/>
+			<point x="619.714" y="205.571"/>
+			<point x="550.143" y="148.714"/>
+			<point x="417.286" y="148.714" type="curve" smooth="yes"/>
+			<point x="304" y="148.714"/>
+			<point x="186.857" y="180"/>
+			<point x="84" y="229.143" type="curve"/>
+			<point x="84" y="45" type="line"/>
+			<point x="175.857" y="5.14286"/>
+			<point x="261.857" y="-16.5714"/>
+			<point x="411.571" y="-16.5714" type="curve" smooth="yes"/>
+			<point x="682.857" y="-16.5714"/>
+			<point x="818.714" y="128.571"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

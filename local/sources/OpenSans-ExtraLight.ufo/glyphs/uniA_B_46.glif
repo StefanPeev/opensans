@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniAB46" format="2">
+	<unicode hex="AB46"/>
+	<advance width="1025"/>
+	<outline>
+		<contour>
+			<point x="879.857" y="211.143" type="line" smooth="yes"/>
+			<point x="879.857" y="410"/>
+			<point x="798" y="479.286"/>
+			<point x="678.143" y="508" type="curve"/>
+			<point x="802.571" y="546.429"/>
+			<point x="881.286" y="630.143"/>
+			<point x="881.286" y="784.429" type="curve" smooth="yes"/>
+			<point x="881.286" y="982"/>
+			<point x="769.429" y="1086.71"/>
+			<point x="494.571" y="1086.71" type="curve" smooth="yes"/>
+			<point x="182.286" y="1086.71" type="line"/>
+			<point x="182.286" y="0" type="line"/>
+			<point x="285.286" y="0" type="line"/>
+			<point x="285.286" y="467.286" type="line"/>
+			<point x="468.571" y="467.286" type="line" smooth="yes"/>
+			<point x="653.143" y="467.286"/>
+			<point x="778.286" y="437.429"/>
+			<point x="778.286" y="211.429" type="curve" smooth="yes"/>
+			<point x="778.286" y="-225.429" type="line" smooth="yes"/>
+			<point x="778.286" y="-398.571"/>
+			<point x="866.571" y="-492"/>
+			<point x="1023.86" y="-492" type="curve" smooth="yes"/>
+			<point x="1082.14" y="-492"/>
+			<point x="1129" y="-481.286"/>
+			<point x="1160.86" y="-467.571" type="curve"/>
+			<point x="1160.86" y="-383.143" type="line"/>
+			<point x="1127.29" y="-395.143"/>
+			<point x="1090.57" y="-403.143"/>
+			<point x="1043.57" y="-403.143" type="curve" smooth="yes"/>
+			<point x="942" y="-403.143"/>
+			<point x="879.857" y="-350.143"/>
+			<point x="879.857" y="-210.571" type="curve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="484.429" y="1004.57" type="line" smooth="yes"/>
+			<point x="700.143" y="1004.57"/>
+			<point x="778.857" y="924.143"/>
+			<point x="778.857" y="776.286" type="curve" smooth="yes"/>
+			<point x="778.857" y="626"/>
+			<point x="683.857" y="547.571"/>
+			<point x="500" y="547.571" type="curve" smooth="yes"/>
+			<point x="285.286" y="547.571" type="line"/>
+			<point x="285.286" y="1004.57" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caroncomb" format="2">
+	<unicode hex="030C"/>
+	<outline>
+		<contour>
+			<point x="-155.571" y="1241" type="curve"/>
+			<point x="138" y="1241" type="line"/>
+			<point x="198" y="1332.14"/>
+			<point x="317.857" y="1468.86"/>
+			<point x="388.857" y="1542.86" type="curve"/>
+			<point x="388.857" y="1567.29" type="line"/>
+			<point x="195.143" y="1567.29" type="line"/>
+			<point x="122.714" y="1516.29"/>
+			<point x="57.2857" y="1453.29"/>
+			<point x="-9.71429" y="1387" type="curve"/>
+			<point x="-77.4286" y="1453.29"/>
+			<point x="-136.714" y="1513.43"/>
+			<point x="-209.857" y="1567.29" type="curve"/>
+			<point x="-406.429" y="1567.29" type="line"/>
+			<point x="-406.429" y="1542.86" type="line"/>
+			<point x="-329" y="1466"/>
+			<point x="-213.143" y="1332.14"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="-9.14286" y="1118.14"/>
+	<anchor name="top" x="-6.28571" y="1567.29"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>caron</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

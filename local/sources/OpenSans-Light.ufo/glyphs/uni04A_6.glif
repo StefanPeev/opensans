@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04A6" format="2">
+	<unicode hex="04A6"/>
+	<advance width="2223"/>
+	<outline>
+		<contour>
+			<point x="1237.43" y="1462" type="line"/>
+			<point x="195.857" y="1462" type="line"/>
+			<point x="195.857" y="0" type="line"/>
+			<point x="347.143" y="0" type="line"/>
+			<point x="347.143" y="1333.29" type="line"/>
+			<point x="1085.86" y="1333.29" type="line"/>
+			<point x="1085.86" y="0" type="line"/>
+			<point x="1237.43" y="0" type="line"/>
+			<point x="1237.43" y="649.286" type="line"/>
+			<point x="1295.86" y="666.714"/>
+			<point x="1379.29" y="681.714"/>
+			<point x="1484.57" y="681.714" type="curve" smooth="yes"/>
+			<point x="1805" y="681.714"/>
+			<point x="1950.43" y="478.286"/>
+			<point x="1950.43" y="166.571" type="curve" smooth="yes"/>
+			<point x="1950.43" y="-148.429"/>
+			<point x="1811.57" y="-367.857"/>
+			<point x="1550.29" y="-367.857" type="curve" smooth="yes"/>
+			<point x="1462" y="-367.857"/>
+			<point x="1394.57" y="-352"/>
+			<point x="1318.86" y="-318.571" type="curve"/>
+			<point x="1318.86" y="-451.857" type="line"/>
+			<point x="1385.43" y="-481.714"/>
+			<point x="1475.43" y="-496.857"/>
+			<point x="1570.57" y="-496.857" type="curve" smooth="yes"/>
+			<point x="1906.29" y="-496.857"/>
+			<point x="2105.43" y="-251.143"/>
+			<point x="2105.43" y="165.143" type="curve" smooth="yes"/>
+			<point x="2105.43" y="556.571"/>
+			<point x="1906.57" y="811.857"/>
+			<point x="1510.57" y="811.857" type="curve" smooth="yes"/>
+			<point x="1402.29" y="811.857"/>
+			<point x="1303.29" y="795.143"/>
+			<point x="1237.43" y="776" type="curve"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="1084.71" y="-496.857"/>
+	<anchor name="top" x="1084.71" y="1462"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsRight</key>
+			<string>uni0494</string>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>uni0494</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>cyrillic</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

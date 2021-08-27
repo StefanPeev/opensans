@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hookretroflexbelowcomb" format="2">
+	<unicode hex="0322"/>
+	<outline>
+		<contour>
+			<point x="289.429" y="-492.143" type="curve" smooth="yes"/>
+			<point x="356.143" y="-492.143"/>
+			<point x="428" y="-483.571"/>
+			<point x="477.714" y="-465.857" type="curve"/>
+			<point x="477.714" y="-239.857" type="line"/>
+			<point x="447.429" y="-249.429"/>
+			<point x="414.143" y="-258"/>
+			<point x="381.714" y="-258" type="curve" smooth="yes"/>
+			<point x="312" y="-258"/>
+			<point x="276.714" y="-224.429"/>
+			<point x="276.714" y="-133" type="curve" smooth="yes"/>
+			<point x="276.714" y="111" type="line"/>
+			<point x="0" y="111" type="line"/>
+			<point x="0" y="-163.571" type="line" smooth="yes"/>
+			<point x="0" y="-400.143"/>
+			<point x="121" y="-492.143"/>
+		</contour>
+	</outline>
+	<anchor name="_bottom" x="239.857" y="0"/>
+	<anchor name="bottom" x="239.857" y="-492.143"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="he-hb" format="2">
+	<unicode hex="05D4"/>
+	<advance width="1336"/>
+	<outline>
+		<contour>
+			<point x="851.857" y="0" type="line"/>
+			<point x="1200" y="0" type="line"/>
+			<point x="1200" y="839.714" type="line" smooth="yes"/>
+			<point x="1200" y="940.714"/>
+			<point x="1192" y="1009.71"/>
+			<point x="1166.43" y="1083.71" type="curve" smooth="yes"/>
+			<point x="1137.57" y="1163.86"/>
+			<point x="1086.14" y="1213.71"/>
+			<point x="1006.43" y="1255.29" type="curve" smooth="yes"/>
+			<point x="929.286" y="1295"/>
+			<point x="817.714" y="1314.29"/>
+			<point x="659.571" y="1314.29" type="curve" smooth="yes"/>
+			<point x="560.571" y="1314.29"/>
+			<point x="463.429" y="1310.43"/>
+			<point x="365.571" y="1303.43" type="curve" smooth="yes"/>
+			<point x="288.286" y="1297.86"/>
+			<point x="213.714" y="1289.71"/>
+			<point x="141.714" y="1278.86" type="curve"/>
+			<point x="141.714" y="1011.14" type="line"/>
+			<point x="368.143" y="1034.71"/>
+			<point x="506.143" y="1044.29"/>
+			<point x="625.857" y="1044.29" type="curve" smooth="yes"/>
+			<point x="679.429" y="1044.29"/>
+			<point x="722.857" y="1035.43"/>
+			<point x="754.143" y="1017.71" type="curve"/>
+			<point x="819.143" y="989.571"/>
+			<point x="851.857" y="932.143"/>
+			<point x="851.857" y="839.714" type="curve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="142.571" y="0" type="line"/>
+			<point x="488.857" y="0" type="line"/>
+			<point x="488.857" y="763.286" type="line"/>
+			<point x="142.571" y="763.286" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="668.286" y="0"/>
+	<anchor name="bottomleft" x="20" y="0"/>
+	<anchor name="center" x="668.286" y="669.429"/>
+	<anchor name="top" x="668.286" y="1126.43"/>
+	<anchor name="topleft" x="20" y="1126.43"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.hints</key>
+			<array>
+				<dict>
+					<key>horizontal</key>
+					<true/>
+					<key>options</key>
+					<integer>0</integer>
+					<key>origin</key>
+					<array>
+						<integer>1</integer>
+						<integer>3</integer>
+					</array>
+					<key>stem</key>
+					<integer>-2</integer>
+					<key>target</key>
+					<array>
+						<string>u</string>
+						<string>p</string>
+					</array>
+					<key>type</key>
+					<string>BottomGhost</string>
+				</dict>
+				<dict>
+					<key>horizontal</key>
+					<true/>
+					<key>options</key>
+					<integer>0</integer>
+					<key>origin</key>
+					<array>
+						<integer>0</integer>
+						<integer>20</integer>
+					</array>
+					<key>stem</key>
+					<integer>-2</integer>
+					<key>target</key>
+					<array>
+						<integer>0</integer>
+						<integer>10</integer>
+					</array>
+					<key>type</key>
+					<string>Stem</string>
+				</dict>
+				<dict>
+					<key>horizontal</key>
+					<false/>
+					<key>options</key>
+					<integer>0</integer>
+					<key>origin</key>
+					<array>
+						<integer>0</integer>
+						<integer>17</integer>
+					</array>
+					<key>stem</key>
+					<integer>-2</integer>
+					<key>target</key>
+					<array>
+						<integer>0</integer>
+						<integer>0</integer>
+					</array>
+					<key>type</key>
+					<string>Stem</string>
+				</dict>
+				<dict>
+					<key>horizontal</key>
+					<true/>
+					<key>options</key>
+					<integer>4</integer>
+					<key>origin</key>
+					<array>
+						<integer>1</integer>
+						<integer>3</integer>
+					</array>
+					<key>stem</key>
+					<integer>-2</integer>
+					<key>type</key>
+					<string>Anchor</string>
+				</dict>
+				<dict>
+					<key>horizontal</key>
+					<true/>
+					<key>options</key>
+					<integer>4</integer>
+					<key>origin</key>
+					<array>
+						<integer>0</integer>
+						<integer>10</integer>
+					</array>
+					<key>stem</key>
+					<integer>-2</integer>
+					<key>target</key>
+					<array>
+						<integer>0</integer>
+						<integer>20</integer>
+					</array>
+					<key>type</key>
+					<string>TTStem</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+	<note>
+		afii57668
+	</note>
+</glyph>

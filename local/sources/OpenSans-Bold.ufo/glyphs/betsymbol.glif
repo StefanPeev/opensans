@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="betsymbol" format="2">
+	<unicode hex="2136"/>
+	<advance width="1115"/>
+	<outline>
+		<contour>
+			<point x="46" y="0" type="line"/>
+			<point x="1066.43" y="0" type="line"/>
+			<point x="1066.43" y="219.857" type="line"/>
+			<point x="908.143" y="219.857" type="line"/>
+			<point x="908.143" y="627.286" type="line" smooth="yes"/>
+			<point x="908.143" y="1039.43"/>
+			<point x="760.286" y="1196.86"/>
+			<point x="374.714" y="1196.86" type="curve" smooth="yes"/>
+			<point x="91" y="1196.86" type="line"/>
+			<point x="91" y="982.143" type="line"/>
+			<point x="373" y="982.143" type="line" smooth="yes"/>
+			<point x="562" y="982.143"/>
+			<point x="649.429" y="880.429"/>
+			<point x="649.429" y="659.143" type="curve" smooth="yes"/>
+			<point x="649.429" y="219.857" type="line"/>
+			<point x="46" y="219.857" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Symbol</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Math</string>
+		</dict>
+	</lib>
+</glyph>

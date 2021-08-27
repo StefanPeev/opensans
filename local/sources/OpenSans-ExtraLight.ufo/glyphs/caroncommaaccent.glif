@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caroncommaaccent" format="2">
+	<advance width="1016"/>
+	<outline>
+		<contour>
+			<point x="599.571" y="1556" type="line"/>
+			<point x="497.429" y="1556" type="line"/>
+			<point x="485.714" y="1468"/>
+			<point x="438.143" y="1307.86"/>
+			<point x="407" y="1243.29" type="curve"/>
+			<point x="407" y="1229" type="line"/>
+			<point x="470.286" y="1229" type="line"/>
+			<point x="530" y="1328.57"/>
+			<point x="569.857" y="1437.43"/>
+			<point x="599.571" y="1542.57" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string></string>
+		</dict>
+	</lib>
+</glyph>

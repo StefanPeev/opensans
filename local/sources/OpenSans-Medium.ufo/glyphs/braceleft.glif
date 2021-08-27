@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="braceleft" format="2">
+	<unicode hex="007B"/>
+	<advance width="803"/>
+	<outline>
+		<contour>
+			<point x="732.286" y="-335.429" type="curve"/>
+			<point x="732.286" y="-154.286" type="line"/>
+			<point x="603.429" y="-152.571"/>
+			<point x="503.714" y="-119.857"/>
+			<point x="503.714" y="5.85714" type="curve" smooth="yes"/>
+			<point x="503.714" y="314.429" type="line" smooth="yes"/>
+			<point x="503.714" y="463.571"/>
+			<point x="438.143" y="541.571"/>
+			<point x="297.143" y="564.714" type="curve"/>
+			<point x="297.143" y="573.286" type="line"/>
+			<point x="435.857" y="595.143"/>
+			<point x="503.714" y="673.143"/>
+			<point x="503.714" y="827" type="curve" smooth="yes"/>
+			<point x="503.714" y="1130.57" type="line" smooth="yes"/>
+			<point x="503.714" y="1259.57"/>
+			<point x="602.286" y="1291.57"/>
+			<point x="732.286" y="1292.71" type="curve"/>
+			<point x="732.286" y="1474" type="line"/>
+			<point x="393.286" y="1474"/>
+			<point x="295" y="1370.86"/>
+			<point x="295" y="1161.43" type="curve" smooth="yes"/>
+			<point x="295" y="866.286" type="line" smooth="yes"/>
+			<point x="295" y="719"/>
+			<point x="200.429" y="665.429"/>
+			<point x="57.5714" y="665.429" type="curve"/>
+			<point x="57.5714" y="472.429" type="line"/>
+			<point x="198.143" y="472.429"/>
+			<point x="295" y="414.714"/>
+			<point x="295" y="271.571" type="curve" smooth="yes"/>
+			<point x="295" y="-20.1429" type="line" smooth="yes"/>
+			<point x="295" y="-233.571"/>
+			<point x="396.714" y="-335.429"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Punctuation</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Parenthesis</string>
+		</dict>
+	</lib>
+</glyph>

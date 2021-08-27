@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonekabove" format="2">
+	<unicode hex="1DCE"/>
+	<outline>
+		<contour>
+			<point x="-509.429" y="1379.14" type="curve" smooth="yes"/>
+			<point x="-509.429" y="1281.43"/>
+			<point x="-593.714" y="1193.14"/>
+			<point x="-697.143" y="1103.86" type="curve"/>
+			<point x="-604" y="1072.29" type="line"/>
+			<point x="-455.857" y="1170.29"/>
+			<point x="-366" y="1282.71"/>
+			<point x="-366" y="1402.14" type="curve" smooth="yes"/>
+			<point x="-366" y="1539.57"/>
+			<point x="-460.143" y="1621.57"/>
+			<point x="-596.143" y="1621.57" type="curve" smooth="yes"/>
+			<point x="-655.857" y="1621.57"/>
+			<point x="-702.286" y="1611.86"/>
+			<point x="-738.571" y="1600.43" type="curve"/>
+			<point x="-738.571" y="1476.29" type="line"/>
+			<point x="-711.286" y="1485.71"/>
+			<point x="-665.714" y="1494.29"/>
+			<point x="-620.286" y="1494.29" type="curve" smooth="yes"/>
+			<point x="-549.286" y="1494.29"/>
+			<point x="-509.429" y="1454.43"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="-552" y="1103.29"/>
+	<anchor name="top" x="-550.286" y="1621.57"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

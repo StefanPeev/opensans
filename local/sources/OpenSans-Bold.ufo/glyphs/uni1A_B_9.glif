@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1AB9" format="2">
+	<unicode hex="1AB9"/>
+	<outline>
+		<contour>
+			<point x="33.4286" y="82" type="line"/>
+			<point x="-238.571" y="-492" type="line"/>
+			<point x="-40.1429" y="-492" type="line"/>
+			<point x="231.857" y="82" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_bottom" x="-4.28571" y="0"/>
+	<anchor name="bottom" x="0.857143" y="-492"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

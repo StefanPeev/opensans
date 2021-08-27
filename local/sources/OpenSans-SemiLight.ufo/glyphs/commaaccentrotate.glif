@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaaccentrotate" format="2">
+	<advance width="1003"/>
+	<outline>
+		<contour>
+			<point x="621.286" y="1565.14" type="line"/>
+			<point x="515.929" y="1565.14" type="line"/>
+			<point x="455.357" y="1459.57"/>
+			<point x="414.214" y="1357.57"/>
+			<point x="377.429" y="1253.07" type="curve"/>
+			<point x="377.429" y="1237.14" type="line"/>
+			<point x="543.5" y="1237.14" type="line"/>
+			<point x="554.071" y="1325.14"/>
+			<point x="594" y="1476.5"/>
+			<point x="621.286" y="1546.43" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string></string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1D7B" format="2">
+	<unicode hex="1D7B"/>
+	<advance width="629"/>
+	<outline>
+		<contour>
+			<point x="533" y="587.286" type="line"/>
+			<point x="92.4286" y="587.286" type="line"/>
+			<point x="92.4286" y="502" type="line"/>
+			<point x="533" y="502" type="line"/>
+		</contour>
+		<contour>
+			<point x="515.143" y="1088.43" type="line"/>
+			<point x="113.714" y="1088.43" type="line"/>
+			<point x="113.714" y="1026.86" type="line"/>
+			<point x="263.286" y="1003.29" type="line"/>
+			<point x="263.286" y="85" type="line"/>
+			<point x="113.714" y="61.4286" type="line"/>
+			<point x="113.714" y="0" type="line"/>
+			<point x="515.143" y="0" type="line"/>
+			<point x="515.143" y="61.4286" type="line"/>
+			<point x="366" y="85" type="line"/>
+			<point x="366" y="1003.29" type="line"/>
+			<point x="515.143" y="1026.86" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsWidth</key>
+			<string>uni026A</string>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>uni026A</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+			<string>uni026A</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

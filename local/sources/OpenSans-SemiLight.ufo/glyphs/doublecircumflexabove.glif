@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="doublecircumflexabove" format="2">
+	<unicode hex="1DCD"/>
+	<outline>
+		<contour>
+			<point x="94.7857" y="1596.5" type="curve"/>
+			<point x="-91.2143" y="1596.5" type="line"/>
+			<point x="-265.143" y="1497.43"/>
+			<point x="-614.357" y="1347.07"/>
+			<point x="-884.643" y="1263.93" type="curve"/>
+			<point x="-884.643" y="1243.14" type="line"/>
+			<point x="-751.286" y="1243.14" type="line"/>
+			<point x="-488.429" y="1300.36"/>
+			<point x="-232.5" y="1392.36"/>
+			<point x="0.714286" y="1471.14" type="curve"/>
+			<point x="217.143" y="1392.36"/>
+			<point x="448.786" y="1305.79"/>
+			<point x="745.286" y="1243.14" type="curve"/>
+			<point x="879.286" y="1243.14" type="line"/>
+			<point x="879.286" y="1264.64" type="line"/>
+			<point x="533.5" y="1370.71"/>
+			<point x="258.5" y="1501.29"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="-2.85714" y="1099.57"/>
+	<anchor name="top" x="-1.42857" y="1583.64"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

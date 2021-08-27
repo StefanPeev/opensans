@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA724" format="2">
+	<unicode hex="A724"/>
+	<advance width="927"/>
+	<outline>
+		<contour>
+			<point x="689.143" y="542.429" type="curve" smooth="yes"/>
+			<point x="742.714" y="542.429" type="line"/>
+			<point x="742.714" y="659.429" type="line"/>
+			<point x="689.429" y="659.429" type="line" smooth="yes"/>
+			<point x="463.429" y="659.429"/>
+			<point x="316.857" y="773.857"/>
+			<point x="316.857" y="975.714" type="curve" smooth="yes"/>
+			<point x="316.857" y="1152"/>
+			<point x="418.714" y="1248.71"/>
+			<point x="632.286" y="1248.71" type="curve" smooth="yes"/>
+			<point x="822.143" y="1248.71" type="line"/>
+			<point x="822.143" y="1459.43" type="line"/>
+			<point x="607.143" y="1459.43" type="line" smooth="yes"/>
+			<point x="282.286" y="1459.43"/>
+			<point x="98.2857" y="1300.14"/>
+			<point x="98.2857" y="1004.29" type="curve" smooth="yes"/>
+			<point x="98.2857" y="741"/>
+			<point x="291.429" y="542.429"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

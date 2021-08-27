@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevegravecomb" format="2">
+	<outline>
+		<contour>
+			<point x="-336.071" y="1511.57" type="curve"/>
+			<point x="-430.429" y="1511.57" type="line"/>
+			<point x="-444.571" y="1396.93"/>
+			<point x="-517.214" y="1338.21"/>
+			<point x="-646.071" y="1338.21" type="curve" smooth="yes"/>
+			<point x="-778.643" y="1338.21"/>
+			<point x="-852.5" y="1400.36"/>
+			<point x="-862.643" y="1511.57" type="curve"/>
+			<point x="-960.571" y="1511.57" type="line"/>
+			<point x="-949.714" y="1340.93"/>
+			<point x="-837.714" y="1241"/>
+			<point x="-645.929" y="1241" type="curve" smooth="yes"/>
+			<point x="-453.5" y="1241"/>
+			<point x="-349.143" y="1334.07"/>
+		</contour>
+		<contour>
+			<point x="-709.5" y="1732.86" type="curve"/>
+			<point x="-840" y="1732.86" type="line"/>
+			<point x="-840" y="1713.14" type="line"/>
+			<point x="-791.571" y="1648.57"/>
+			<point x="-720.786" y="1564.36"/>
+			<point x="-650.929" y="1504.86" type="curve"/>
+			<point x="-573.786" y="1504.86" type="line"/>
+			<point x="-573.786" y="1523.57" type="line"/>
+			<point x="-622.929" y="1582.14"/>
+			<point x="-676.429" y="1666.57"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string></string>
+		</dict>
+	</lib>
+</glyph>

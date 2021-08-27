@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10085" format="2">
+	<unicode hex="0443"/>
+	<advance width="930"/>
+	<outline>
+		<contour>
+			<point x="-0.285714" y="1088.43" type="line"/>
+			<point x="416.571" y="12.5714" type="line"/>
+			<point x="344" y="-178.286" type="line"/>
+			<point x="280.143" y="-341.429"/>
+			<point x="224.286" y="-408"/>
+			<point x="115.857" y="-408" type="curve" smooth="yes"/>
+			<point x="72.2857" y="-408"/>
+			<point x="41.8571" y="-400.286"/>
+			<point x="4.28571" y="-387.429" type="curve"/>
+			<point x="4.28571" y="-476.714" type="line"/>
+			<point x="43.2857" y="-490.714"/>
+			<point x="77.7143" y="-497.143"/>
+			<point x="121.429" y="-497.143" type="curve" smooth="yes"/>
+			<point x="277.857" y="-497.143"/>
+			<point x="359.143" y="-404.571"/>
+			<point x="432.429" y="-212.571" type="curve" smooth="yes"/>
+			<point x="933.571" y="1088.43" type="line"/>
+			<point x="828.571" y="1088.43" type="line"/>
+			<point x="557" y="363.571" type="line" smooth="yes"/>
+			<point x="515.571" y="254.429"/>
+			<point x="487.571" y="174.857"/>
+			<point x="468.714" y="116.571" type="curve"/>
+			<point x="464.143" y="116.571" type="line"/>
+			<point x="446.571" y="171.571"/>
+			<point x="417.143" y="254.429"/>
+			<point x="374" y="370.714" type="curve" smooth="yes"/>
+			<point x="105.714" y="1088.43" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="127.857" y="-497.143"/>
+	<anchor name="top" x="464.714" y="1088.43"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>y</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>cyrillic</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

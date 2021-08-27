@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresisbelowcomb" format="2">
+	<unicode hex="0324"/>
+	<outline>
+		<contour>
+			<point x="-302.143" y="-250.071" type="curve" smooth="yes"/>
+			<point x="-302.143" y="-310.429"/>
+			<point x="-269.286" y="-346.929"/>
+			<point x="-211.214" y="-346.929" type="curve" smooth="yes"/>
+			<point x="-149.429" y="-346.929"/>
+			<point x="-117" y="-310.429"/>
+			<point x="-117" y="-250.071" type="curve" smooth="yes"/>
+			<point x="-117" y="-190.571"/>
+			<point x="-149.429" y="-153.143"/>
+			<point x="-211.214" y="-153.143" type="curve" smooth="yes"/>
+			<point x="-269.286" y="-153.143"/>
+			<point x="-302.143" y="-190.571"/>
+		</contour>
+		<contour>
+			<point x="112.571" y="-250.071" type="curve" smooth="yes"/>
+			<point x="112.571" y="-310.429"/>
+			<point x="145.429" y="-346.929"/>
+			<point x="204.214" y="-346.929" type="curve" smooth="yes"/>
+			<point x="266.357" y="-346.929"/>
+			<point x="298.786" y="-310.429"/>
+			<point x="298.786" y="-250.071" type="curve" smooth="yes"/>
+			<point x="298.786" y="-190.571"/>
+			<point x="266.357" y="-153.143"/>
+			<point x="204.214" y="-153.143" type="curve" smooth="yes"/>
+			<point x="145.429" y="-153.143"/>
+			<point x="112.571" y="-190.571"/>
+		</contour>
+	</outline>
+	<anchor name="_bottom" x="-2" y="0"/>
+	<anchor name="bottom" x="-0.571429" y="-346.929"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>dieresis</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

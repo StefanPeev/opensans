@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflextildecomb" format="2">
+	<outline>
+		<contour>
+			<point x="-548.429" y="1516" type="curve"/>
+			<point x="-800.571" y="1516" type="line"/>
+			<point x="-861.429" y="1427"/>
+			<point x="-968" y="1331.57"/>
+			<point x="-1045.43" y="1265.14" type="curve"/>
+			<point x="-1045.43" y="1241" type="line"/>
+			<point x="-910.286" y="1241" type="line"/>
+			<point x="-828.571" y="1279.14"/>
+			<point x="-744.571" y="1327"/>
+			<point x="-674" y="1393.14" type="curve"/>
+			<point x="-608.714" y="1327"/>
+			<point x="-525.571" y="1277.71"/>
+			<point x="-439.571" y="1241" type="curve"/>
+			<point x="-304.429" y="1241" type="line"/>
+			<point x="-304.429" y="1265.14" type="line"/>
+			<point x="-389" y="1338"/>
+			<point x="-487.286" y="1427"/>
+		</contour>
+		<contour>
+			<point x="-330.571" y="1808" type="curve"/>
+			<point x="-435.286" y="1808" type="line"/>
+			<point x="-453.143" y="1733.57"/>
+			<point x="-480.857" y="1711.86"/>
+			<point x="-538.143" y="1711.86" type="curve" smooth="yes"/>
+			<point x="-617.571" y="1711.86"/>
+			<point x="-710.571" y="1804.86"/>
+			<point x="-816.571" y="1804.86" type="curve" smooth="yes"/>
+			<point x="-939" y="1804.86"/>
+			<point x="-1002.14" y="1700.29"/>
+			<point x="-1013.29" y="1564.86" type="curve"/>
+			<point x="-910" y="1564.86" type="line"/>
+			<point x="-893.571" y="1640.57"/>
+			<point x="-864.714" y="1659.43"/>
+			<point x="-806.286" y="1659.43" type="curve" smooth="yes"/>
+			<point x="-725.143" y="1659.43"/>
+			<point x="-629.286" y="1568.57"/>
+			<point x="-527" y="1568.57" type="curve" smooth="yes"/>
+			<point x="-409.429" y="1568.57"/>
+			<point x="-341.429" y="1672.71"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string></string>
+		</dict>
+	</lib>
+</glyph>

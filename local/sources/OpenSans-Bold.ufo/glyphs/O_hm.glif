@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ohm" format="2">
+	<unicode hex="2126"/>
+	<advance width="1623"/>
+	<outline>
+		<contour>
+			<point x="810.857" y="1200" type="curve" smooth="yes"/>
+			<point x="1005" y="1200"/>
+			<point x="1159.71" y="1068.57"/>
+			<point x="1159.71" y="799.143" type="curve" smooth="yes"/>
+			<point x="1159.71" y="566.857"/>
+			<point x="1091.29" y="431.857"/>
+			<point x="908" y="319.571" type="curve"/>
+			<point x="908" y="0" type="line"/>
+			<point x="1568.43" y="0" type="line"/>
+			<point x="1568.43" y="285" type="line"/>
+			<point x="1175.71" y="285" type="line"/>
+			<point x="1405.14" y="405"/>
+			<point x="1515.71" y="612.857"/>
+			<point x="1515.71" y="854.857" type="curve" smooth="yes"/>
+			<point x="1515.71" y="1248.14"/>
+			<point x="1230" y="1485"/>
+			<point x="810.857" y="1485" type="curve" smooth="yes"/>
+			<point x="389.286" y="1485"/>
+			<point x="106.714" y="1245.43"/>
+			<point x="106.714" y="853.143" type="curve" smooth="yes"/>
+			<point x="106.714" y="616.286"/>
+			<point x="222.143" y="395.286"/>
+			<point x="440.143" y="285" type="curve"/>
+			<point x="54" y="285" type="line"/>
+			<point x="54" y="0" type="line"/>
+			<point x="709" y="0" type="line"/>
+			<point x="709" y="319.571" type="line"/>
+			<point x="536.429" y="428.714"/>
+			<point x="462.571" y="559.857"/>
+			<point x="462.571" y="795.714" type="curve" smooth="yes"/>
+			<point x="462.571" y="1066.29"/>
+			<point x="617.429" y="1200"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>Omega</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Symbol</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Math</string>
+		</dict>
+	</lib>
+</glyph>

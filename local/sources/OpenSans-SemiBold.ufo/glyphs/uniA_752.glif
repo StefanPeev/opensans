@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA752" format="2">
+	<unicode hex="A752"/>
+	<advance width="1503"/>
+	<outline>
+		<component base="P" xOffset="243"/>
+		<contour>
+			<point x="611.286" y="526.429" type="line"/>
+			<point x="611.286" y="769.571" type="line"/>
+			<point x="384" y="769.571" type="line" smooth="yes"/>
+			<point x="102" y="769.571"/>
+			<point x="7.14286" y="617.857"/>
+			<point x="7.14286" y="430.571" type="curve" smooth="yes"/>
+			<point x="7.14286" y="375"/>
+			<point x="22.1429" y="330.286"/>
+			<point x="32.4286" y="311" type="curve"/>
+			<point x="268" y="311" type="line"/>
+			<point x="260" y="330.571"/>
+			<point x="246.714" y="361.143"/>
+			<point x="246.714" y="408.714" type="curve" smooth="yes"/>
+			<point x="246.714" y="476.286"/>
+			<point x="286.857" y="526.429"/>
+			<point x="375.429" y="526.429" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsRight</key>
+			<string>=P</string>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>P</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>=P</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+			<key>com.schriftgestaltung.componentsLocked</key>
+			<array>
+				<true/>
+			</array>
+		</dict>
+	</lib>
+</glyph>

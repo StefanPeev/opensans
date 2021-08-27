@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2E43" format="2">
+	<unicode hex="2E43"/>
+	<advance width="2048"/>
+	<outline>
+		<contour>
+			<point x="493.143" y="447.143" type="curve" smooth="yes"/>
+			<point x="1968.86" y="447.143" type="line"/>
+			<point x="1968.86" y="659.143" type="line"/>
+			<point x="467.857" y="659.143" type="line" smooth="yes"/>
+			<point x="398.143" y="659.143"/>
+			<point x="375.714" y="680.714"/>
+			<point x="375.714" y="712.143" type="curve" smooth="yes"/>
+			<point x="375.714" y="773.571"/>
+			<point x="439.714" y="779.857"/>
+			<point x="439.714" y="889.571" type="curve" smooth="yes"/>
+			<point x="439.714" y="971.857"/>
+			<point x="394.429" y="1047"/>
+			<point x="283.429" y="1047" type="curve" smooth="yes"/>
+			<point x="161.143" y="1047"/>
+			<point x="76.5714" y="963.286"/>
+			<point x="76.5714" y="806" type="curve" smooth="yes"/>
+			<point x="76.5714" y="622.429"/>
+			<point x="191.857" y="447.143"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string></string>
+		</dict>
+	</lib>
+</glyph>

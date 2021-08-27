@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dollar.rvrn" format="2">
+	<advance width="1192"/>
+	<outline>
+		<contour>
+			<point x="88.2857" y="151.286" type="line"/>
+			<point x="203.286" y="101.143"/>
+			<point x="331" y="70.1429"/>
+			<point x="508.571" y="66.1429" type="curve"/>
+			<point x="508.571" y="-119" type="line"/>
+			<point x="667.429" y="-119" type="line"/>
+			<point x="667.429" y="70.1429" type="line"/>
+			<point x="968.143" y="99.7143"/>
+			<point x="1110.43" y="254.571"/>
+			<point x="1110.43" y="463" type="curve" smooth="yes"/>
+			<point x="1110.43" y="709.286"/>
+			<point x="907.143" y="791.286"/>
+			<point x="648.714" y="876.143" type="curve"/>
+			<point x="432.286" y="952.857"/>
+			<point x="386.429" y="971.857"/>
+			<point x="386.429" y="1046" type="curve" smooth="yes"/>
+			<point x="386.429" y="1129"/>
+			<point x="488.714" y="1147.43"/>
+			<point x="605" y="1147.43" type="curve" smooth="yes"/>
+			<point x="722.714" y="1147.43"/>
+			<point x="877.571" y="1112.86"/>
+			<point x="989.143" y="1066.14" type="curve"/>
+			<point x="1080.57" y="1317.29" type="line"/>
+			<point x="959.286" y="1369.14"/>
+			<point x="826.571" y="1403.29"/>
+			<point x="667.429" y="1410.14" type="curve"/>
+			<point x="667.429" y="1554.86" type="line"/>
+			<point x="508.571" y="1554.86" type="line"/>
+			<point x="508.571" y="1407" type="line"/>
+			<point x="249" y="1386.14"/>
+			<point x="73" y="1262.86"/>
+			<point x="73" y="1040" type="curve" smooth="yes"/>
+			<point x="73" y="807.429"/>
+			<point x="225.571" y="707.571"/>
+			<point x="530" y="604.714" type="curve" smooth="yes"/>
+			<point x="750" y="529.714"/>
+			<point x="795.286" y="512.857"/>
+			<point x="795.286" y="440.286" type="curve" smooth="yes"/>
+			<point x="795.286" y="354.143"/>
+			<point x="702.286" y="323.857"/>
+			<point x="556.714" y="325" type="curve" smooth="yes"/>
+			<point x="406.714" y="326.143"/>
+			<point x="215.857" y="377.286"/>
+			<point x="88.2857" y="436.286" type="curve"/>
+		</contour>
+	</outline>
+	<note>
+		dollar
+	</note>
+</glyph>

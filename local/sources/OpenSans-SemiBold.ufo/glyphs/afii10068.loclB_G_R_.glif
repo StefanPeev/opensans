@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10068.loclBGR" format="2">
+	<advance width="1082"/>
+	<outline>
+		<contour>
+			<point x="109.714" y="326.857" type="curve" smooth="yes"/>
+			<point x="109.714" y="527"/>
+			<point x="251.819" y="604.089"/>
+			<point x="444.714" y="673.857" type="curve" smooth="yes"/>
+			<point x="627.321" y="739.934"/>
+			<point x="694.571" y="762.143"/>
+			<point x="694.571" y="839.714" type="curve" smooth="yes"/>
+			<point x="694.571" y="902.571"/>
+			<point x="635" y="935.286"/>
+			<point x="535.429" y="935.286" type="curve" smooth="yes"/>
+			<point x="455.714" y="935.286"/>
+			<point x="337.571" y="904.571"/>
+			<point x="235.857" y="857.571" type="curve"/>
+			<point x="153.143" y="1052.14" type="line"/>
+			<point x="279.143" y="1107.14"/>
+			<point x="393.571" y="1138.43"/>
+			<point x="536.857" y="1138.43" type="curve" smooth="yes"/>
+			<point x="803" y="1138.43"/>
+			<point x="976.714" y="1028.86"/>
+			<point x="976.714" y="823.286" type="curve" smooth="yes"/>
+			<point x="976.714" y="633.571"/>
+			<point x="878.999" y="564.501"/>
+			<point x="689.143" y="494.143" type="curve" smooth="yes"/>
+			<point x="501.789" y="424.385"/>
+			<point x="403.571" y="389"/>
+			<point x="403.571" y="308.286" type="curve" smooth="yes"/>
+			<point x="403.571" y="237.286"/>
+			<point x="460.571" y="197.429"/>
+			<point x="594.286" y="197.429" type="curve" smooth="yes"/>
+			<point x="692" y="197.429"/>
+			<point x="829.429" y="224.143"/>
+			<point x="962.429" y="286" type="curve"/>
+			<point x="962.429" y="44.7143" type="line"/>
+			<point x="846.571" y="-0.285714"/>
+			<point x="726.143" y="-20"/>
+			<point x="567.857" y="-20" type="curve" smooth="yes"/>
+			<point x="244.714" y="-20"/>
+			<point x="109.714" y="121.286"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="557" y="0"/>
+	<anchor name="top" x="557" y="1118.14"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>=s</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>=s</string>
+		</dict>
+	</lib>
+</glyph>

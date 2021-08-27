@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="shinsindot-hb" format="2">
+	<unicode hex="FB2B"/>
+	<advance width="1510"/>
+	<outline>
+		<component base="shin-hb"/>
+		<component base="sindot-hb" xyScale="0" xOffset="186.143" yOffset="61.8571"/>
+	</outline>
+	<note>
+		afii57695
+	</note>
+</glyph>

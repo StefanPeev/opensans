@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA66E" format="2">
+	<unicode hex="A66E"/>
+	<advance width="1799"/>
+	<outline>
+		<component base="uniA668" xScale="0.454286" yScale="0.454286" xOffset="1036.57" yOffset="259.714"/>
+		<component base="uniA668" xScale="0.454286" yScale="0.454286" xOffset="37" yOffset="259.714"/>
+		<component base="uniA668" xScale="0.454286" yScale="0.454286" xOffset="799.429" yOffset="806.429"/>
+		<component base="uniA668" xScale="0.454286" yScale="0.454286" xOffset="536.857" yOffset="259.714"/>
+		<component base="uniA668" xScale="0.454286" yScale="0.454286" xOffset="297.571" yOffset="808.143"/>
+		<component base="uniA668" xScale="0.454286" yScale="0.454286" xOffset="799.429" yOffset="-287.714"/>
+		<component base="uniA668" xScale="0.454286" yScale="0.454286" xOffset="297.571" yOffset="-287.714"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>uniA668</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>uniA668</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>uniA668</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>3</integer>
+					<key>name</key>
+					<string>uniA668</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>4</integer>
+					<key>name</key>
+					<string>uniA668</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>5</integer>
+					<key>name</key>
+					<string>uniA668</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>6</integer>
+					<key>name</key>
+					<string>uniA668</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>cyrillic</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Other</string>
+		</dict>
+	</lib>
+</glyph>

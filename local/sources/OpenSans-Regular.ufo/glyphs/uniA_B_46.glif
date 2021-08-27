@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniAB46" format="2">
+	<unicode hex="AB46"/>
+	<advance width="1124"/>
+	<outline>
+		<contour>
+			<point x="1001.57" y="175.429" type="line" smooth="yes"/>
+			<point x="1001.57" y="382"/>
+			<point x="928" y="471.857"/>
+			<point x="784.429" y="508" type="curve"/>
+			<point x="911.714" y="545.286"/>
+			<point x="997.857" y="628.429"/>
+			<point x="997.857" y="789.286" type="curve" smooth="yes"/>
+			<point x="997.857" y="1000"/>
+			<point x="858.286" y="1102.14"/>
+			<point x="581.714" y="1102.14" type="curve" smooth="yes"/>
+			<point x="178.857" y="1102.14" type="line"/>
+			<point x="178.857" y="0" type="line"/>
+			<point x="379.857" y="0" type="line"/>
+			<point x="379.857" y="443.857" type="line"/>
+			<point x="517.714" y="443.857" type="line" smooth="yes"/>
+			<point x="693.429" y="443.857"/>
+			<point x="802.857" y="402.286"/>
+			<point x="802.857" y="176.286" type="curve" smooth="yes"/>
+			<point x="802.857" y="-180.286" type="line" smooth="yes"/>
+			<point x="802.857" y="-375.714"/>
+			<point x="891.714" y="-492"/>
+			<point x="1093.57" y="-492" type="curve" smooth="yes"/>
+			<point x="1158.43" y="-492"/>
+			<point x="1217" y="-481.857"/>
+			<point x="1254.57" y="-464.714" type="curve"/>
+			<point x="1254.57" y="-309.429" type="line"/>
+			<point x="1219.86" y="-321.429"/>
+			<point x="1187.71" y="-329.429"/>
+			<point x="1140.71" y="-329.429" type="curve" smooth="yes"/>
+			<point x="1052" y="-329.429"/>
+			<point x="1001.57" y="-280.429"/>
+			<point x="1001.57" y="-169.714" type="curve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="561.286" y="957.714" type="line" smooth="yes"/>
+			<point x="736.429" y="957.714"/>
+			<point x="800.571" y="888.429"/>
+			<point x="800.571" y="772.857" type="curve" smooth="yes"/>
+			<point x="800.571" y="650"/>
+			<point x="723.571" y="582.714"/>
+			<point x="566" y="582.714" type="curve" smooth="yes"/>
+			<point x="379.857" y="582.714" type="line"/>
+			<point x="379.857" y="957.714" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1D26" format="2">
+	<unicode hex="1D26"/>
+	<advance width="797"/>
+	<outline>
+		<contour>
+			<point x="787" y="1100.29" type="line"/>
+			<point x="131" y="1100.29" type="line"/>
+			<point x="131" y="0" type="line"/>
+			<point x="293.714" y="0" type="line"/>
+			<point x="293.714" y="966.143" type="line"/>
+			<point x="787" y="966.143" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>greek</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

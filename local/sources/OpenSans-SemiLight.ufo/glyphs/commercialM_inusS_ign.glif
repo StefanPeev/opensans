@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commercialMinusSign" format="2">
+	<unicode hex="2052"/>
+	<advance width="756"/>
+	<outline>
+		<contour>
+			<point x="517.143" y="98.5" type="curve" smooth="yes"/>
+			<point x="517.143" y="22.6429"/>
+			<point x="559.143" y="-12.7857"/>
+			<point x="624.714" y="-12.7857" type="curve" smooth="yes"/>
+			<point x="689.429" y="-12.7857"/>
+			<point x="731.357" y="22.6429"/>
+			<point x="731.357" y="98.5" type="curve" smooth="yes"/>
+			<point x="731.357" y="177.786"/>
+			<point x="689.429" y="212.071"/>
+			<point x="624.714" y="212.071" type="curve" smooth="yes"/>
+			<point x="559.143" y="212.071"/>
+			<point x="517.143" y="177.786"/>
+		</contour>
+		<contour>
+			<point x="726.857" y="1462" type="line"/>
+			<point x="582.714" y="1462" type="line"/>
+			<point x="19.9286" y="0" type="line"/>
+			<point x="164.071" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="24.5" y="1362.07" type="curve" smooth="yes"/>
+			<point x="24.5" y="1284.93"/>
+			<point x="66.5" y="1249.21"/>
+			<point x="132.071" y="1249.21" type="curve" smooth="yes"/>
+			<point x="196.786" y="1249.21"/>
+			<point x="238.071" y="1284.93"/>
+			<point x="238.071" y="1362.07" type="curve" smooth="yes"/>
+			<point x="238.071" y="1440.43"/>
+			<point x="196.786" y="1474.07"/>
+			<point x="132.071" y="1474.07" type="curve" smooth="yes"/>
+			<point x="66.5" y="1474.07"/>
+			<point x="24.5" y="1440.43"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Symbol</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Math</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFE23" format="2">
+	<unicode hex="FE23"/>
+	<outline>
+		<contour>
+			<point x="0" y="1519.71" type="curve"/>
+			<point x="0" y="1293.86" type="line"/>
+			<point x="138.143" y="1268.29"/>
+			<point x="291.143" y="1245"/>
+			<point x="455.143" y="1245" type="curve" smooth="yes"/>
+			<point x="644.143" y="1245"/>
+			<point x="801.143" y="1355.86"/>
+			<point x="816" y="1569.43" type="curve"/>
+			<point x="656.429" y="1569.43" type="line"/>
+			<point x="624.571" y="1498"/>
+			<point x="552.714" y="1463.14"/>
+			<point x="472.286" y="1463.14" type="curve" smooth="yes"/>
+			<point x="299.143" y="1463.14"/>
+			<point x="156.429" y="1488.43"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="0" y="1125.57"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

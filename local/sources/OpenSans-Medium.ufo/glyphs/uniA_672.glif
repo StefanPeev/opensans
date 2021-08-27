@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA672" format="2">
+	<unicode hex="A672"/>
+	<outline>
+		<contour>
+			<point x="-1272" y="873.286" type="line"/>
+			<point x="-616.143" y="873.286" type="line"/>
+			<point x="-616.143" y="990.286" type="line"/>
+			<point x="-1272" y="990.286" type="line"/>
+		</contour>
+		<contour>
+			<point x="-1272" y="115.714" type="line"/>
+			<point x="-616.143" y="115.714" type="line"/>
+			<point x="-616.143" y="232.286" type="line"/>
+			<point x="-1272" y="232.286" type="line"/>
+		</contour>
+		<contour>
+			<point x="-1272" y="494.714" type="line"/>
+			<point x="-616.143" y="494.714" type="line"/>
+			<point x="-616.143" y="611.286" type="line"/>
+			<point x="-1272" y="611.286" type="line"/>
+		</contour>
+		<contour>
+			<point x="314.286" y="-133" type="line"/>
+			<point x="314.286" y="-788.857" type="line"/>
+			<point x="431.286" y="-788.857" type="line"/>
+			<point x="431.286" y="-133" type="line"/>
+		</contour>
+		<contour>
+			<point x="-441.286" y="-133" type="line"/>
+			<point x="-441.286" y="-788.857" type="line"/>
+			<point x="-324.714" y="-788.857" type="line"/>
+			<point x="-324.714" y="-133" type="line"/>
+		</contour>
+		<contour>
+			<point x="-64.7143" y="-133" type="line"/>
+			<point x="-64.7143" y="-788.857" type="line"/>
+			<point x="52.2857" y="-788.857" type="line"/>
+			<point x="52.2857" y="-133" type="line"/>
+		</contour>
+		<contour>
+			<point x="624.429" y="873.286" type="line"/>
+			<point x="1280.29" y="873.286" type="line"/>
+			<point x="1280.29" y="990.286" type="line"/>
+			<point x="624.429" y="990.286" type="line"/>
+		</contour>
+		<contour>
+			<point x="624.429" y="115.714" type="line"/>
+			<point x="1280.29" y="115.714" type="line"/>
+			<point x="1280.29" y="232.286" type="line"/>
+			<point x="624.429" y="232.286" type="line"/>
+		</contour>
+		<contour>
+			<point x="624.429" y="494.714" type="line"/>
+			<point x="1280.29" y="494.714" type="line"/>
+			<point x="1280.29" y="611.286" type="line"/>
+			<point x="624.429" y="611.286" type="line"/>
+		</contour>
+		<contour>
+			<point x="58" y="1578.29" type="line"/>
+			<point x="58" y="1845.29" type="line"/>
+			<point x="-59" y="1845.29" type="line"/>
+			<point x="-59" y="1578.29" type="line"/>
+			<point x="-327.571" y="1578.29" type="line"/>
+			<point x="-327.571" y="1461.29" type="line"/>
+			<point x="-59" y="1461.29" type="line"/>
+			<point x="-59" y="1196.86" type="line"/>
+			<point x="58" y="1196.86" type="line"/>
+			<point x="58" y="1461.29" type="line"/>
+			<point x="327.857" y="1461.29" type="line"/>
+			<point x="327.857" y="1578.29" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>cyrillic</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Enclosing</string>
+		</dict>
+	</lib>
+</glyph>

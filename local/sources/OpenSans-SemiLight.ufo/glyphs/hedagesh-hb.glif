@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hedagesh-hb" format="2">
+	<unicode hex="FB34"/>
+	<advance width="1289"/>
+	<outline>
+		<component base="he-hb"/>
+		<component base="dagesh-hb" xyScale="0" xOffset="638.643" yOffset="70.2143"/>
+	</outline>
+	<note>
+		uniFB34
+	</note>
+</glyph>

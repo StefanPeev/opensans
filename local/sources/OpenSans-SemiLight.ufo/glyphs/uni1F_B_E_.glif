@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FBE" format="2">
+	<unicode hex="1FBE"/>
+	<advance width="1247"/>
+	<outline>
+		<contour>
+			<point x="615" y="-119.5" type="line"/>
+			<point x="491.5" y="-119.5" type="line"/>
+			<point x="491.5" y="-303.714" type="line" smooth="yes"/>
+			<point x="491.5" y="-412.714"/>
+			<point x="548.643" y="-465.643"/>
+			<point x="647.929" y="-465.643" type="curve" smooth="yes"/>
+			<point x="690.071" y="-465.643"/>
+			<point x="727.5" y="-455.214"/>
+			<point x="753.714" y="-445.071" type="curve"/>
+			<point x="753.714" y="-344.5" type="line"/>
+			<point x="735.071" y="-350.5"/>
+			<point x="707" y="-357.429"/>
+			<point x="683.786" y="-357.429" type="curve" smooth="yes"/>
+			<point x="640.357" y="-357.429"/>
+			<point x="615" y="-335.214"/>
+			<point x="615" y="-275.571" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>greek</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

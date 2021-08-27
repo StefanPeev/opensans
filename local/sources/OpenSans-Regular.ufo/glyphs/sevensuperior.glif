@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sevensuperior" format="2">
+	<unicode hex="2077"/>
+	<advance width="734"/>
+	<outline>
+		<contour>
+			<point x="162.571" y="852" type="line"/>
+			<point x="331.857" y="852" type="line"/>
+			<point x="686.857" y="1626.29" type="line"/>
+			<point x="686.857" y="1729" type="line"/>
+			<point x="62.1429" y="1729" type="line"/>
+			<point x="62.1429" y="1606.71" type="line"/>
+			<point x="531.429" y="1606.71" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Number</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Small</string>
+		</dict>
+	</lib>
+</glyph>

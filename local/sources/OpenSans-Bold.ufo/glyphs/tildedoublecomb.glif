@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildedoublecomb" format="2">
+	<unicode hex="0360"/>
+	<outline>
+		<contour>
+			<point x="815.143" y="1569.43" type="curve"/>
+			<point x="654.714" y="1569.43" type="line"/>
+			<point x="623.857" y="1498.86"/>
+			<point x="552.714" y="1465.29"/>
+			<point x="467.571" y="1465.29" type="curve" smooth="yes"/>
+			<point x="151.714" y="1465.29"/>
+			<point x="-89.5714" y="1568.57"/>
+			<point x="-453.857" y="1568.57" type="curve" smooth="yes"/>
+			<point x="-638" y="1568.57"/>
+			<point x="-795" y="1463.57"/>
+			<point x="-814.857" y="1243" type="curve"/>
+			<point x="-652.714" y="1243" type="line"/>
+			<point x="-624.571" y="1314.43"/>
+			<point x="-550.714" y="1348.86"/>
+			<point x="-469" y="1348.86" type="curve" smooth="yes"/>
+			<point x="-165.143" y="1348.86"/>
+			<point x="105.857" y="1245"/>
+			<point x="454" y="1245" type="curve" smooth="yes"/>
+			<point x="640.286" y="1245"/>
+			<point x="796.714" y="1350.86"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="0.285714" y="1125.57"/>
+	<anchor name="top" x="3.71429" y="1569.43"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

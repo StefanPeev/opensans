@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.lf" format="2">
+	<advance width="1239"/>
+	<outline>
+		<contour>
+			<point x="827.571" y="0" type="line"/>
+			<point x="928.571" y="0" type="line"/>
+			<point x="928.571" y="380.714" type="line"/>
+			<point x="1187.43" y="380.714" type="line"/>
+			<point x="1187.43" y="467.429" type="line"/>
+			<point x="928.571" y="467.429" type="line"/>
+			<point x="928.571" y="1468.86" type="line"/>
+			<point x="827.571" y="1468.86" type="line"/>
+			<point x="85.8571" y="453.857" type="line"/>
+			<point x="85.8571" y="380.714" type="line"/>
+			<point x="827.571" y="380.714" type="line"/>
+		</contour>
+		<contour>
+			<point x="827.571" y="467.429" type="line"/>
+			<point x="198.143" y="467.429" type="line"/>
+			<point x="701.857" y="1155.86" type="line" smooth="yes"/>
+			<point x="758.286" y="1234.29"/>
+			<point x="782" y="1271"/>
+			<point x="825.571" y="1340.86" type="curve"/>
+			<point x="830.143" y="1340.86" type="line"/>
+			<point x="827.857" y="1244.43"/>
+			<point x="827.571" y="1194.29"/>
+			<point x="827.571" y="1036.43" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Number</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Decimal Digit</string>
+		</dict>
+	</lib>
+</glyph>

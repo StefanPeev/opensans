@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gravecomb" format="2">
+	<unicode hex="0300"/>
+	<outline>
+		<contour>
+			<point x="-754.143" y="1569" type="curve"/>
+			<point x="-1078.71" y="1569" type="line"/>
+			<point x="-1078.71" y="1549.71" type="line"/>
+			<point x="-988.143" y="1467.71"/>
+			<point x="-794" y="1316.71"/>
+			<point x="-683.571" y="1241" type="curve"/>
+			<point x="-485.571" y="1241" type="line"/>
+			<point x="-485.571" y="1265.14" type="line"/>
+			<point x="-559.714" y="1342.86"/>
+			<point x="-687" y="1478.14"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="-782.429" y="1118.14"/>
+	<anchor name="top" x="-782.429" y="1567.57"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>grave</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

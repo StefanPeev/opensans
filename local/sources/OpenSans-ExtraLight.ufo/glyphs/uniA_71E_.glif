@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA71E" format="2">
+	<unicode hex="A71E"/>
+	<advance width="279"/>
+	<outline>
+		<contour>
+			<point x="109.143" y="1542.71" type="line"/>
+			<point x="94" y="762.286" type="line"/>
+			<point x="180.143" y="762.286" type="line"/>
+			<point x="166.714" y="1542.71" type="line"/>
+		</contour>
+		<contour>
+			<point x="187.714" y="1712.14" type="curve" smooth="yes"/>
+			<point x="187.714" y="1745.29"/>
+			<point x="172.571" y="1763.14"/>
+			<point x="142.143" y="1763.14" type="curve" smooth="yes"/>
+			<point x="105.286" y="1763.14"/>
+			<point x="92.4286" y="1745.29"/>
+			<point x="92.4286" y="1712.14" type="curve" smooth="yes"/>
+			<point x="92.4286" y="1677.29"/>
+			<point x="105.286" y="1658.57"/>
+			<point x="142.143" y="1658.57" type="curve" smooth="yes"/>
+			<point x="172.571" y="1658.57"/>
+			<point x="187.714" y="1677.29"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Modifier</string>
+		</dict>
+	</lib>
+</glyph>

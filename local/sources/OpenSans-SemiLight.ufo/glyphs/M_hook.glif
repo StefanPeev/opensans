@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Mhook" format="2">
+	<unicode hex="2C6E"/>
+	<advance width="1809"/>
+	<outline>
+		<contour>
+			<point x="1616" y="1462" type="line"/>
+			<point x="1375.07" y="1462" type="line"/>
+			<point x="908.929" y="214.429" type="line"/>
+			<point x="902.214" y="214.429" type="line"/>
+			<point x="435.214" y="1462" type="line"/>
+			<point x="192.071" y="1462" type="line"/>
+			<point x="192.071" y="0" type="line"/>
+			<point x="351.143" y="0" type="line"/>
+			<point x="351.143" y="1011.71" type="line" smooth="yes"/>
+			<point x="351.143" y="1083.79"/>
+			<point x="347.571" y="1182.64"/>
+			<point x="342.357" y="1270.29" type="curve"/>
+			<point x="348.143" y="1270.29" type="line"/>
+			<point x="821.357" y="0" type="line"/>
+			<point x="982" y="0" type="line"/>
+			<point x="1453.14" y="1268.29" type="line"/>
+			<point x="1458.93" y="1268.29" type="line"/>
+			<point x="1454.43" y="1185.64"/>
+			<point x="1452.29" y="1082.93"/>
+			<point x="1452.29" y="1021.57" type="curve" smooth="yes"/>
+			<point x="1452.29" y="-36.9286" type="line" smooth="yes"/>
+			<point x="1452.29" y="-193.286"/>
+			<point x="1394.21" y="-271.571"/>
+			<point x="1270.86" y="-271.571" type="curve" smooth="yes"/>
+			<point x="1202.36" y="-271.571"/>
+			<point x="1153.36" y="-257.929"/>
+			<point x="1114.21" y="-244.143" type="curve"/>
+			<point x="1114.21" y="-389.143" type="line"/>
+			<point x="1152.93" y="-401.429"/>
+			<point x="1208.36" y="-414"/>
+			<point x="1291.93" y="-414" type="curve" smooth="yes"/>
+			<point x="1488.36" y="-414"/>
+			<point x="1616" y="-294.429"/>
+			<point x="1616" y="-23.8571" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="905.5" y="-414"/>
+	<anchor name="top" x="905.5" y="1462"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

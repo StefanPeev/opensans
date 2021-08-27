@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="longs_t" format="2">
+	<unicode hex="FB05"/>
+	<advance width="1350"/>
+	<outline>
+		<contour>
+			<point x="1072.86" y="-20" type="curve" smooth="yes"/>
+			<point x="1172" y="-20"/>
+			<point x="1230.93" y="-3"/>
+			<point x="1290.57" y="19.2143" type="curve"/>
+			<point x="1290.57" y="153.786" type="line"/>
+			<point x="1238.79" y="135.286"/>
+			<point x="1187.64" y="123.143"/>
+			<point x="1118.93" y="123.143" type="curve" smooth="yes"/>
+			<point x="997.929" y="123.143"/>
+			<point x="956.357" y="196.786"/>
+			<point x="956.357" y="330.857" type="curve" smooth="yes"/>
+			<point x="956.357" y="962.143" type="line"/>
+			<point x="1281.93" y="962.143" type="line"/>
+			<point x="1281.93" y="1099.57" type="line"/>
+			<point x="956.357" y="1099.57" type="line"/>
+			<point x="956.357" y="1353.57" type="line"/>
+			<point x="903.929" y="1463.43"/>
+			<point x="811.5" y="1567"/>
+			<point x="582.357" y="1567" type="curve" smooth="yes"/>
+			<point x="320.786" y="1567"/>
+			<point x="167.786" y="1418.43"/>
+			<point x="167.786" y="1154.07" type="curve" smooth="yes"/>
+			<point x="167.786" y="0" type="line"/>
+			<point x="342.143" y="0" type="line"/>
+			<point x="342.143" y="1147.36" type="line" smooth="yes"/>
+			<point x="342.143" y="1321.79"/>
+			<point x="422.143" y="1433.86"/>
+			<point x="582.357" y="1433.86" type="curve" smooth="yes"/>
+			<point x="715.929" y="1433.86"/>
+			<point x="759.643" y="1372.36"/>
+			<point x="780" y="1301.43" type="curve"/>
+			<point x="780" y="1087.07" type="line"/>
+			<point x="627.714" y="1047.86" type="line"/>
+			<point x="627.714" y="962.143" type="line"/>
+			<point x="781.286" y="962.143" type="line"/>
+			<point x="781.286" y="317.714" type="line" smooth="yes"/>
+			<point x="781.286" y="85.2857"/>
+			<point x="871.786" y="-20"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="574.214" y="0"/>
+	<anchor name="center" x="972.571" y="550.286"/>
+	<anchor name="top" x="563.857" y="1567"/>
+	<anchor name="topright" x="1294.79" y="1353.57"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>longs</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>t</string>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>longs</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>t</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02C0" format="2">
+	<unicode hex="02C0"/>
+	<advance width="622"/>
+	<outline>
+		<contour>
+			<point x="190.571" y="939.286" type="line"/>
+			<point x="313.643" y="939.286" type="line"/>
+			<point x="313.643" y="1051.5" type="line"/>
+			<point x="494.429" y="1090.21"/>
+			<point x="579.714" y="1183.64"/>
+			<point x="579.714" y="1312.36" type="curve" smooth="yes"/>
+			<point x="579.714" y="1458.14"/>
+			<point x="484.857" y="1569"/>
+			<point x="276.214" y="1569" type="curve" smooth="yes"/>
+			<point x="170.286" y="1569"/>
+			<point x="77" y="1542.14"/>
+			<point x="12.1429" y="1503.14" type="curve"/>
+			<point x="56.9286" y="1402.21" type="line"/>
+			<point x="110.143" y="1438"/>
+			<point x="179.071" y="1463.57"/>
+			<point x="261.143" y="1463.57" type="curve" smooth="yes"/>
+			<point x="379.786" y="1463.57"/>
+			<point x="436" y="1395.36"/>
+			<point x="436" y="1310.79" type="curve" smooth="yes"/>
+			<point x="436" y="1214.64"/>
+			<point x="348.929" y="1145.86"/>
+			<point x="190.571" y="1123.93" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Modifier</string>
+		</dict>
+	</lib>
+</glyph>

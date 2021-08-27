@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA65E" format="2">
+	<unicode hex="A65E"/>
+	<advance width="1376"/>
+	<outline>
+		<contour>
+			<point x="1375.71" y="1.71429" type="line"/>
+			<point x="816" y="1463.71" type="line"/>
+			<point x="704.143" y="1463.71" type="line"/>
+			<point x="324" y="344.429" type="line" smooth="yes"/>
+			<point x="258.429" y="152"/>
+			<point x="213.143" y="78.4286"/>
+			<point x="108.286" y="78.4286" type="curve" smooth="yes"/>
+			<point x="76.5714" y="78.4286"/>
+			<point x="47.5714" y="84.4286"/>
+			<point x="20.7143" y="92.1429" type="curve"/>
+			<point x="20.7143" y="3.71429" type="line"/>
+			<point x="51.7143" y="-6.28571"/>
+			<point x="81" y="-10.5714"/>
+			<point x="119" y="-10.5714" type="curve" smooth="yes"/>
+			<point x="275.143" y="-10.5714"/>
+			<point x="337.571" y="100.143"/>
+			<point x="407.714" y="304.143" type="curve" smooth="yes"/>
+			<point x="626.143" y="941.429" type="line" smooth="yes"/>
+			<point x="663" y="1047.43"/>
+			<point x="689.429" y="1154.29"/>
+			<point x="709.286" y="1238.71" type="curve"/>
+			<point x="716.429" y="1238.71" type="line"/>
+			<point x="716.429" y="-266" type="line"/>
+			<point x="808.429" y="-266" type="line"/>
+			<point x="808.429" y="1238.71" type="line"/>
+			<point x="815.286" y="1238.71" type="line"/>
+			<point x="837" y="1156.14"/>
+			<point x="869.714" y="1058.71"/>
+			<point x="911" y="945.143" type="curve"/>
+			<point x="1269.86" y="1.71429" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsRight</key>
+			<string>A</string>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>A</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>cyrillic</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

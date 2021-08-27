@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA740" format="2">
+	<unicode hex="A740"/>
+	<advance width="1256"/>
+	<outline>
+		<contour>
+			<point x="42" y="1149.29" type="line"/>
+			<point x="605.429" y="1149.29" type="line"/>
+			<point x="605.429" y="1288.71" type="line"/>
+			<point x="42" y="1288.71" type="line"/>
+		</contour>
+		<contour>
+			<point x="1256.14" y="0" type="line"/>
+			<point x="706" y="833.857" type="line"/>
+			<point x="1252.14" y="1462" type="line"/>
+			<point x="1023" y="1462" type="line"/>
+			<point x="499.429" y="874.571" type="line"/>
+			<point x="460.714" y="828.571"/>
+			<point x="420.571" y="780.714"/>
+			<point x="388.714" y="733.857" type="curve"/>
+			<point x="388.714" y="1462" type="line"/>
+			<point x="188.286" y="1462" type="line"/>
+			<point x="188.286" y="0" type="line"/>
+			<point x="388.714" y="0" type="line"/>
+			<point x="388.714" y="552.429" type="line"/>
+			<point x="561.714" y="705.286" type="line"/>
+			<point x="1025" y="0" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="642.143" y="0"/>
+	<anchor name="top" x="645.571" y="1462"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsRight</key>
+			<string>=K</string>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>K</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>=K</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

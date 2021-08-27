@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2E17" format="2">
+	<unicode hex="2E17"/>
+	<advance width="671"/>
+	<outline>
+		<contour>
+			<point x="62.4286" y="538.286" type="line"/>
+			<point x="639.429" y="886.714" type="line"/>
+			<point x="604" y="944.857" type="line"/>
+			<point x="29.5714" y="594.714" type="line"/>
+		</contour>
+		<contour>
+			<point x="62.4286" y="197" type="line"/>
+			<point x="637.714" y="547.143" type="line"/>
+			<point x="604" y="603.857" type="line"/>
+			<point x="29.5714" y="255.143" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Punctuation</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Dash</string>
+		</dict>
+	</lib>
+</glyph>

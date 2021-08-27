@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="carondot" format="2">
+	<outline>
+		<contour>
+			<point x="-42" y="1246.14" type="curve"/>
+			<point x="44" y="1246.14" type="line"/>
+			<point x="95" y="1328"/>
+			<point x="203" y="1455.71"/>
+			<point x="271.857" y="1519.71" type="curve"/>
+			<point x="271.857" y="1532.14" type="line"/>
+			<point x="219" y="1532.14" type="line"/>
+			<point x="143" y="1473.14"/>
+			<point x="66" y="1398.86"/>
+			<point x="2" y="1321.71" type="curve"/>
+			<point x="-61.7143" y="1398.29"/>
+			<point x="-133.571" y="1465.57"/>
+			<point x="-217.857" y="1532.14" type="curve"/>
+			<point x="-273" y="1532.14" type="line"/>
+			<point x="-273" y="1519.71" type="line"/>
+			<point x="-198.143" y="1454.86"/>
+			<point x="-93" y="1328"/>
+		</contour>
+		<contour>
+			<point x="-3.42857" y="1552.71" type="curve" smooth="yes"/>
+			<point x="51.7143" y="1552.71"/>
+			<point x="65.7143" y="1584"/>
+			<point x="65.7143" y="1626.29" type="curve" smooth="yes"/>
+			<point x="65.7143" y="1667.86"/>
+			<point x="51.7143" y="1701.43"/>
+			<point x="-3.42857" y="1701.43" type="curve" smooth="yes"/>
+			<point x="-52" y="1701.43"/>
+			<point x="-68.5714" y="1667.86"/>
+			<point x="-68.5714" y="1626.29" type="curve" smooth="yes"/>
+			<point x="-68.5714" y="1584"/>
+			<point x="-52" y="1552.71"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string></string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10082" format="2">
+	<unicode hex="0440"/>
+	<advance width="1282"/>
+	<outline>
+		<contour>
+			<point x="773.857" y="1138.43" type="curve" smooth="yes"/>
+			<point x="597.429" y="1138.43"/>
+			<point x="497.143" y="1045.57"/>
+			<point x="444.286" y="941.571" type="curve"/>
+			<point x="430.286" y="941.571" type="line"/>
+			<point x="389.571" y="1118.14" type="line"/>
+			<point x="149.571" y="1118.14" type="line"/>
+			<point x="149.571" y="-487.143" type="line"/>
+			<point x="444.286" y="-487.143" type="line"/>
+			<point x="444.286" y="-64.5714" type="line" smooth="yes"/>
+			<point x="444.286" y="17.1429"/>
+			<point x="440" y="83.5714"/>
+			<point x="434.571" y="147.286" type="curve"/>
+			<point x="444.286" y="147.286" type="line"/>
+			<point x="492.143" y="61.8571"/>
+			<point x="583.857" y="-20"/>
+			<point x="759.571" y="-20" type="curve" smooth="yes"/>
+			<point x="1011.86" y="-20"/>
+			<point x="1185.57" y="183.143"/>
+			<point x="1185.57" y="563.857" type="curve" smooth="yes"/>
+			<point x="1185.57" y="936"/>
+			<point x="1034.43" y="1138.43"/>
+		</contour>
+		<contour>
+			<point x="668.857" y="904.571" type="curve" smooth="yes"/>
+			<point x="810.286" y="904.571"/>
+			<point x="885.571" y="805.429"/>
+			<point x="885.571" y="566.714" type="curve" smooth="yes"/>
+			<point x="885.571" y="325.571"/>
+			<point x="806.286" y="219.571"/>
+			<point x="664.571" y="219.571" type="curve" smooth="yes"/>
+			<point x="511.286" y="219.571"/>
+			<point x="444.286" y="333"/>
+			<point x="444.286" y="561.286" type="curve" smooth="yes"/>
+			<point x="444.286" y="585.143" type="line"/>
+			<point x="447.143" y="792"/>
+			<point x="511.857" y="904.571"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="299.429" y="-487.143"/>
+	<anchor name="top" x="653.714" y="1118.14"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>p</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>cyrillic</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

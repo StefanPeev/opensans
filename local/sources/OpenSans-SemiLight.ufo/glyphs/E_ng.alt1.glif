@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eng.alt1" format="2">
+	<advance width="1456"/>
+	<outline>
+		<contour>
+			<point x="936.714" y="-411.857" type="curve" smooth="yes"/>
+			<point x="1168.86" y="-411.857"/>
+			<point x="1275.07" y="-261.571"/>
+			<point x="1275.07" y="-41.3571" type="curve" smooth="yes"/>
+			<point x="1275.07" y="933.857" type="line" smooth="yes"/>
+			<point x="1275.07" y="1321"/>
+			<point x="1089.71" y="1481.57"/>
+			<point x="801.5" y="1481.57" type="curve" smooth="yes"/>
+			<point x="511" y="1481.57"/>
+			<point x="390.143" y="1329.79"/>
+			<point x="337.714" y="1199.5" type="curve"/>
+			<point x="331.571" y="1199.5" type="line"/>
+			<point x="308.286" y="1459.86" type="line"/>
+			<point x="173.286" y="1459.86" type="line"/>
+			<point x="173.286" y="0" type="line"/>
+			<point x="349.071" y="0" type="line"/>
+			<point x="349.071" y="834.143" type="line" smooth="yes"/>
+			<point x="349.071" y="1193.5"/>
+			<point x="501.071" y="1332.36"/>
+			<point x="752.143" y="1332.36" type="curve" smooth="yes"/>
+			<point x="973.643" y="1332.36"/>
+			<point x="1099.93" y="1208.21"/>
+			<point x="1099.93" y="912.5" type="curve" smooth="yes"/>
+			<point x="1099.93" y="-18.7143" type="line" smooth="yes"/>
+			<point x="1099.93" y="-187.214"/>
+			<point x="1031.5" y="-257.643"/>
+			<point x="902.071" y="-257.643" type="curve" smooth="yes"/>
+			<point x="837.857" y="-257.643"/>
+			<point x="792.429" y="-245.429"/>
+			<point x="755.786" y="-230.214" type="curve"/>
+			<point x="755.786" y="-383.429" type="line"/>
+			<point x="795.214" y="-397.5"/>
+			<point x="856" y="-411.857"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="728.571" y="-411.857"/>
+	<anchor name="top" x="728.571" y="1462"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

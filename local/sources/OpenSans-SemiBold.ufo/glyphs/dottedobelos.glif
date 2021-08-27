@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dottedobelos" format="2">
+	<unicode hex="2E13"/>
+	<advance width="1430"/>
+	<outline>
+		<contour>
+			<point x="1124.29" y="1462" type="line"/>
+			<point x="134.429" y="0" type="line"/>
+			<point x="305.429" y="0" type="line"/>
+			<point x="1295.29" y="1462" type="line"/>
+		</contour>
+		<contour>
+			<point x="211.857" y="938.571" type="curve" smooth="yes"/>
+			<point x="211.857" y="860.571"/>
+			<point x="268.714" y="802.857"/>
+			<point x="342.143" y="802.857" type="curve" smooth="yes"/>
+			<point x="418.143" y="802.857"/>
+			<point x="471.857" y="860.571"/>
+			<point x="471.857" y="938.571" type="curve" smooth="yes"/>
+			<point x="471.857" y="1014.14"/>
+			<point x="418.143" y="1074.43"/>
+			<point x="342.143" y="1074.43" type="curve" smooth="yes"/>
+			<point x="268.714" y="1074.43"/>
+			<point x="211.857" y="1014.14"/>
+		</contour>
+		<contour>
+			<point x="955.286" y="527" type="curve" smooth="yes"/>
+			<point x="955.286" y="449"/>
+			<point x="1011.86" y="391.857"/>
+			<point x="1085.57" y="391.857" type="curve" smooth="yes"/>
+			<point x="1161.57" y="391.857"/>
+			<point x="1215.29" y="449"/>
+			<point x="1215.29" y="527" type="curve" smooth="yes"/>
+			<point x="1215.29" y="603.857"/>
+			<point x="1161.57" y="662.857"/>
+			<point x="1085.57" y="662.857" type="curve" smooth="yes"/>
+			<point x="1011.86" y="662.857"/>
+			<point x="955.286" y="603.857"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Punctuation</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Other</string>
+		</dict>
+	</lib>
+</glyph>

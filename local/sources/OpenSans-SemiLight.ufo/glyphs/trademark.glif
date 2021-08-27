@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="trademark" format="2">
+	<unicode hex="2122"/>
+	<advance width="1472"/>
+	<outline>
+		<contour>
+			<point x="609.643" y="741" type="line"/>
+			<point x="712.643" y="741" type="line"/>
+			<point x="712.643" y="1135.86" type="line" smooth="yes"/>
+			<point x="712.643" y="1208.14"/>
+			<point x="711.929" y="1265.86"/>
+			<point x="708.857" y="1335.21" type="curve"/>
+			<point x="714.643" y="1335.21" type="line"/>
+			<point x="918.714" y="741" type="line"/>
+			<point x="1008.79" y="741" type="line"/>
+			<point x="1218.29" y="1330.07" type="line"/>
+			<point x="1224.07" y="1330.07" type="line"/>
+			<point x="1221.36" y="1260.79"/>
+			<point x="1220.29" y="1200.29"/>
+			<point x="1220.29" y="1128.79" type="curve" smooth="yes"/>
+			<point x="1220.29" y="741" type="line"/>
+			<point x="1324" y="741" type="line"/>
+			<point x="1324" y="1462" type="line"/>
+			<point x="1177.86" y="1462" type="line"/>
+			<point x="966.143" y="878.857" type="line"/>
+			<point x="763.571" y="1462" type="line"/>
+			<point x="609.643" y="1462" type="line"/>
+		</contour>
+		<contour>
+			<point x="217.286" y="741" type="line"/>
+			<point x="321.357" y="741" type="line"/>
+			<point x="321.357" y="1366.36" type="line"/>
+			<point x="528.643" y="1366.36" type="line"/>
+			<point x="528.643" y="1462" type="line"/>
+			<point x="10.6429" y="1462" type="line"/>
+			<point x="10.6429" y="1366.36" type="line"/>
+			<point x="217.286" y="1366.36" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Symbol</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Other</string>
+		</dict>
+	</lib>
+</glyph>

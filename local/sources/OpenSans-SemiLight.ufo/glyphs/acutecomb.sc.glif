@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutecomb.sc" format="2">
+	<advance width="1201"/>
+	<outline>
+		<contour>
+			<point x="914.214" y="1617.71" type="line"/>
+			<point x="689.857" y="1617.71" type="line"/>
+			<point x="633.214" y="1540.36"/>
+			<point x="499.857" y="1390.29"/>
+			<point x="420.643" y="1311.14" type="curve"/>
+			<point x="420.643" y="1290.36" type="line"/>
+			<point x="557.357" y="1290.36" type="line"/>
+			<point x="661.357" y="1371.79"/>
+			<point x="830.357" y="1515.5"/>
+			<point x="914.214" y="1601.21" type="curve"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="610.286" y="1168.21"/>
+	<anchor name="top" x="668.857" y="1617.71"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Smallcaps</string>
+		</dict>
+	</lib>
+</glyph>

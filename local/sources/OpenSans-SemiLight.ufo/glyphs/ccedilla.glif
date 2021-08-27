@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ccedilla" format="2">
+	<unicode hex="00E7"/>
+	<advance width="1016"/>
+	<outline>
+		<contour>
+			<point x="629.786" y="-20" type="curve" smooth="yes"/>
+			<point x="758.143" y="-20"/>
+			<point x="861.5" y="9"/>
+			<point x="938.786" y="49.7857" type="curve"/>
+			<point x="938.786" y="193.643" type="line"/>
+			<point x="851.286" y="149.929"/>
+			<point x="745.571" y="123.857"/>
+			<point x="641.571" y="123.857" type="curve" smooth="yes"/>
+			<point x="399.143" y="123.857"/>
+			<point x="285.643" y="295.643"/>
+			<point x="285.643" y="545" type="curve" smooth="yes"/>
+			<point x="285.643" y="808"/>
+			<point x="431.214" y="977.786"/>
+			<point x="663.357" y="977.786" type="curve" smooth="yes"/>
+			<point x="744.214" y="977.786"/>
+			<point x="824.071" y="959.786"/>
+			<point x="910.357" y="921.357" type="curve"/>
+			<point x="957.857" y="1058" type="line"/>
+			<point x="870.786" y="1097.5"/>
+			<point x="776.643" y="1120.21"/>
+			<point x="663.357" y="1120.21" type="curve" smooth="yes"/>
+			<point x="328.429" y="1120.21"/>
+			<point x="108.5" y="902.929"/>
+			<point x="108.5" y="544.286" type="curve" smooth="yes"/>
+			<point x="108.5" y="195.929"/>
+			<point x="284.5" y="-20"/>
+		</contour>
+		<contour>
+			<point x="786.5" y="-280.929" type="curve" smooth="yes"/>
+			<point x="786.5" y="-171.143"/>
+			<point x="703.286" y="-117.929"/>
+			<point x="597.5" y="-107.286" type="curve"/>
+			<point x="648" y="0" type="line"/>
+			<point x="545.571" y="0" type="line"/>
+			<point x="465.286" y="-161.5" type="line"/>
+			<point x="596.286" y="-168.286"/>
+			<point x="652.714" y="-201.929"/>
+			<point x="652.714" y="-274" type="curve" smooth="yes"/>
+			<point x="652.714" y="-345.643"/>
+			<point x="593.429" y="-386.643"/>
+			<point x="507.714" y="-386.643" type="curve" smooth="yes"/>
+			<point x="458.857" y="-386.643"/>
+			<point x="423.571" y="-382.5"/>
+			<point x="385" y="-370.714" type="curve"/>
+			<point x="385" y="-471.143" type="line"/>
+			<point x="422.429" y="-482.714"/>
+			<point x="472.786" y="-492"/>
+			<point x="539.143" y="-492" type="curve" smooth="yes"/>
+			<point x="683.929" y="-492"/>
+			<point x="786.5" y="-409.214"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="619.929" y="-492"/>
+	<anchor name="top" x="617.357" y="1099.57"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>c</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>cedilla</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

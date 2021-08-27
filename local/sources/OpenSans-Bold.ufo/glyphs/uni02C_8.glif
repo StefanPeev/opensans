@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02C8" format="2">
+	<unicode hex="02C8"/>
+	<advance width="369"/>
+	<outline>
+		<contour>
+			<point x="287" y="1584.29" type="line"/>
+			<point x="82" y="1584.29" type="line"/>
+			<point x="82" y="1016" type="line"/>
+			<point x="287" y="1016" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="184" y="920.714"/>
+	<anchor name="top" x="189.143" y="1584.29"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>dotaccent</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>dotaccent</string>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>dotaccent</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>dotaccent</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Modifier</string>
+		</dict>
+	</lib>
+</glyph>

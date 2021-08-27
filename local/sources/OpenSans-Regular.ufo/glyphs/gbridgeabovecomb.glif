@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gbridgeabovecomb" format="2">
+	<unicode hex="0346"/>
+	<outline>
+		<contour>
+			<point x="-365.429" y="1529" type="line"/>
+			<point x="-365.429" y="1230.86" type="line"/>
+			<point x="-268.143" y="1230.86" type="line"/>
+			<point x="-268.143" y="1440.29" type="line"/>
+			<point x="268.143" y="1440.29" type="line"/>
+			<point x="268.143" y="1230.86" type="line"/>
+			<point x="365.429" y="1230.86" type="line"/>
+			<point x="365.429" y="1529" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="0" y="1103.29"/>
+	<anchor name="top" x="1.71429" y="1529"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

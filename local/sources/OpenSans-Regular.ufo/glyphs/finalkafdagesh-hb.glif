@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="finalkafdagesh-hb" format="2">
+	<unicode hex="FB3A"/>
+	<advance width="1028"/>
+	<outline>
+		<component base="finalkaf-hb"/>
+		<component base="dagesh-hb" xyScale="0" xOffset="321.714" yOffset="65.1429"/>
+	</outline>
+	<note>
+		uniFB3A
+	</note>
+</glyph>

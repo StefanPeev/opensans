@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="archaicsampi" format="2">
+	<unicode hex="0373"/>
+	<advance width="1219"/>
+	<outline>
+		<contour>
+			<point x="782" y="0" type="line"/>
+			<point x="782" y="1292.57" type="line"/>
+			<point x="1159.57" y="1292.57" type="line"/>
+			<point x="1159.57" y="1557.86" type="line"/>
+			<point x="58.2857" y="1557.86" type="line"/>
+			<point x="58.2857" y="1292.57" type="line"/>
+			<point x="435.857" y="1292.57" type="line"/>
+			<point x="435.857" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="952.571" y="1557.86" type="line"/>
+			<point x="952.571" y="907" type="line"/>
+			<point x="1181.43" y="907" type="line"/>
+			<point x="1181.43" y="1557.86" type="line"/>
+		</contour>
+		<contour>
+			<point x="37.2857" y="1557.86" type="line"/>
+			<point x="37.2857" y="907" type="line"/>
+			<point x="266" y="907" type="line"/>
+			<point x="266" y="1557.86" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="610.143" y="0"/>
+	<anchor name="top" x="610.143" y="1557.86"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>greek</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="five.dnom" format="2">
+	<advance width="734"/>
+	<outline>
+		<contour>
+			<point x="632.857" y="880.429" type="line"/>
+			<point x="155.571" y="880.429" type="line"/>
+			<point x="121.571" y="453.714" type="line"/>
+			<point x="198.857" y="426.143" type="line"/>
+			<point x="232.286" y="438.143"/>
+			<point x="293.143" y="445.857"/>
+			<point x="332.286" y="445.857" type="curve" smooth="yes"/>
+			<point x="465.429" y="445.857"/>
+			<point x="528.143" y="379.571"/>
+			<point x="528.143" y="278.143" type="curve" smooth="yes"/>
+			<point x="528.143" y="162.143"/>
+			<point x="448.286" y="102.571"/>
+			<point x="319.429" y="102.571" type="curve" smooth="yes"/>
+			<point x="233.714" y="102.571"/>
+			<point x="156.857" y="130.429"/>
+			<point x="82.2857" y="172.286" type="curve"/>
+			<point x="82.2857" y="40.7143" type="line"/>
+			<point x="148.286" y="6.85714"/>
+			<point x="230.857" y="-14"/>
+			<point x="332.286" y="-14" type="curve" smooth="yes"/>
+			<point x="538.286" y="-14"/>
+			<point x="678" y="89.7143"/>
+			<point x="678" y="278.143" type="curve" smooth="yes"/>
+			<point x="678" y="442.714"/>
+			<point x="564.857" y="552.571"/>
+			<point x="377.429" y="552.571" type="curve" smooth="yes"/>
+			<point x="325.286" y="552.571"/>
+			<point x="277.143" y="543.857"/>
+			<point x="244.571" y="538.429" type="curve"/>
+			<point x="263.714" y="758.571" type="line"/>
+			<point x="632.857" y="758.571" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>fivesuperior</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Number</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Fraction</string>
+		</dict>
+	</lib>
+</glyph>

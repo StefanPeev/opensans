@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="minus" format="2">
+	<unicode hex="2212"/>
+	<advance width="1160"/>
+	<outline>
+		<contour>
+			<point x="77.8571" y="603.714" type="line"/>
+			<point x="1080.71" y="603.714" type="line"/>
+			<point x="1080.71" y="840.571" type="line"/>
+			<point x="77.8571" y="840.571" type="line"/>
+		</contour>
+	</outline>
+</glyph>

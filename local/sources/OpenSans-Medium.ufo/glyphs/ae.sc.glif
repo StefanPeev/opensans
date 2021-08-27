@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ae.sc" format="2">
+	<advance width="1515"/>
+	<outline>
+		<contour>
+			<point x="763" y="286.286" type="line"/>
+			<point x="763" y="0" type="line"/>
+			<point x="1427.71" y="0" type="line"/>
+			<point x="1427.71" y="191.571" type="line"/>
+			<point x="1003" y="191.571" type="line"/>
+			<point x="1003" y="515.429" type="line"/>
+			<point x="1398.86" y="515.429" type="line"/>
+			<point x="1398.86" y="704.714" type="line"/>
+			<point x="1003" y="704.714" type="line"/>
+			<point x="1003" y="990.571" type="line"/>
+			<point x="1427.71" y="990.571" type="line"/>
+			<point x="1427.71" y="1182.14" type="line"/>
+			<point x="526.429" y="1182.14" type="line"/>
+			<point x="4" y="0" type="line"/>
+			<point x="276" y="0" type="line"/>
+			<point x="392.857" y="286.286" type="line"/>
+		</contour>
+		<contour>
+			<point x="763" y="990.571" type="line"/>
+			<point x="763" y="488.143" type="line"/>
+			<point x="469.571" y="488.143" type="line"/>
+			<point x="678.714" y="990.571" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="758.143" y="0"/>
+	<anchor name="top" x="768.429" y="1182.14"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Smallcaps</string>
+		</dict>
+	</lib>
+</glyph>

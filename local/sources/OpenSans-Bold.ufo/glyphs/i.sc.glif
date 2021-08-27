@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i.sc" format="2">
+	<advance width="760"/>
+	<outline>
+		<contour>
+			<point x="56" y="0" type="line"/>
+			<point x="703.571" y="0" type="line"/>
+			<point x="703.571" y="190.714" type="line"/>
+			<point x="551.429" y="250.429" type="line"/>
+			<point x="551.429" y="952.571" type="line"/>
+			<point x="703.571" y="1009.71" type="line"/>
+			<point x="703.571" y="1200.71" type="line"/>
+			<point x="56" y="1200.71" type="line"/>
+			<point x="56" y="1009.71" type="line"/>
+			<point x="208.714" y="952.571" type="line"/>
+			<point x="208.714" y="250.429" type="line"/>
+			<point x="56" y="190.714" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="381.286" y="0"/>
+	<anchor name="top" x="381.286" y="1200.71"/>
+	<anchor name="topright" x="718.857" y="1200.71"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Smallcaps</string>
+		</dict>
+	</lib>
+</glyph>

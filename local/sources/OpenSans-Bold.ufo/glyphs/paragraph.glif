@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="paragraph" format="2">
+	<unicode hex="00B6"/>
+	<advance width="1320"/>
+	<outline>
+		<contour>
+			<point x="1167.86" y="-260" type="line"/>
+			<point x="1167.86" y="1556" type="line"/>
+			<point x="554.429" y="1556" type="line" smooth="yes"/>
+			<point x="288.714" y="1556"/>
+			<point x="115.286" y="1429.57"/>
+			<point x="115.286" y="1056.14" type="curve" smooth="yes"/>
+			<point x="115.286" y="700.714"/>
+			<point x="273.286" y="565"/>
+			<point x="523.429" y="565" type="curve" smooth="yes"/>
+			<point x="581.714" y="565"/>
+			<point x="609.857" y="571"/>
+			<point x="651.429" y="583" type="curve"/>
+			<point x="651.429" y="-260" type="line"/>
+			<point x="822.714" y="-260" type="line"/>
+			<point x="822.714" y="1352.43" type="line"/>
+			<point x="996.571" y="1352.43" type="line"/>
+			<point x="996.571" y="-260" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Symbol</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Other</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="three.dnom" format="2">
+	<advance width="724"/>
+	<outline>
+		<contour>
+			<point x="368.714" y="892.429" type="curve" smooth="yes"/>
+			<point x="245.857" y="892.429"/>
+			<point x="146.286" y="853"/>
+			<point x="68.7857" y="797.357" type="curve"/>
+			<point x="123.429" y="707.714" type="line"/>
+			<point x="198.571" y="757.214"/>
+			<point x="267.071" y="784.286"/>
+			<point x="356.214" y="784.286" type="curve" smooth="yes"/>
+			<point x="461.786" y="784.286"/>
+			<point x="517" y="730.643"/>
+			<point x="517" y="655.857" type="curve" smooth="yes"/>
+			<point x="517" y="561.429"/>
+			<point x="454.643" y="504.286"/>
+			<point x="320.786" y="504.286" type="curve" smooth="yes"/>
+			<point x="204.143" y="504.286" type="line"/>
+			<point x="204.143" y="401.857" type="line"/>
+			<point x="329.357" y="401.857" type="line" smooth="yes"/>
+			<point x="480.571" y="401.857"/>
+			<point x="537" y="352.714"/>
+			<point x="537" y="259.143" type="curve" smooth="yes"/>
+			<point x="537" y="157.429"/>
+			<point x="462.357" y="100.857"/>
+			<point x="329.714" y="100.857" type="curve" smooth="yes"/>
+			<point x="231.071" y="100.857"/>
+			<point x="142.5" y="123.5"/>
+			<point x="59.0714" y="166.786" type="curve"/>
+			<point x="59.0714" y="46.5714" type="line"/>
+			<point x="133.357" y="9.85714"/>
+			<point x="229.786" y="-10.8571"/>
+			<point x="334" y="-10.8571" type="curve" smooth="yes"/>
+			<point x="543.857" y="-10.8571"/>
+			<point x="669.786" y="81.7143"/>
+			<point x="669.786" y="247" type="curve" smooth="yes"/>
+			<point x="669.786" y="362.929"/>
+			<point x="606.5" y="431.571"/>
+			<point x="487.786" y="459.429" type="curve"/>
+			<point x="487.786" y="464.857" type="line"/>
+			<point x="588.071" y="493.071"/>
+			<point x="645.929" y="568.357"/>
+			<point x="645.929" y="678.714" type="curve" smooth="yes"/>
+			<point x="645.929" y="811.571"/>
+			<point x="539.857" y="892.429"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>threesuperior</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Number</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Fraction</string>
+		</dict>
+	</lib>
+</glyph>

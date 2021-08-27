@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0374" format="2">
+	<unicode hex="0374"/>
+	<advance width="504"/>
+	<outline>
+		<contour>
+			<point x="63.2857" y="1162" type="curve"/>
+			<point x="63.2857" y="1135" type="line"/>
+			<point x="183.429" y="1135" type="line"/>
+			<point x="277.571" y="1213.57"/>
+			<point x="380.429" y="1337.86"/>
+			<point x="438" y="1436.86" type="curve"/>
+			<point x="438" y="1462" type="line"/>
+			<point x="245.429" y="1462" type="line"/>
+			<point x="209.286" y="1369.43"/>
+			<point x="130.286" y="1241.57"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Symbol</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>greek</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Modifier</string>
+		</dict>
+	</lib>
+</glyph>

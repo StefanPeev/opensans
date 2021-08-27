@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniAB34" format="2">
+	<unicode hex="AB34"/>
+	<advance width="1594"/>
+	<outline>
+		<component base="e" xOffset="444"/>
+		<contour>
+			<point x="36.1429" y="387.286" type="curve" smooth="yes"/>
+			<point x="36.1429" y="247.143"/>
+			<point x="115.857" y="142.571"/>
+			<point x="298.143" y="142.571" type="curve" smooth="yes"/>
+			<point x="363" y="142.571"/>
+			<point x="414.571" y="154"/>
+			<point x="439.571" y="164.429" type="curve"/>
+			<point x="439.571" y="273.714" type="line"/>
+			<point x="412.571" y="262.857"/>
+			<point x="362.429" y="250.429"/>
+			<point x="313.286" y="250.429" type="curve" smooth="yes"/>
+			<point x="204" y="250.429"/>
+			<point x="155.286" y="306.714"/>
+			<point x="155.286" y="391.571" type="curve" smooth="yes"/>
+			<point x="155.286" y="495.714"/>
+			<point x="227.857" y="544.429"/>
+			<point x="331.143" y="544.429" type="curve" smooth="yes"/>
+			<point x="440" y="544.429"/>
+			<point x="509.714" y="521.571"/>
+			<point x="644" y="521.571" type="curve"/>
+			<point x="645.429" y="630" type="line"/>
+			<point x="516.857" y="630"/>
+			<point x="426.286" y="653"/>
+			<point x="330.571" y="653" type="curve" smooth="yes"/>
+			<point x="154.286" y="653"/>
+			<point x="36.1429" y="563.286"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>e</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+			<key>com.schriftgestaltung.componentsLocked</key>
+			<array>
+				<true/>
+			</array>
+		</dict>
+	</lib>
+</glyph>

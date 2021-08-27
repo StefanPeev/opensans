@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macronacutecomb" format="2">
+	<unicode hex="1DC4"/>
+	<outline>
+		<contour>
+			<point x="-263" y="1333.29" type="line"/>
+			<point x="-263" y="1260.86" type="line"/>
+			<point x="19.5714" y="1260.86" type="line"/>
+			<point x="269.143" y="1374.86" type="line"/>
+			<point x="236.143" y="1441.14" type="line"/>
+			<point x="2.85714" y="1333.29" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="3.14286" y="1088.43"/>
+	<anchor name="top" x="3.71429" y="1441.14"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

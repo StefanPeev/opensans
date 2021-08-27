@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macrongrave" format="2">
+	<outline>
+		<contour>
+			<point x="-8.28571" y="1506.29" type="curve"/>
+			<point x="126.571" y="1506.29" type="line"/>
+			<point x="126.571" y="1531.43" type="line"/>
+			<point x="57.2857" y="1603.71"/>
+			<point x="-31" y="1725"/>
+			<point x="-70.8571" y="1803.57" type="curve"/>
+			<point x="-282.429" y="1803.57" type="line"/>
+			<point x="-282.429" y="1775.43" type="line"/>
+			<point x="-221.714" y="1687.71"/>
+			<point x="-80.2857" y="1555.86"/>
+		</contour>
+		<contour>
+			<point x="-293.429" y="1292.43" type="line"/>
+			<point x="295.429" y="1292.43" type="line"/>
+			<point x="295.429" y="1413.43" type="line"/>
+			<point x="-293.429" y="1413.43" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string></string>
+		</dict>
+	</lib>
+</glyph>

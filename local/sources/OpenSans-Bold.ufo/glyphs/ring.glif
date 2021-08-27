@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ring" format="2">
+	<unicode hex="02DA"/>
+	<advance width="682"/>
+	<outline>
+		<contour>
+			<point x="337.857" y="1239" type="curve" smooth="yes"/>
+			<point x="484.143" y="1239"/>
+			<point x="600.286" y="1333.29"/>
+			<point x="600.286" y="1486" type="curve" smooth="yes"/>
+			<point x="600.286" y="1635.86"/>
+			<point x="482.429" y="1731.29"/>
+			<point x="337.857" y="1731.29" type="curve" smooth="yes"/>
+			<point x="186.286" y="1731.29"/>
+			<point x="82" y="1636.43"/>
+			<point x="82" y="1484.29" type="curve" smooth="yes"/>
+			<point x="82" y="1333"/>
+			<point x="186.571" y="1239"/>
+		</contour>
+		<contour>
+			<point x="337.857" y="1390" type="curve" smooth="yes"/>
+			<point x="277.571" y="1390"/>
+			<point x="243.286" y="1430"/>
+			<point x="243.286" y="1484.29" type="curve" smooth="yes"/>
+			<point x="243.286" y="1540.29"/>
+			<point x="284.714" y="1578.57"/>
+			<point x="337.857" y="1578.57" type="curve" smooth="yes"/>
+			<point x="390.143" y="1578.57"/>
+			<point x="432" y="1540.29"/>
+			<point x="432" y="1484.29" type="curve" smooth="yes"/>
+			<point x="432" y="1430"/>
+			<point x="391.286" y="1390"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Spacing</string>
+		</dict>
+	</lib>
+</glyph>

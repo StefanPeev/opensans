@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA71A" format="2">
+	<unicode hex="A71A"/>
+	<advance width="691"/>
+	<outline>
+		<contour>
+			<point x="82" y="1219" type="line"/>
+			<point x="608.571" y="1219" type="line"/>
+			<point x="608.571" y="1559" type="line"/>
+			<point x="518" y="1559" type="line"/>
+			<point x="518" y="1308.57" type="line"/>
+			<point x="82" y="1308.57" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>uniA719</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>uniA719</string>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>uniA719</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>uniA719</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Modifier</string>
+		</dict>
+	</lib>
+</glyph>

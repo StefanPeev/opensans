@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflextildecomb" format="2">
+	<outline>
+		<contour>
+			<point x="-565.214" y="1513.5" type="curve"/>
+			<point x="-713.786" y="1513.5" type="line"/>
+			<point x="-770.714" y="1429.5"/>
+			<point x="-878" y="1322.29"/>
+			<point x="-954.714" y="1259.07" type="curve"/>
+			<point x="-954.714" y="1241" type="line"/>
+			<point x="-865.643" y="1241" type="line"/>
+			<point x="-786.786" y="1285.57"/>
+			<point x="-705.286" y="1349.5"/>
+			<point x="-639" y="1419.57" type="curve"/>
+			<point x="-575.857" y="1349.5"/>
+			<point x="-496.286" y="1284.86"/>
+			<point x="-415.286" y="1241" type="curve"/>
+			<point x="-326.214" y="1241" type="line"/>
+			<point x="-326.214" y="1259.07" type="line"/>
+			<point x="-406.5" y="1325.5"/>
+			<point x="-507.643" y="1429.5"/>
+		</contour>
+		<contour>
+			<point x="-313.786" y="1808" type="curve"/>
+			<point x="-390.643" y="1808" type="line"/>
+			<point x="-404.571" y="1721.79"/>
+			<point x="-436.929" y="1685.43"/>
+			<point x="-499.571" y="1685.43" type="curve" smooth="yes"/>
+			<point x="-593.286" y="1685.43"/>
+			<point x="-656.286" y="1803.43"/>
+			<point x="-769.786" y="1803.43" type="curve" smooth="yes"/>
+			<point x="-879" y="1803.43"/>
+			<point x="-943.571" y="1715.64"/>
+			<point x="-956.143" y="1583.43" type="curve"/>
+			<point x="-880" y="1583.43" type="line"/>
+			<point x="-866.786" y="1671.29"/>
+			<point x="-831.857" y="1706.21"/>
+			<point x="-766.643" y="1706.21" type="curve" smooth="yes"/>
+			<point x="-679.071" y="1706.21"/>
+			<point x="-609.643" y="1589.29"/>
+			<point x="-497" y="1589.29" type="curve" smooth="yes"/>
+			<point x="-396.214" y="1589.29"/>
+			<point x="-323.214" y="1669.86"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string></string>
+		</dict>
+	</lib>
+</glyph>

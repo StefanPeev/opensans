@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex" format="2">
+	<unicode hex="02C6"/>
+	<advance width="736"/>
+	<outline>
+		<contour>
+			<point x="417.571" y="1563.86" type="curve"/>
+			<point x="322" y="1563.86" type="line"/>
+			<point x="271.286" y="1478.43"/>
+			<point x="158.286" y="1337.86"/>
+			<point x="82" y="1255.43" type="curve"/>
+			<point x="82" y="1241" type="line"/>
+			<point x="155.714" y="1241" type="line"/>
+			<point x="231.143" y="1312.57"/>
+			<point x="310.429" y="1406.14"/>
+			<point x="369.571" y="1481.86" type="curve"/>
+			<point x="428.571" y="1406.14"/>
+			<point x="505.429" y="1312"/>
+			<point x="580.714" y="1241" type="curve"/>
+			<point x="653.857" y="1241" type="line"/>
+			<point x="653.857" y="1255.43" type="line"/>
+			<point x="578.857" y="1337.29"/>
+			<point x="468.714" y="1478.43"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Spacing</string>
+		</dict>
+	</lib>
+</glyph>

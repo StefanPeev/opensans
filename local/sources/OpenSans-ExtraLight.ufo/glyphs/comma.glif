@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="comma" format="2">
+	<unicode hex="002C"/>
+	<advance width="412"/>
+	<outline>
+		<contour>
+			<point x="285.429" y="246.714" type="line"/>
+			<point x="187.714" y="246.714" type="line"/>
+			<point x="165.286" y="89.5714"/>
+			<point x="131.143" y="-70.5714"/>
+			<point x="75" y="-267" type="curve"/>
+			<point x="153.429" y="-267" type="line"/>
+			<point x="211.857" y="-124.429"/>
+			<point x="260.714" y="70.7143"/>
+			<point x="292.571" y="222" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Punctuation</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Other</string>
+		</dict>
+	</lib>
+</glyph>

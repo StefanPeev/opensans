@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10067.loclBGR" format="2">
+	<advance width="1149"/>
+	<outline>
+		<contour>
+			<point x="986.857" y="1226.45" type="curve" smooth="yes"/>
+			<point x="986.857" y="1444.33"/>
+			<point x="833.706" y="1567"/>
+			<point x="586.775" y="1567" type="curve" smooth="yes"/>
+			<point x="289.033" y="1567"/>
+			<point x="175.286" y="1399.35"/>
+			<point x="175.286" y="1103.46" type="curve" smooth="yes"/>
+			<point x="175.286" y="356.785" type="line" smooth="yes"/>
+			<point x="175.286" y="89.3774"/>
+			<point x="357.146" y="-17.1429"/>
+			<point x="582.745" y="-17.1429" type="curve" smooth="yes"/>
+			<point x="869.437" y="-17.1429"/>
+			<point x="1033" y="148.177"/>
+			<point x="1033" y="456.996" type="curve" smooth="yes"/>
+			<point x="1033" y="695.27"/>
+			<point x="911.871" y="841.696"/>
+			<point x="717.054" y="868.803" type="curve"/>
+			<point x="717.054" y="874.232" type="line"/>
+			<point x="791.985" y="900.565"/>
+			<point x="986.857" y="1024.44"/>
+		</contour>
+		<contour>
+			<point x="928.143" y="457.448" type="curve" smooth="yes"/>
+			<point x="928.143" y="191.97"/>
+			<point x="800.637" y="63.1429"/>
+			<point x="587.874" y="63.1429" type="curve" smooth="yes"/>
+			<point x="377.879" y="63.1429"/>
+			<point x="277.429" y="172.293"/>
+			<point x="277.429" y="358.837" type="curve" smooth="yes"/>
+			<point x="277.429" y="761.857" type="line"/>
+			<point x="351.593" y="788.418"/>
+			<point x="564.425" y="822.121"/>
+			<point x="638.206" y="822.121" type="curve" smooth="yes"/>
+			<point x="821.525" y="822.121"/>
+			<point x="928.143" y="662.742"/>
+		</contour>
+		<contour>
+			<point x="884.143" y="1229.51" type="curve" smooth="yes"/>
+			<point x="884.143" y="1089.99"/>
+			<point x="807.63" y="1004.19"/>
+			<point x="685.229" y="936.489" type="curve" smooth="yes"/>
+			<point x="590.167" y="883.899"/>
+			<point x="415.392" y="860.659"/>
+			<point x="277.429" y="846.471" type="curve"/>
+			<point x="277.429" y="1111.19" type="line" smooth="yes"/>
+			<point x="277.429" y="1375.16"/>
+			<point x="381.816" y="1486.71"/>
+			<point x="588.844" y="1486.71" type="curve" smooth="yes"/>
+			<point x="765.969" y="1486.71"/>
+			<point x="884.143" y="1402.91"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>=b</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>=b</string>
+		</dict>
+	</lib>
+</glyph>

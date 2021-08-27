@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.osf" format="2">
+	<advance width="858"/>
+	<outline>
+		<contour>
+			<point x="622.286" y="0" type="line"/>
+			<point x="622.286" y="1121.86" type="line"/>
+			<point x="448.857" y="1121.86" type="line"/>
+			<point x="4" y="792.286" type="line"/>
+			<point x="104.714" y="662.286" type="line"/>
+			<point x="315.143" y="819.571" type="line"/>
+			<point x="361" y="855.143"/>
+			<point x="391.714" y="881.286"/>
+			<point x="424.714" y="912.714" type="curve"/>
+			<point x="421" y="844.429"/>
+			<point x="420.143" y="764.714"/>
+			<point x="420.143" y="665.429" type="curve" smooth="yes"/>
+			<point x="420.143" y="0" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Number</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Decimal Digit</string>
+		</dict>
+	</lib>
+</glyph>

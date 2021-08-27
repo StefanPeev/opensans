@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rfishhookreversed" format="2">
+	<unicode hex="027F"/>
+	<advance width="728"/>
+	<outline>
+		<contour>
+			<point x="237.286" y="1118.29" type="curve" smooth="yes"/>
+			<point x="142.143" y="1118.29"/>
+			<point x="75.5714" y="1100.43"/>
+			<point x="31.8571" y="1085.29" type="curve"/>
+			<point x="51.8571" y="957.714" type="line"/>
+			<point x="88.5714" y="973.429"/>
+			<point x="139.857" y="985.286"/>
+			<point x="199" y="985.286" type="curve" smooth="yes"/>
+			<point x="358.143" y="985.286"/>
+			<point x="415" y="896.286"/>
+			<point x="415" y="729.857" type="curve" smooth="yes"/>
+			<point x="415" y="-492" type="line"/>
+			<point x="566.286" y="-492" type="line"/>
+			<point x="566.286" y="746.571" type="line" smooth="yes"/>
+			<point x="566.286" y="987"/>
+			<point x="462" y="1118.29"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="365.143" y="-492"/>
+	<anchor name="top" x="365.143" y="1095.86"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii61289" format="2">
+	<unicode hex="2113"/>
+	<advance width="1085"/>
+	<outline>
+		<contour>
+			<point x="631.571" y="122.857" type="curve" smooth="yes"/>
+			<point x="527.571" y="122.857"/>
+			<point x="474.571" y="188.429"/>
+			<point x="474.571" y="354.143" type="curve" smooth="yes"/>
+			<point x="474.571" y="611.429" type="line"/>
+			<point x="780.714" y="729.429"/>
+			<point x="905.429" y="920.714"/>
+			<point x="905.429" y="1150.29" type="curve" smooth="yes"/>
+			<point x="905.429" y="1365.14"/>
+			<point x="798.571" y="1481.29"/>
+			<point x="600.571" y="1481.29" type="curve" smooth="yes"/>
+			<point x="387.714" y="1481.29"/>
+			<point x="281.286" y="1357.43"/>
+			<point x="281.286" y="1136.71" type="curve" smooth="yes"/>
+			<point x="281.286" y="695.857" type="line"/>
+			<point x="220" y="672.429"/>
+			<point x="157.857" y="652.857"/>
+			<point x="90.4286" y="635.714" type="curve"/>
+			<point x="90.4286" y="497.714" type="line"/>
+			<point x="151" y="511.857"/>
+			<point x="213.143" y="531"/>
+			<point x="281.286" y="555" type="curve"/>
+			<point x="281.286" y="352" type="line" smooth="yes"/>
+			<point x="281.286" y="127.714"/>
+			<point x="386.429" y="-16"/>
+			<point x="600.143" y="-16" type="curve" smooth="yes"/>
+			<point x="857.286" y="-16"/>
+			<point x="938.571" y="125.714"/>
+			<point x="948.286" y="348.857" type="curve"/>
+			<point x="789.286" y="348.857" type="line"/>
+			<point x="781.286" y="210.143"/>
+			<point x="742.286" y="122.857"/>
+		</contour>
+		<contour>
+			<point x="725.714" y="1155.71" type="curve" smooth="yes"/>
+			<point x="725.714" y="971.286"/>
+			<point x="641.714" y="840.143"/>
+			<point x="474.571" y="757.143" type="curve"/>
+			<point x="474.571" y="1165.14" type="line" smooth="yes"/>
+			<point x="474.571" y="1301.14"/>
+			<point x="527.286" y="1349.29"/>
+			<point x="600.571" y="1349.29" type="curve" smooth="yes"/>
+			<point x="684.429" y="1349.29"/>
+			<point x="725.714" y="1284.29"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Symbol</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Other</string>
+		</dict>
+	</lib>
+</glyph>

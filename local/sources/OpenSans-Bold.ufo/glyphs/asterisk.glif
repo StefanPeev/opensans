@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asterisk" format="2">
+	<unicode hex="002A"/>
+	<advance width="1104"/>
+	<outline>
+		<contour>
+			<point x="685.714" y="1555.43" type="line"/>
+			<point x="417.714" y="1555.43" type="line"/>
+			<point x="453" y="1193.43" type="line"/>
+			<point x="97.8571" y="1300.29" type="line"/>
+			<point x="56.7143" y="1043" type="line"/>
+			<point x="382.857" y="1004.86" type="line"/>
+			<point x="169.714" y="718.857" type="line"/>
+			<point x="409.714" y="597.571" type="line"/>
+			<point x="548.714" y="887.857" type="line"/>
+			<point x="705.286" y="595.571" type="line"/>
+			<point x="934.857" y="718.857" type="line"/>
+			<point x="720.857" y="1004.86" type="line"/>
+			<point x="1047.29" y="1039.57" type="line"/>
+			<point x="1013.29" y="1300.29" type="line"/>
+			<point x="651.286" y="1193.43" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Punctuation</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Other</string>
+		</dict>
+	</lib>
+</glyph>

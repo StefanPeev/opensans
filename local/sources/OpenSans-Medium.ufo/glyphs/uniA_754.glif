@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA754" format="2">
+	<unicode hex="A754"/>
+	<advance width="1803"/>
+	<outline>
+		<component base="P" xOffset="560.143"/>
+		<contour>
+			<point x="667.429" y="545" type="curve" smooth="yes"/>
+			<point x="827.571" y="545" type="line"/>
+			<point x="827.571" y="750.857" type="line"/>
+			<point x="697.429" y="750.857" type="line" smooth="yes"/>
+			<point x="553.714" y="750.857"/>
+			<point x="494.429" y="805.286"/>
+			<point x="494.429" y="952.571" type="curve" smooth="yes"/>
+			<point x="494.429" y="1145.86" type="line" smooth="yes"/>
+			<point x="494.429" y="1376.29"/>
+			<point x="395.571" y="1481"/>
+			<point x="194.857" y="1481" type="curve" smooth="yes"/>
+			<point x="130" y="1481"/>
+			<point x="68.4286" y="1465.71"/>
+			<point x="28.7143" y="1450.29" type="curve"/>
+			<point x="28.7143" y="1259.86" type="line"/>
+			<point x="46.7143" y="1269.57"/>
+			<point x="82" y="1282"/>
+			<point x="133.143" y="1282" type="curve" smooth="yes"/>
+			<point x="216.286" y="1282"/>
+			<point x="248.286" y="1229.71"/>
+			<point x="248.286" y="1133.43" type="curve" smooth="yes"/>
+			<point x="248.286" y="932" type="line" smooth="yes"/>
+			<point x="248.286" y="684"/>
+			<point x="389.571" y="545"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsRight</key>
+			<string>=P</string>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>P</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>=P</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

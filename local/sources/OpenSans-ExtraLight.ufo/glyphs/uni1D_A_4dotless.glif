@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1DA4dotless" format="2">
+	<advance width="298"/>
+	<outline>
+		<contour>
+			<point x="287.143" y="957.286" type="line"/>
+			<point x="9.42857" y="957.286" type="line"/>
+			<point x="9.42857" y="910.571" type="line"/>
+			<point x="287.143" y="910.571" type="line"/>
+		</contour>
+		<contour>
+			<point x="181.143" y="1241.43" type="line"/>
+			<point x="114.857" y="1241.43" type="line"/>
+			<point x="114.857" y="588" type="line"/>
+			<point x="181.143" y="588" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="150.714" y="588"/>
+	<anchor name="top" x="150.143" y="1241.43"/>
+	<anchor name="topright" x="272.286" y="1241.43"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string></string>
+		</dict>
+	</lib>
+</glyph>

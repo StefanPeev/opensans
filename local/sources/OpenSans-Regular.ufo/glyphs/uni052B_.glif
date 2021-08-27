@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni052B" format="2">
+	<unicode hex="052B"/>
+	<advance width="2432"/>
+	<outline>
+		<component base="afii10069"/>
+		<component base="afii10076" xOffset="1351.29"/>
+		<contour>
+			<point x="990.429" y="647" type="line"/>
+			<point x="990.429" y="503.857" type="line"/>
+			<point x="1568.43" y="503.857" type="line"/>
+			<point x="1568.43" y="647" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="1203.43" y="-384"/>
+	<anchor name="top" x="1203.43" y="1103.29"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsRight</key>
+			<string>afii10076</string>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>afii10069</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>afii10076</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>afii10076</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>cyrillic</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

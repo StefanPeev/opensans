@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniAB63" format="2">
+	<unicode hex="AB63"/>
+	<advance width="2010"/>
+	<outline>
+		<contour>
+			<point x="1057" y="1095.86" type="line"/>
+			<point x="907.429" y="1095.86" type="line"/>
+			<point x="907.429" y="512.714" type="line" smooth="yes"/>
+			<point x="907.429" y="233.429"/>
+			<point x="802.714" y="104.714"/>
+			<point x="583.286" y="104.714" type="curve" smooth="yes"/>
+			<point x="405.143" y="104.714"/>
+			<point x="307.571" y="204.143"/>
+			<point x="307.571" y="419" type="curve" smooth="yes"/>
+			<point x="307.571" y="1095.86" type="line"/>
+			<point x="158" y="1095.86" type="line"/>
+			<point x="158" y="379.286" type="line" smooth="yes"/>
+			<point x="158" y="113.286"/>
+			<point x="303.571" y="-20"/>
+			<point x="559.286" y="-20" type="curve" smooth="yes"/>
+			<point x="825.429" y="-20"/>
+			<point x="930" y="138.857"/>
+			<point x="969.857" y="274.429" type="curve"/>
+			<point x="1057" y="274.429" type="line"/>
+		</contour>
+		<contour>
+			<point x="1896.57" y="549" type="curve" smooth="yes"/>
+			<point x="1896.57" y="879.714"/>
+			<point x="1735.86" y="1116.57"/>
+			<point x="1409.86" y="1116.57" type="curve" smooth="yes"/>
+			<point x="1093.71" y="1116.57"/>
+			<point x="910.857" y="901.857"/>
+			<point x="910.857" y="549" type="curve" smooth="yes"/>
+			<point x="910.857" y="210.714"/>
+			<point x="1083" y="-20"/>
+			<point x="1399.57" y="-20" type="curve" smooth="yes"/>
+			<point x="1729.43" y="-20"/>
+			<point x="1896.57" y="213.571"/>
+		</contour>
+		<contour>
+			<point x="1059.29" y="549" type="curve" smooth="yes"/>
+			<point x="1059.29" y="832"/>
+			<point x="1181.86" y="997"/>
+			<point x="1408.71" y="997" type="curve" smooth="yes"/>
+			<point x="1650.29" y="997"/>
+			<point x="1743.14" y="805.571"/>
+			<point x="1743.14" y="549" type="curve" smooth="yes"/>
+			<point x="1743.14" y="281.429"/>
+			<point x="1639.57" y="99.2857"/>
+			<point x="1400.71" y="99.2857" type="curve" smooth="yes"/>
+			<point x="1167.71" y="99.2857"/>
+			<point x="1059.29" y="278.571"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>u</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>o</string>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>u</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>o</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string></string>
+		</dict>
+	</lib>
+</glyph>

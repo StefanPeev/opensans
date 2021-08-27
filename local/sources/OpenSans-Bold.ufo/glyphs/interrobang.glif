@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="interrobang" format="2">
+	<unicode hex="203D"/>
+	<advance width="1005"/>
+	<outline>
+		<contour>
+			<point x="295" y="493.143" type="line"/>
+			<point x="569.286" y="493.143" type="line"/>
+			<point x="569.286" y="540.429" type="line" smooth="yes"/>
+			<point x="569.286" y="621.857"/>
+			<point x="606.286" y="661"/>
+			<point x="725.143" y="737.571" type="curve" smooth="yes"/>
+			<point x="894" y="847"/>
+			<point x="964.857" y="956.571"/>
+			<point x="964.857" y="1120.43" type="curve" smooth="yes"/>
+			<point x="964.857" y="1341.43"/>
+			<point x="794.143" y="1483"/>
+			<point x="501.571" y="1483" type="curve" smooth="yes"/>
+			<point x="313.571" y="1483"/>
+			<point x="157.571" y="1432.29"/>
+			<point x="12" y="1351.57" type="curve"/>
+			<point x="123.714" y="1165.71" type="line"/>
+			<point x="155.429" y="1183"/>
+			<point x="187.429" y="1197.86"/>
+			<point x="217" y="1207.57" type="curve"/>
+		</contour>
+		<contour>
+			<point x="443.714" y="-23.7143" type="curve" smooth="yes"/>
+			<point x="546.714" y="-23.7143"/>
+			<point x="629" y="28.2857"/>
+			<point x="629" y="149" type="curve" smooth="yes"/>
+			<point x="629" y="274.571"/>
+			<point x="546.714" y="322.714"/>
+			<point x="443.714" y="322.714" type="curve" smooth="yes"/>
+			<point x="339.286" y="322.714"/>
+			<point x="255.571" y="274.571"/>
+			<point x="255.571" y="149" type="curve" smooth="yes"/>
+			<point x="255.571" y="28.2857"/>
+			<point x="339.286" y="-23.7143"/>
+		</contour>
+		<contour>
+			<point x="501.571" y="827.571" type="curve"/>
+			<point x="523.571" y="1273.43" type="line"/>
+			<point x="621.429" y="1259.71"/>
+			<point x="680.143" y="1201.57"/>
+			<point x="680.143" y="1106.71" type="curve" smooth="yes"/>
+			<point x="680.143" y="1020"/>
+			<point x="649" y="974.571"/>
+			<point x="565.286" y="897.143" type="curve" smooth="yes"/>
+			<point x="535.429" y="869.571"/>
+			<point x="514.429" y="848.571"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Punctuation</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Other</string>
+		</dict>
+	</lib>
+</glyph>

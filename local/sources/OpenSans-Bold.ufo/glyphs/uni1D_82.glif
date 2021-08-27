@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1D82" format="2">
+	<unicode hex="1D82"/>
+	<advance width="805"/>
+	<outline>
+		<component base="f"/>
+		<contour>
+			<point x="347.286" y="-490" type="curve" smooth="yes"/>
+			<point x="538.143" y="-490"/>
+			<point x="644.857" y="-386.143"/>
+			<point x="644.857" y="-135.143" type="curve" smooth="yes"/>
+			<point x="644.857" y="238.714" type="line"/>
+			<point x="507.857" y="238.714" type="line"/>
+			<point x="369" y="35.1429" type="line"/>
+			<point x="369" y="-129.143" type="line" smooth="yes"/>
+			<point x="369" y="-227.714"/>
+			<point x="334.857" y="-256.429"/>
+			<point x="264.143" y="-256.429" type="curve" smooth="yes"/>
+			<point x="235.714" y="-256.429"/>
+			<point x="202.714" y="-250.143"/>
+			<point x="171.143" y="-237.429" type="curve"/>
+			<point x="171.143" y="-462.571" type="line"/>
+			<point x="223.571" y="-482"/>
+			<point x="280.571" y="-490"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>f</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

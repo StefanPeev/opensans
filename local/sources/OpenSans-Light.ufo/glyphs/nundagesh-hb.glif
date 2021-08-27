@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nundagesh-hb" format="2">
+	<unicode hex="FB40"/>
+	<advance width="890"/>
+	<outline>
+		<component base="nun-hb"/>
+		<component base="dagesh-hb" xyScale="0" xOffset="330.143" yOffset="77.4286"/>
+	</outline>
+	<note>
+		uniFB40
+	</note>
+</glyph>

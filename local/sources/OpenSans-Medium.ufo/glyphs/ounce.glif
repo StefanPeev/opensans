@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ounce" format="2">
+	<unicode hex="2125"/>
+	<advance width="1200"/>
+	<outline>
+		<contour>
+			<point x="1004.71" y="969.571" type="line"/>
+			<point x="97.1429" y="969.571" type="line"/>
+			<point x="97.1429" y="760.286" type="line"/>
+			<point x="660.143" y="760.286" type="line"/>
+			<point x="257.714" y="381.143" type="line"/>
+			<point x="257.714" y="202.429" type="line"/>
+			<point x="359.429" y="202.429" type="line" smooth="yes"/>
+			<point x="690.143" y="202.429"/>
+			<point x="813.429" y="122.429"/>
+			<point x="813.429" y="-37" type="curve" smooth="yes"/>
+			<point x="813.429" y="-184.143"/>
+			<point x="721.286" y="-290.571"/>
+			<point x="458.714" y="-290.571" type="curve" smooth="yes"/>
+			<point x="320.429" y="-290.571"/>
+			<point x="171.857" y="-254.571"/>
+			<point x="54.7143" y="-200.429" type="curve"/>
+			<point x="54.7143" y="-414.571" type="line"/>
+			<point x="160.571" y="-458.714"/>
+			<point x="297" y="-492"/>
+			<point x="473.857" y="-492" type="curve"/>
+			<point x="878.571" y="-490.286"/>
+			<point x="1064" y="-299.571"/>
+			<point x="1064.29" y="-21" type="curve"/>
+			<point x="1063.43" y="230"/>
+			<point x="903.571" y="363.714"/>
+			<point x="544.571" y="374" type="curve"/>
+			<point x="1004.71" y="805.429" type="line"/>
+		</contour>
+		<contour>
+			<point x="546.857" y="889.429" type="line"/>
+			<point x="1004.71" y="1330.14" type="line"/>
+			<point x="1004.71" y="1494.29" type="line"/>
+			<point x="97.1429" y="1494.29" type="line"/>
+			<point x="97.1429" y="1285" type="line"/>
+			<point x="662.143" y="1285" type="line"/>
+			<point x="307.143" y="942" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsRight</key>
+			<string>uni04E0</string>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Symbol</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>uni04E0</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Other</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10021" format="2">
+	<unicode hex="0414"/>
+	<advance width="1452"/>
+	<outline>
+		<contour>
+			<point x="1238" y="168" type="line"/>
+			<point x="1238" y="1462" type="line"/>
+			<point x="478.429" y="1462" type="line"/>
+			<point x="455.429" y="1024.57"/>
+			<point x="318.429" y="505.857"/>
+			<point x="122.143" y="168" type="curve"/>
+			<point x="336.143" y="168" type="line"/>
+			<point x="500.286" y="479.714"/>
+			<point x="618.714" y="920.857"/>
+			<point x="643.429" y="1294.43" type="curve"/>
+			<point x="1036.57" y="1294.43" type="line"/>
+			<point x="1036.57" y="168" type="line"/>
+		</contour>
+		<contour>
+			<point x="12.5714" y="168" type="line"/>
+			<point x="12.5714" y="-399.571" type="line"/>
+			<point x="208.429" y="-399.571" type="line"/>
+			<point x="208.429" y="0" type="line"/>
+			<point x="1200.43" y="0" type="line"/>
+			<point x="1200.43" y="-399.571" type="line"/>
+			<point x="1396.29" y="-399.571" type="line"/>
+			<point x="1396.29" y="168" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="726" y="-399.571"/>
+	<anchor name="top" x="726" y="1462"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>cyrillic</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

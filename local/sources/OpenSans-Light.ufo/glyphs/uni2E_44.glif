@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2E44" format="2">
+	<unicode hex="2E44"/>
+	<advance width="679"/>
+	<outline>
+		<contour>
+			<point x="158.143" y="1068.86" type="line"/>
+			<point x="600.857" y="1469.71" type="line"/>
+			<point x="506.143" y="1556" type="line"/>
+			<point x="90.8571" y="1139.86" type="line"/>
+		</contour>
+		<contour>
+			<point x="158.143" y="-85.4286" type="line"/>
+			<point x="600.857" y="315.429" type="line"/>
+			<point x="506.143" y="402.429" type="line"/>
+			<point x="90.8571" y="-14.4286" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string></string>
+		</dict>
+	</lib>
+</glyph>

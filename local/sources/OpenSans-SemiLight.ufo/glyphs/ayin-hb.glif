@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ayin-hb" format="2">
+	<unicode hex="05E2"/>
+	<advance width="1216"/>
+	<outline>
+		<contour>
+			<point x="53.2143" y="-56.5" type="line"/>
+			<point x="155.286" y="-41.2143"/>
+			<point x="268.929" y="-24.2857"/>
+			<point x="393.5" y="-5.14286" type="curve" smooth="yes"/>
+			<point x="650.857" y="33.6429"/>
+			<point x="836" y="148.5"/>
+			<point x="943.5" y="322.429" type="curve"/>
+			<point x="1029.71" y="436.571"/>
+			<point x="1080.21" y="572.714"/>
+			<point x="1095.36" y="731.429" type="curve" smooth="yes"/>
+			<point x="1149.57" y="1291.79" type="line"/>
+			<point x="952.571" y="1291.79" type="line"/>
+			<point x="898.643" y="725" type="line"/>
+			<point x="876" y="496.571"/>
+			<point x="759.5" y="323.643"/>
+			<point x="594.429" y="236.071" type="curve"/>
+			<point x="483.143" y="715.643" type="line"/>
+			<point x="330" y="1291.79" type="line"/>
+			<point x="128.143" y="1291.79" type="line"/>
+			<point x="425.929" y="172.5" type="line"/>
+			<point x="387.5" y="162.357"/>
+			<point x="349.357" y="154.143"/>
+			<point x="312.214" y="148.5" type="curve" smooth="yes"/>
+			<point x="53.2143" y="110.071" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="608.143" y="0"/>
+	<anchor name="bottomleft" x="20" y="0"/>
+	<anchor name="center" x="608.143" y="552.214"/>
+	<anchor name="top" x="608.143" y="1103.43"/>
+	<anchor name="topleft" x="20" y="1103.43"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.hints</key>
+			<array>
+				<dict>
+					<key>horizontal</key>
+					<false/>
+					<key>options</key>
+					<integer>0</integer>
+					<key>origin</key>
+					<array>
+						<integer>0</integer>
+						<integer>23</integer>
+					</array>
+					<key>stem</key>
+					<integer>-2</integer>
+					<key>target</key>
+					<array>
+						<integer>0</integer>
+						<integer>9</integer>
+					</array>
+					<key>type</key>
+					<string>Stem</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+	<note>
+		afii57682
+	</note>
+</glyph>

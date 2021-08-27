@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccent" format="2">
+	<unicode hex="02D9"/>
+	<advance width="491"/>
+	<outline>
+		<contour>
+			<point x="244.429" y="1557" type="curve" smooth="yes"/>
+			<point x="150.571" y="1557"/>
+			<point x="82" y="1523.14"/>
+			<point x="82" y="1414.43" type="curve" smooth="yes"/>
+			<point x="82" y="1308"/>
+			<point x="150.571" y="1273.57"/>
+			<point x="244.429" y="1273.57" type="curve" smooth="yes"/>
+			<point x="338.429" y="1273.57"/>
+			<point x="409.429" y="1308"/>
+			<point x="409.429" y="1414.43" type="curve" smooth="yes"/>
+			<point x="409.429" y="1523.14"/>
+			<point x="338.429" y="1557"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Spacing</string>
+		</dict>
+	</lib>
+</glyph>

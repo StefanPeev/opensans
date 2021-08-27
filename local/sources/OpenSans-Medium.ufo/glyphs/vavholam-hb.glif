@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="vavholam-hb" format="2">
+	<unicode hex="FB4B"/>
+	<advance width="576"/>
+	<outline>
+		<component base="vav-hb"/>
+		<component base="holam-hb" xyScale="0" xOffset="289.429" yOffset="-65.1429"/>
+	</outline>
+	<note>
+		afii57700
+	</note>
+</glyph>

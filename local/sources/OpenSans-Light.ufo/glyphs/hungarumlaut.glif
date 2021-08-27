@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlaut" format="2">
+	<unicode hex="02DD"/>
+	<advance width="899"/>
+	<outline>
+		<contour>
+			<point x="816.857" y="1569" type="line"/>
+			<point x="667" y="1569" type="line"/>
+			<point x="619.143" y="1477"/>
+			<point x="517" y="1337.29"/>
+			<point x="448.571" y="1257.86" type="curve"/>
+			<point x="448.571" y="1241" type="line"/>
+			<point x="537.286" y="1241" type="line"/>
+			<point x="629" y="1325.86"/>
+			<point x="762.429" y="1463.43"/>
+			<point x="816.857" y="1552.29" type="curve"/>
+		</contour>
+		<contour>
+			<point x="450.429" y="1569" type="line"/>
+			<point x="300.429" y="1569" type="line"/>
+			<point x="251.714" y="1477"/>
+			<point x="151.143" y="1337.29"/>
+			<point x="82" y="1257.86" type="curve"/>
+			<point x="82" y="1241" type="line"/>
+			<point x="170.714" y="1241" type="line"/>
+			<point x="261.857" y="1325.86"/>
+			<point x="395.286" y="1463.43"/>
+			<point x="450.429" y="1552.29" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Spacing</string>
+		</dict>
+	</lib>
+</glyph>

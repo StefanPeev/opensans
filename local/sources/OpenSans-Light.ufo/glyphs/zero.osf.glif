@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.osf" format="2">
+	<advance width="1199"/>
+	<outline>
+		<contour>
+			<point x="599" y="-20" type="curve" smooth="yes"/>
+			<point x="922.429" y="-20"/>
+			<point x="1082.57" y="198.714"/>
+			<point x="1082.57" y="551" type="curve" smooth="yes"/>
+			<point x="1082.57" y="894.571"/>
+			<point x="924.143" y="1115.14"/>
+			<point x="605.143" y="1115.14" type="curve" smooth="yes"/>
+			<point x="284" y="1115.14"/>
+			<point x="116.714" y="888.571"/>
+			<point x="116.714" y="551" type="curve" smooth="yes"/>
+			<point x="116.714" y="203"/>
+			<point x="279.714" y="-20"/>
+		</contour>
+		<contour>
+			<point x="601" y="105.286" type="curve" smooth="yes"/>
+			<point x="375" y="105.286"/>
+			<point x="269.714" y="276.286"/>
+			<point x="269.714" y="551" type="curve" smooth="yes"/>
+			<point x="269.714" y="825.429"/>
+			<point x="379.857" y="989.857"/>
+			<point x="602.571" y="989.857" type="curve" smooth="yes"/>
+			<point x="828.857" y="989.857"/>
+			<point x="929.571" y="825.143"/>
+			<point x="929.571" y="551" type="curve" smooth="yes"/>
+			<point x="929.571" y="267"/>
+			<point x="830" y="105.286"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Number</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Decimal Digit</string>
+		</dict>
+	</lib>
+</glyph>

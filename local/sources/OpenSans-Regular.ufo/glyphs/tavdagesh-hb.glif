@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tavdagesh-hb" format="2">
+	<unicode hex="FB4A"/>
+	<advance width="1320"/>
+	<outline>
+		<component base="tav-hb"/>
+		<component base="dagesh-hb" xyScale="0" xOffset="694.286" yOffset="59.8571"/>
+	</outline>
+	<note>
+		uniFB4A
+	</note>
+</glyph>

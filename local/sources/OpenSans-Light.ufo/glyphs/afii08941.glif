@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii08941" format="2">
+	<unicode hex="20A4"/>
+	<advance width="1176"/>
+	<outline>
+		<contour>
+			<point x="713.571" y="1482.14" type="curve" smooth="yes"/>
+			<point x="471.571" y="1482.14"/>
+			<point x="318" y="1351.86"/>
+			<point x="318" y="1053.29" type="curve" smooth="yes"/>
+			<point x="318" y="912.714" type="line"/>
+			<point x="112.714" y="912.714" type="line"/>
+			<point x="112.714" y="817" type="line"/>
+			<point x="318" y="817" type="line"/>
+			<point x="318" y="571.143" type="line"/>
+			<point x="112.714" y="571.143" type="line"/>
+			<point x="112.714" y="476.143" type="line"/>
+			<point x="318" y="476.143" type="line"/>
+			<point x="312.857" y="264.714"/>
+			<point x="253.429" y="158.286"/>
+			<point x="90.5714" y="123.571" type="curve"/>
+			<point x="90.5714" y="0" type="line"/>
+			<point x="1090.71" y="0" type="line"/>
+			<point x="1090.71" y="129.571" type="line"/>
+			<point x="303.286" y="129.571" type="line"/>
+			<point x="406.857" y="180.714"/>
+			<point x="459.571" y="284.714"/>
+			<point x="465.857" y="476.143" type="curve"/>
+			<point x="847.286" y="476.143" type="line"/>
+			<point x="847.286" y="571.143" type="line"/>
+			<point x="465.857" y="571.143" type="line"/>
+			<point x="465.857" y="817" type="line"/>
+			<point x="847.286" y="817" type="line"/>
+			<point x="847.286" y="912.714" type="line"/>
+			<point x="465.857" y="912.714" type="line"/>
+			<point x="465.857" y="1046.43" type="line" smooth="yes"/>
+			<point x="465.857" y="1256.14"/>
+			<point x="551.143" y="1355.43"/>
+			<point x="721.286" y="1355.43" type="curve" smooth="yes"/>
+			<point x="825.571" y="1355.43"/>
+			<point x="901" y="1334.43"/>
+			<point x="995.286" y="1296.86" type="curve"/>
+			<point x="1040.86" y="1416.43" type="line"/>
+			<point x="949.429" y="1454"/>
+			<point x="839.143" y="1482.14"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Symbol</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Currency</string>
+		</dict>
+	</lib>
+</glyph>

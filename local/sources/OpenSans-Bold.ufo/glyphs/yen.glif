@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yen" format="2">
+	<unicode hex="00A5"/>
+	<advance width="1195"/>
+	<outline>
+		<contour>
+			<point x="598" y="919.429" type="line"/>
+			<point x="366.143" y="1462" type="line"/>
+			<point x="14.1429" y="1462" type="line"/>
+			<point x="387.571" y="737.429" type="line"/>
+			<point x="175.857" y="737.429" type="line"/>
+			<point x="175.857" y="549.143" type="line"/>
+			<point x="438.143" y="549.143" type="line"/>
+			<point x="438.143" y="416.429" type="line"/>
+			<point x="175.857" y="416.429" type="line"/>
+			<point x="175.857" y="230" type="line"/>
+			<point x="438.143" y="230" type="line"/>
+			<point x="438.143" y="0" type="line"/>
+			<point x="757.714" y="0" type="line"/>
+			<point x="757.714" y="230" type="line"/>
+			<point x="1016.43" y="230" type="line"/>
+			<point x="1016.43" y="416.429" type="line"/>
+			<point x="757.714" y="416.429" type="line"/>
+			<point x="757.714" y="549.143" type="line"/>
+			<point x="1016.43" y="549.143" type="line"/>
+			<point x="1016.43" y="737.429" type="line"/>
+			<point x="800.143" y="737.429" type="line"/>
+			<point x="1181.14" y="1462" type="line"/>
+			<point x="830.143" y="1462" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Symbol</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Currency</string>
+		</dict>
+	</lib>
+</glyph>

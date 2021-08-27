@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2034" format="2">
+	<unicode hex="2034"/>
+	<advance width="1256"/>
+	<outline>
+		<contour>
+			<point x="807.714" y="934" type="line"/>
+			<point x="923.571" y="934" type="line"/>
+			<point x="1259.86" y="1462" type="line"/>
+			<point x="1073.71" y="1462" type="line"/>
+		</contour>
+		<contour>
+			<point x="76" y="934" type="line"/>
+			<point x="191.571" y="934" type="line"/>
+			<point x="527.857" y="1462" type="line"/>
+			<point x="341.714" y="1462" type="line"/>
+		</contour>
+		<contour>
+			<point x="441.857" y="934" type="line"/>
+			<point x="557.429" y="934" type="line"/>
+			<point x="894" y="1462" type="line"/>
+			<point x="707.571" y="1462" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>second</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>second</string>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Punctuation</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+			<string>second</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>second</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Quote</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hiriq-hb" format="2">
+	<unicode hex="05B4"/>
+	<outline>
+		<contour>
+			<point x="-2" y="-249.286" type="curve" smooth="yes"/>
+			<point x="47.7143" y="-249.286"/>
+			<point x="74.4286" y="-221.071"/>
+			<point x="74.4286" y="-170.357" type="curve" smooth="yes"/>
+			<point x="74.4286" y="-119.643"/>
+			<point x="47.7143" y="-91.0714"/>
+			<point x="-1.64286" y="-91.0714" type="curve" smooth="yes"/>
+			<point x="-48.7143" y="-91.0714"/>
+			<point x="-74.4286" y="-118.571"/>
+			<point x="-74.4286" y="-170.357" type="curve" smooth="yes"/>
+			<point x="-74.4286" y="-222.143"/>
+			<point x="-49.4286" y="-249.286"/>
+		</contour>
+	</outline>
+	<anchor name="_bottom" x="1" y="-71.0714"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.hints</key>
+			<array>
+				<dict>
+					<key>horizontal</key>
+					<true/>
+					<key>options</key>
+					<integer>0</integer>
+					<key>origin</key>
+					<array>
+						<integer>0</integer>
+						<integer>11</integer>
+					</array>
+					<key>stem</key>
+					<integer>-2</integer>
+					<key>target</key>
+					<array>
+						<integer>0</integer>
+						<integer>5</integer>
+					</array>
+					<key>type</key>
+					<string>Stem</string>
+				</dict>
+				<dict>
+					<key>horizontal</key>
+					<false/>
+					<key>options</key>
+					<integer>0</integer>
+					<key>origin</key>
+					<array>
+						<integer>0</integer>
+						<integer>8</integer>
+					</array>
+					<key>stem</key>
+					<integer>-2</integer>
+					<key>target</key>
+					<array>
+						<integer>0</integer>
+						<integer>2</integer>
+					</array>
+					<key>type</key>
+					<string>Stem</string>
+				</dict>
+				<dict>
+					<key>horizontal</key>
+					<true/>
+					<key>options</key>
+					<integer>4</integer>
+					<key>origin</key>
+					<array>
+						<integer>0</integer>
+						<integer>11</integer>
+					</array>
+					<key>stem</key>
+					<integer>-2</integer>
+					<key>target</key>
+					<array>
+						<integer>0</integer>
+						<integer>5</integer>
+					</array>
+					<key>type</key>
+					<string>TTStem</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+	<note>
+		afii57793
+	</note>
+</glyph>

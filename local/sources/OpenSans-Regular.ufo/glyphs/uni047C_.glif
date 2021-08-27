@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni047C" format="2">
+	<unicode hex="047C"/>
+	<advance width="2111"/>
+	<outline>
+		<component base="uniA64C"/>
+		<contour>
+			<point x="694.143" y="1896.43" type="line"/>
+			<point x="818.143" y="1896.43" type="line"/>
+			<point x="818.143" y="1981.86"/>
+			<point x="863" y="2034.86"/>
+			<point x="958.714" y="2034.86" type="curve" smooth="yes"/>
+			<point x="1109" y="2034.86"/>
+			<point x="1141.43" y="1913.57"/>
+			<point x="1410" y="1913.57" type="curve" smooth="yes"/>
+			<point x="1446.43" y="1913.57" type="line"/>
+			<point x="1446.43" y="2047" type="line"/>
+			<point x="1414.29" y="2047" type="line" smooth="yes"/>
+			<point x="1226.43" y="2047"/>
+			<point x="1142.29" y="2174.57"/>
+			<point x="946.857" y="2174.57" type="curve" smooth="yes"/>
+			<point x="781.143" y="2174.57"/>
+			<point x="694.143" y="2088.86"/>
+			<point x="694.143" y="1928.71" type="curve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="933.857" y="1525.29" type="line"/>
+			<point x="1097.14" y="1545.29"/>
+			<point x="1190" y="1635"/>
+			<point x="1190" y="1766.43" type="curve" smooth="yes"/>
+			<point x="1190" y="1854.86"/>
+			<point x="1142.86" y="1905.86"/>
+			<point x="1065.29" y="1905.86" type="curve" smooth="yes"/>
+			<point x="992.571" y="1905.86"/>
+			<point x="954.143" y="1871.14"/>
+			<point x="954.143" y="1822" type="curve" smooth="yes"/>
+			<point x="954.143" y="1749.14"/>
+			<point x="1052.29" y="1774.71"/>
+			<point x="1052.29" y="1707.57" type="curve" smooth="yes"/>
+			<point x="1052.29" y="1662"/>
+			<point x="1016.43" y="1611.14"/>
+			<point x="933.857" y="1594.71" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>uniA64C</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string></string>
+		</dict>
+	</lib>
+</glyph>

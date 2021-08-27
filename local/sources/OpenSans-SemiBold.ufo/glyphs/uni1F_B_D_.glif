@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FBD" format="2">
+	<unicode hex="1FBD"/>
+	<advance width="546"/>
+	<outline>
+		<contour>
+			<point x="138.714" y="1208.43" type="line"/>
+			<point x="325.429" y="1217.57"/>
+			<point x="424.714" y="1304.71"/>
+			<point x="424.714" y="1443.57" type="curve" smooth="yes"/>
+			<point x="424.714" y="1532.14"/>
+			<point x="366.143" y="1589.14"/>
+			<point x="280.429" y="1589.14" type="curve" smooth="yes"/>
+			<point x="202.286" y="1589.14"/>
+			<point x="155" y="1552.43"/>
+			<point x="155" y="1491.14" type="curve" smooth="yes"/>
+			<point x="155" y="1428.86"/>
+			<point x="194.286" y="1390.14"/>
+			<point x="278" y="1388.71" type="curve"/>
+			<point x="277.429" y="1337.43"/>
+			<point x="213.571" y="1296.71"/>
+			<point x="138.714" y="1289.86" type="curve"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="284.714" y="1118.14"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>greek</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Spacing</string>
+		</dict>
+	</lib>
+</glyph>

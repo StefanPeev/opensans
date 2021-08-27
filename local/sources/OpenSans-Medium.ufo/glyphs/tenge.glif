@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tenge" format="2">
+	<unicode hex="20B8"/>
+	<advance width="1140"/>
+	<outline>
+		<contour>
+			<point x="695" y="0" type="line"/>
+			<point x="695" y="888.857" type="line"/>
+			<point x="1098.57" y="888.857" type="line"/>
+			<point x="1098.57" y="1095.29" type="line"/>
+			<point x="41.5714" y="1095.29" type="line"/>
+			<point x="41.5714" y="888.857" type="line"/>
+			<point x="446.571" y="888.857" type="line"/>
+			<point x="446.571" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="41.5714" y="1462" type="line"/>
+			<point x="41.5714" y="1255.57" type="line"/>
+			<point x="1098.57" y="1255.57" type="line"/>
+			<point x="1098.57" y="1462" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Symbol</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Currency</string>
+		</dict>
+	</lib>
+</glyph>

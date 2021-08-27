@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA79E" format="2">
+	<unicode hex="A79E"/>
+	<advance width="1492"/>
+	<outline>
+		<contour>
+			<point x="637.571" y="-20" type="curve" smooth="yes"/>
+			<point x="939.143" y="-20"/>
+			<point x="1068.86" y="122.429"/>
+			<point x="1137.29" y="277.429" type="curve"/>
+			<point x="1145.86" y="277.429" type="line"/>
+			<point x="1172" y="0" type="line"/>
+			<point x="1300.71" y="0" type="line"/>
+			<point x="1300.71" y="1462" type="line"/>
+			<point x="1151" y="1462" type="line"/>
+			<point x="1151" y="639.143" type="line" smooth="yes"/>
+			<point x="1151" y="273"/>
+			<point x="974.571" y="108.714"/>
+			<point x="669.857" y="108.714" type="curve" smooth="yes"/>
+			<point x="405.571" y="108.714"/>
+			<point x="281.143" y="220.857"/>
+			<point x="281.143" y="407.857" type="curve" smooth="yes"/>
+			<point x="281.143" y="601.571"/>
+			<point x="409.429" y="697"/>
+			<point x="675" y="697" type="curve" smooth="yes"/>
+			<point x="799.714" y="697" type="line"/>
+			<point x="799.714" y="824.857" type="line"/>
+			<point x="681.571" y="824.857" type="line" smooth="yes"/>
+			<point x="423.143" y="824.857"/>
+			<point x="318.714" y="919.571"/>
+			<point x="318.714" y="1104.57" type="curve" smooth="yes"/>
+			<point x="318.714" y="1462" type="line"/>
+			<point x="168" y="1462" type="line"/>
+			<point x="168" y="1098.57" type="line" smooth="yes"/>
+			<point x="168" y="898.143"/>
+			<point x="283.286" y="802.429"/>
+			<point x="434.286" y="766.286" type="curve"/>
+			<point x="434.286" y="761.143" type="line"/>
+			<point x="234" y="721"/>
+			<point x="126.143" y="603.429"/>
+			<point x="126.143" y="397.286" type="curve" smooth="yes"/>
+			<point x="126.143" y="149.857"/>
+			<point x="300.714" y="-20"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

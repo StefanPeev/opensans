@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="multiply" format="2">
+	<unicode hex="00D7"/>
+	<advance width="1181"/>
+	<outline>
+		<contour>
+			<point x="936" y="1169.14" type="line"/>
+			<point x="588.286" y="824.429" type="line"/>
+			<point x="241.714" y="1169.14" type="line"/>
+			<point x="143.286" y="1068.14" type="line"/>
+			<point x="488.571" y="723" type="line"/>
+			<point x="144.143" y="377.286" type="line"/>
+			<point x="241.714" y="277.714" type="line"/>
+			<point x="588.286" y="623.286" type="line"/>
+			<point x="936" y="276.857" type="line"/>
+			<point x="1035.29" y="375.571" type="line"/>
+			<point x="688.286" y="723" type="line"/>
+			<point x="1037" y="1070.71" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Symbol</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Math</string>
+		</dict>
+	</lib>
+</glyph>

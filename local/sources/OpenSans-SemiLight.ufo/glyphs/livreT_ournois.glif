@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="livreTournois" format="2">
+	<unicode hex="20B6"/>
+	<advance width="1272"/>
+	<outline>
+		<contour>
+			<point x="188.5" y="0" type="line"/>
+			<point x="362.857" y="0" type="line"/>
+			<point x="362.857" y="962.143" type="line"/>
+			<point x="767.143" y="962.143" type="line"/>
+			<point x="767.143" y="1098.5" type="line"/>
+			<point x="362.857" y="1098.5" type="line"/>
+			<point x="362.857" y="1352.86" type="line"/>
+			<point x="244.5" y="1352.86" type="line"/>
+			<point x="198.643" y="1094.21" type="line"/>
+			<point x="31.7857" y="1047.86" type="line"/>
+			<point x="31.7857" y="962.143" type="line"/>
+			<point x="188.5" y="962.143" type="line"/>
+		</contour>
+		<contour>
+			<point x="1037.29" y="123.143" type="curve" smooth="yes"/>
+			<point x="915.286" y="123.143"/>
+			<point x="873.714" y="196.786"/>
+			<point x="873.714" y="330.857" type="curve" smooth="yes"/>
+			<point x="873.714" y="962.143" type="line"/>
+			<point x="1199.64" y="962.143" type="line"/>
+			<point x="1199.64" y="1099.57" type="line"/>
+			<point x="873.714" y="1099.57" type="line"/>
+			<point x="873.714" y="1353.57" type="line"/>
+			<point x="754.643" y="1353.57" type="line"/>
+			<point x="711.214" y="1095.64" type="line"/>
+			<point x="543.643" y="1047.86" type="line"/>
+			<point x="543.643" y="962.143" type="line"/>
+			<point x="699.286" y="962.143" type="line"/>
+			<point x="699.286" y="317.714" type="line" smooth="yes"/>
+			<point x="699.286" y="85.2857"/>
+			<point x="789.5" y="-20"/>
+			<point x="991.214" y="-20" type="curve" smooth="yes"/>
+			<point x="1089.36" y="-20"/>
+			<point x="1148.29" y="-3"/>
+			<point x="1207.93" y="19.2143" type="curve"/>
+			<point x="1207.93" y="153.786" type="line"/>
+			<point x="1156.5" y="135.286"/>
+			<point x="1105" y="123.143"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Symbol</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Currency</string>
+		</dict>
+	</lib>
+</glyph>

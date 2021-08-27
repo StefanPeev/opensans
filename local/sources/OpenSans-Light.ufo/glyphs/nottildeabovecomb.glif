@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nottildeabovecomb" format="2">
+	<unicode hex="034A"/>
+	<outline>
+		<contour>
+			<point x="147" y="1258" type="curve" smooth="yes"/>
+			<point x="253.571" y="1258"/>
+			<point x="324.143" y="1342.43"/>
+			<point x="344.286" y="1490.71" type="curve"/>
+			<point x="261.714" y="1490.71" type="line"/>
+			<point x="241.429" y="1378.86"/>
+			<point x="201.571" y="1333"/>
+			<point x="142.143" y="1333" type="curve" smooth="yes"/>
+			<point x="111.143" y="1333"/>
+			<point x="83.1429" y="1352.71"/>
+			<point x="51.2857" y="1379.14" type="curve"/>
+			<point x="149" y="1542.86" type="line"/>
+			<point x="76.2857" y="1583.86" type="line"/>
+			<point x="-12" y="1431.57" type="line"/>
+			<point x="-51.8571" y="1465.43"/>
+			<point x="-95.4286" y="1491.57"/>
+			<point x="-150.571" y="1491.57" type="curve" smooth="yes"/>
+			<point x="-264.857" y="1491.57"/>
+			<point x="-334.857" y="1395.86"/>
+			<point x="-346.286" y="1257.43" type="curve"/>
+			<point x="-267.857" y="1257.43" type="line"/>
+			<point x="-243.143" y="1379.57"/>
+			<point x="-205.286" y="1416.86"/>
+			<point x="-148.571" y="1416.86" type="curve" smooth="yes"/>
+			<point x="-114.143" y="1416.86"/>
+			<point x="-81.1429" y="1395.86"/>
+			<point x="-48.1429" y="1369.14" type="curve"/>
+			<point x="-143.571" y="1204.57" type="line"/>
+			<point x="-74.2857" y="1163.29" type="line"/>
+			<point x="15.1429" y="1316.43" type="line"/>
+			<point x="52.7143" y="1284.29"/>
+			<point x="95.4286" y="1258"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="-2" y="1095.86"/>
+	<anchor name="top" x="-0.285714" y="1583.86"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

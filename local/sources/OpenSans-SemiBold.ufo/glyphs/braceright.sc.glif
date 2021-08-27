@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="braceright.sc" format="2">
+	<advance width="713"/>
+	<outline>
+		<contour>
+			<point x="661.571" y="352" type="curve"/>
+			<point x="661.571" y="573.714" type="line"/>
+			<point x="553.571" y="573.714"/>
+			<point x="462.286" y="612.429"/>
+			<point x="462.286" y="716" type="curve" smooth="yes"/>
+			<point x="462.286" y="934.286" type="line" smooth="yes"/>
+			<point x="462.286" y="1120.43"/>
+			<point x="386.143" y="1205.29"/>
+			<point x="54.7143" y="1205.86" type="curve"/>
+			<point x="54.7143" y="1001.29" type="line"/>
+			<point x="134.286" y="998.429"/>
+			<point x="221.857" y="989"/>
+			<point x="221.857" y="901.571" type="curve" smooth="yes"/>
+			<point x="221.857" y="667.714" type="line" smooth="yes"/>
+			<point x="221.857" y="538.429"/>
+			<point x="289.857" y="484.286"/>
+			<point x="409.429" y="466.714" type="curve"/>
+			<point x="409.429" y="458.429" type="line"/>
+			<point x="287.714" y="438.286"/>
+			<point x="221.857" y="383"/>
+			<point x="221.857" y="263.143" type="curve" smooth="yes"/>
+			<point x="221.857" y="24.4286" type="line" smooth="yes"/>
+			<point x="221.857" y="-60.4286"/>
+			<point x="135.714" y="-70.2857"/>
+			<point x="54.7143" y="-72.2857" type="curve"/>
+			<point x="54.7143" y="-278.429" type="line"/>
+			<point x="383.714" y="-278.429"/>
+			<point x="462.286" y="-195.286"/>
+			<point x="462.286" y="-1.71429" type="curve" smooth="yes"/>
+			<point x="462.286" y="209.429" type="line" smooth="yes"/>
+			<point x="462.286" y="311.286"/>
+			<point x="556.429" y="352.286"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Punctuation</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Smallcaps</string>
+		</dict>
+	</lib>
+</glyph>

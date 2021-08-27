@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="mem-hb" format="2">
+	<unicode hex="05DE"/>
+	<advance width="1361"/>
+	<outline>
+		<contour>
+			<point x="89.1429" y="0" type="line"/>
+			<point x="391.143" y="0" type="line"/>
+			<point x="472.429" y="917.429" type="line"/>
+			<point x="490.143" y="951.429"/>
+			<point x="519" y="985.429"/>
+			<point x="556.286" y="1014.86" type="curve" smooth="yes"/>
+			<point x="594.429" y="1044.86"/>
+			<point x="648.143" y="1067.86"/>
+			<point x="715.286" y="1067.86" type="curve" smooth="yes"/>
+			<point x="809.571" y="1067.86"/>
+			<point x="852.714" y="1019.43"/>
+			<point x="876.143" y="957.143" type="curve"/>
+			<point x="897.429" y="917.714"/>
+			<point x="908.286" y="855.857"/>
+			<point x="908.286" y="773.857" type="curve" smooth="yes"/>
+			<point x="908.286" y="238.714" type="line"/>
+			<point x="662.143" y="238.714" type="line"/>
+			<point x="662.143" y="0" type="line"/>
+			<point x="1219.29" y="0" type="line"/>
+			<point x="1219.29" y="773.857" type="line" smooth="yes"/>
+			<point x="1219.29" y="907.571"/>
+			<point x="1200.14" y="1017.14"/>
+			<point x="1163.14" y="1101.43" type="curve" smooth="yes"/>
+			<point x="1142.86" y="1147.29"/>
+			<point x="1116.43" y="1187.29"/>
+			<point x="1078.71" y="1221.14" type="curve" smooth="yes"/>
+			<point x="1016.86" y="1278.43"/>
+			<point x="926.571" y="1313.57"/>
+			<point x="815" y="1313.57" type="curve" smooth="yes"/>
+			<point x="716.571" y="1313.57"/>
+			<point x="630.714" y="1287.29"/>
+			<point x="578" y="1260.29" type="curve" smooth="yes"/>
+			<point x="526.714" y="1234"/>
+			<point x="464.429" y="1186.29"/>
+			<point x="444.571" y="1160.71" type="curve"/>
+			<point x="430.857" y="1160.71" type="line"/>
+			<point x="423.571" y="1206.29"/>
+			<point x="408.286" y="1251.14"/>
+			<point x="384.714" y="1295.29" type="curve"/>
+			<point x="110.714" y="1295.29" type="line"/>
+			<point x="116.714" y="1278.14"/>
+			<point x="122.429" y="1261.71"/>
+			<point x="128.429" y="1244.57" type="curve"/>
+			<point x="138.286" y="1211.71"/>
+			<point x="155" y="1156.71"/>
+			<point x="160.857" y="1121.86" type="curve" smooth="yes"/>
+			<point x="170.429" y="1071.29"/>
+			<point x="175.429" y="1024.57"/>
+			<point x="175.429" y="974.143" type="curve" smooth="yes"/>
+			<point x="175.429" y="943.286"/>
+			<point x="173.714" y="913.143"/>
+			<point x="169.857" y="871.429" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="680.714" y="0"/>
+	<anchor name="bottomleft" x="20" y="0"/>
+	<anchor name="center" x="681.429" y="670.714"/>
+	<anchor name="top" x="680.714" y="1119.86"/>
+	<anchor name="topleft" x="20" y="1119.86"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.hints</key>
+			<array>
+				<dict>
+					<key>horizontal</key>
+					<true/>
+					<key>options</key>
+					<integer>0</integer>
+					<key>origin</key>
+					<array>
+						<integer>0</integer>
+						<integer>51</integer>
+					</array>
+					<key>stem</key>
+					<integer>-2</integer>
+					<key>target</key>
+					<array>
+						<integer>0</integer>
+						<integer>15</integer>
+					</array>
+					<key>type</key>
+					<string>Stem</string>
+				</dict>
+				<dict>
+					<key>horizontal</key>
+					<false/>
+					<key>options</key>
+					<integer>0</integer>
+					<key>origin</key>
+					<array>
+						<integer>0</integer>
+						<integer>51</integer>
+					</array>
+					<key>stem</key>
+					<integer>-2</integer>
+					<key>target</key>
+					<array>
+						<integer>0</integer>
+						<integer>17</integer>
+					</array>
+					<key>type</key>
+					<string>Stem</string>
+				</dict>
+				<dict>
+					<key>horizontal</key>
+					<true/>
+					<key>options</key>
+					<integer>4</integer>
+					<key>origin</key>
+					<array>
+						<integer>0</integer>
+						<integer>15</integer>
+					</array>
+					<key>stem</key>
+					<integer>-2</integer>
+					<key>target</key>
+					<array>
+						<integer>0</integer>
+						<integer>51</integer>
+					</array>
+					<key>type</key>
+					<string>TTStem</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+	<note>
+		afii57678
+	</note>
+</glyph>

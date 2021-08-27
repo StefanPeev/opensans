@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniAB4B" format="2">
+	<unicode hex="AB4B"/>
+	<advance width="876"/>
+	<outline>
+		<contour>
+			<point x="41" y="1114.57" type="curve"/>
+			<point x="41" y="994.143" type="line"/>
+			<point x="119.429" y="967.429"/>
+			<point x="238.429" y="946.143"/>
+			<point x="365.714" y="946.143" type="curve" smooth="yes"/>
+			<point x="436" y="946.143"/>
+			<point x="496.286" y="958.286"/>
+			<point x="555.429" y="974" type="curve"/>
+			<point x="555.429" y="0" type="line"/>
+			<point x="705" y="0" type="line"/>
+			<point x="705" y="1114.57" type="line"/>
+			<point x="592.286" y="1080.43"/>
+			<point x="488" y="1061.57"/>
+			<point x="371.143" y="1061.57" type="curve" smooth="yes"/>
+			<point x="245.286" y="1061.57"/>
+			<point x="128.571" y="1082.43"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tironiansignet" format="2">
+	<unicode hex="204A"/>
+	<advance width="1176"/>
+	<outline>
+		<contour>
+			<point x="1040.29" y="0" type="line"/>
+			<point x="1040.29" y="1094.43" type="line"/>
+			<point x="68.7143" y="1094.43" type="line"/>
+			<point x="68.7143" y="986.286" type="line"/>
+			<point x="931" y="986.286" type="line"/>
+			<point x="931" y="0" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Punctuation</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Other</string>
+		</dict>
+	</lib>
+</glyph>

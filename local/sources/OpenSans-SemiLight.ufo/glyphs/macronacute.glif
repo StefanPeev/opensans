@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macronacute" format="2">
+	<outline>
+		<contour>
+			<point x="-116.714" y="1504.07" type="line"/>
+			<point x="2.5" y="1504.07" type="line"/>
+			<point x="72.6429" y="1553.21"/>
+			<point x="211.643" y="1685.93"/>
+			<point x="271.286" y="1774.36" type="curve"/>
+			<point x="271.286" y="1801.64" type="line"/>
+			<point x="83.6429" y="1801.64" type="line"/>
+			<point x="42.9286" y="1722.5"/>
+			<point x="-44.6429" y="1602.93"/>
+			<point x="-116.714" y="1528.36" type="curve"/>
+		</contour>
+		<contour>
+			<point x="-287.857" y="1298.86" type="line"/>
+			<point x="289.857" y="1298.86" type="line"/>
+			<point x="289.857" y="1406.86" type="line"/>
+			<point x="-287.857" y="1406.86" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string></string>
+		</dict>
+	</lib>
+</glyph>

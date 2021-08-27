@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="samekhdagesh-hb" format="2">
+	<unicode hex="FB41"/>
+	<advance width="1294"/>
+	<outline>
+		<component base="samekh-hb"/>
+		<component base="dagesh-hb" xyScale="0" xOffset="645.571" yOffset="28.1429"/>
+	</outline>
+	<note>
+		uniFB41
+	</note>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hook" format="2">
+	<outline>
+		<contour>
+			<point x="-420.143" y="1506.79" type="curve" smooth="yes"/>
+			<point x="-420.143" y="1613"/>
+			<point x="-492.929" y="1689.5"/>
+			<point x="-648.5" y="1689.5" type="curve" smooth="yes"/>
+			<point x="-716.143" y="1689.5"/>
+			<point x="-775.5" y="1676.79"/>
+			<point x="-811.286" y="1665.57" type="curve"/>
+			<point x="-811.286" y="1561.21" type="line"/>
+			<point x="-772.643" y="1574.79"/>
+			<point x="-737.786" y="1584.07"/>
+			<point x="-680.357" y="1584.07" type="curve" smooth="yes"/>
+			<point x="-600.786" y="1584.07"/>
+			<point x="-561.143" y="1547.86"/>
+			<point x="-561.143" y="1489.57" type="curve" smooth="yes"/>
+			<point x="-561.143" y="1427.07"/>
+			<point x="-598.643" y="1382.64"/>
+			<point x="-716.857" y="1368.14" type="curve"/>
+			<point x="-705.571" y="1214.07" type="line"/>
+			<point x="-601.429" y="1214.07" type="line"/>
+			<point x="-596.214" y="1315.07" type="line"/>
+			<point x="-477.714" y="1342.21"/>
+			<point x="-420.143" y="1408.93"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string></string>
+		</dict>
+	</lib>
+</glyph>

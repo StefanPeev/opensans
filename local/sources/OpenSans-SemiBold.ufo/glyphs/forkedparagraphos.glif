@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="forkedparagraphos" format="2">
+	<unicode hex="2E10"/>
+	<advance width="2048"/>
+	<outline>
+		<contour>
+			<point x="2048" y="-185.429" type="line"/>
+			<point x="0" y="-185.429" type="line"/>
+			<point x="0" y="-305.714" type="line"/>
+			<point x="507.286" y="-305.714" type="line"/>
+			<point x="7.42857" y="-601.429" type="line"/>
+			<point x="68.5714" y="-705.857" type="line"/>
+			<point x="747.429" y="-305.714" type="line"/>
+			<point x="2048" y="-305.714" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Punctuation</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Other</string>
+		</dict>
+	</lib>
+</glyph>

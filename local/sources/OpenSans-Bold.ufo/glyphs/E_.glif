@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="E" format="2">
+	<unicode hex="0045"/>
+	<advance width="1124"/>
+	<outline>
+		<contour>
+			<point x="1022.14" y="0" type="line"/>
+			<point x="1022.14" y="283.286" type="line"/>
+			<point x="511.714" y="283.286" type="line"/>
+			<point x="511.714" y="619" type="line"/>
+			<point x="986.286" y="619" type="line"/>
+			<point x="986.286" y="898.143" type="line"/>
+			<point x="511.714" y="898.143" type="line"/>
+			<point x="511.714" y="1183" type="line"/>
+			<point x="1022.14" y="1183" type="line"/>
+			<point x="1022.14" y="1462" type="line"/>
+			<point x="165.571" y="1462" type="line"/>
+			<point x="165.571" y="0" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="604" y="0"/>
+	<anchor name="top" x="596.714" y="1462"/>
+	<anchor name="topright" x="1083.29" y="1462"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>latin</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Uppercase</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tophalfsectionsign" format="2">
+	<unicode hex="2E39"/>
+	<advance width="1050"/>
+	<outline>
+		<contour>
+			<point x="143.143" y="809.571" type="curve" smooth="yes"/>
+			<point x="143.143" y="619"/>
+			<point x="305.286" y="499.429"/>
+			<point x="564.571" y="499.429" type="curve" smooth="yes"/>
+			<point x="788" y="499.429"/>
+			<point x="904.429" y="614.571"/>
+			<point x="904.429" y="779.429" type="curve" smooth="yes"/>
+			<point x="904.429" y="944.857"/>
+			<point x="780.286" y="1008.71"/>
+			<point x="548" y="1091.57" type="curve" smooth="yes"/>
+			<point x="404.714" y="1142.86"/>
+			<point x="291.143" y="1187"/>
+			<point x="291.143" y="1290.57" type="curve" smooth="yes"/>
+			<point x="291.143" y="1401.71"/>
+			<point x="379.429" y="1459.57"/>
+			<point x="542.714" y="1459.57" type="curve" smooth="yes"/>
+			<point x="642.429" y="1459.57"/>
+			<point x="733.286" y="1438.43"/>
+			<point x="837.714" y="1398.57" type="curve"/>
+			<point x="880" y="1493.86" type="line"/>
+			<point x="779.429" y="1535.71"/>
+			<point x="666.286" y="1559.14"/>
+			<point x="545" y="1559.14" type="curve" smooth="yes"/>
+			<point x="334" y="1559.14"/>
+			<point x="166.857" y="1477.57"/>
+			<point x="166.857" y="1289.14" type="curve" smooth="yes"/>
+			<point x="166.857" y="1188.57"/>
+			<point x="223.714" y="1122"/>
+			<point x="328.571" y="1068.14" type="curve"/>
+			<point x="220.714" y="1020.57"/>
+			<point x="143.143" y="931.429"/>
+		</contour>
+		<contour>
+			<point x="265.571" y="826.143" type="curve" smooth="yes"/>
+			<point x="265.571" y="924.857"/>
+			<point x="332.429" y="992.857"/>
+			<point x="430" y="1021" type="curve"/>
+			<point x="712.857" y="935.571"/>
+			<point x="782" y="873"/>
+			<point x="782" y="766.571" type="curve" smooth="yes"/>
+			<point x="782" y="654.143"/>
+			<point x="707.429" y="596.143"/>
+			<point x="572.857" y="596.143" type="curve" smooth="yes"/>
+			<point x="380.857" y="596.143"/>
+			<point x="265.571" y="681"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Punctuation</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Other</string>
+		</dict>
+	</lib>
+</glyph>

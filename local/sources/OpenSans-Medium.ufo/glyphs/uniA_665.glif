@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA665" format="2">
+	<unicode hex="A665"/>
+	<advance width="1652"/>
+	<outline>
+		<component base="afii10077"/>
+		<contour>
+			<point x="1606.29" y="1110.71" type="line"/>
+			<point x="861.714" y="1110.71" type="line"/>
+			<point x="861.714" y="0" type="line"/>
+			<point x="1107.86" y="0" type="line"/>
+			<point x="1107.86" y="922.571" type="line"/>
+			<point x="1606.29" y="922.571" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsRight</key>
+			<string>afii10068</string>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>afii10077</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+			<string>afii10068</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>cyrillic</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

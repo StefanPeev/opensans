@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="graveacutegrave" format="2">
+	<unicode hex="1DC8"/>
+	<outline>
+		<contour>
+			<point x="-121.714" y="1239.86" type="line"/>
+			<point x="124.714" y="1387" type="line"/>
+			<point x="354.286" y="1245.43" type="line"/>
+			<point x="405.714" y="1331.64" type="line"/>
+			<point x="127.5" y="1504.07" type="line"/>
+			<point x="-124.714" y="1356.29" type="line"/>
+			<point x="-354.286" y="1498.5" type="line"/>
+			<point x="-405.714" y="1411" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="0" y="1099.57"/>
+	<anchor name="top" x="1.42857" y="1504.07"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
+</glyph>

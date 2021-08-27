@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniAB5A" format="2">
+	<unicode hex="AB5A"/>
+	<advance width="1288"/>
+	<outline>
+		<contour>
+			<point x="1129" y="-23" type="curve" smooth="yes"/>
+			<point x="1129" y="723.429" type="line"/>
+			<point x="882.857" y="723.429" type="line"/>
+			<point x="882.857" y="562.429" type="line" smooth="yes"/>
+			<point x="882.857" y="307.429"/>
+			<point x="792" y="178.429"/>
+			<point x="606.714" y="178.429" type="curve" smooth="yes"/>
+			<point x="464.857" y="178.429"/>
+			<point x="394.143" y="269.286"/>
+			<point x="394.143" y="457" type="curve" smooth="yes"/>
+			<point x="394.143" y="1110.71" type="line"/>
+			<point x="148" y="1110.71" type="line"/>
+			<point x="148" y="385.571" type="line" smooth="yes"/>
+			<point x="148" y="109.571"/>
+			<point x="300.714" y="-20"/>
+			<point x="531.857" y="-20" type="curve" smooth="yes"/>
+			<point x="724.857" y="-20"/>
+			<point x="828.714" y="72.2857"/>
+			<point x="882" y="177.286" type="curve"/>
+			<point x="890.571" y="177.286" type="line"/>
+			<point x="885.143" y="124"/>
+			<point x="882.857" y="67.8571"/>
+			<point x="882.857" y="23" type="curve" smooth="yes"/>
+			<point x="882.857" y="-32.1429" type="line" smooth="yes"/>
+			<point x="882.857" y="-195.571"/>
+			<point x="792.429" y="-294.857"/>
+			<point x="588.143" y="-294.857" type="curve" smooth="yes"/>
+			<point x="420.857" y="-294.857"/>
+			<point x="305.714" y="-262.143"/>
+			<point x="184.857" y="-208.857" type="curve"/>
+			<point x="184.857" y="-421.714" type="line"/>
+			<point x="300.571" y="-467.286"/>
+			<point x="426.143" y="-492"/>
+			<point x="601.286" y="-492" type="curve" smooth="yes"/>
+			<point x="965.714" y="-492"/>
+			<point x="1129" y="-317.286"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Lowercase</string>
+		</dict>
+	</lib>
+</glyph>

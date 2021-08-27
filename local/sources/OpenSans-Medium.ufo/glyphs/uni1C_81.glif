@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1C81" format="2">
+	<unicode hex="1C81"/>
+	<advance width="1276"/>
+	<outline>
+		<contour>
+			<point x="1085" y="1110.71" type="line"/>
+			<point x="369" y="1110.71" type="line"/>
+			<point x="350.429" y="783.571"/>
+			<point x="260.429" y="481.857"/>
+			<point x="116.857" y="271.857" type="curve"/>
+			<point x="32.7143" y="271.857" type="line"/>
+			<point x="32.7143" y="-492" type="line"/>
+			<point x="250.857" y="-492" type="line"/>
+			<point x="250.857" y="83.7143" type="line"/>
+			<point x="1021.57" y="83.7143" type="line"/>
+			<point x="1021.57" y="-492" type="line"/>
+			<point x="1239.71" y="-492" type="line"/>
+			<point x="1239.71" y="271.857" type="line"/>
+			<point x="1085" y="271.857" type="line"/>
+		</contour>
+		<contour>
+			<point x="838.429" y="922.571" type="line"/>
+			<point x="838.429" y="271.857" type="line"/>
+			<point x="368.571" y="271.857" type="line"/>
+			<point x="483.714" y="486.429"/>
+			<point x="542" y="684.286"/>
+			<point x="562.857" y="922.571" type="curve"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="639.571" y="-492"/>
+	<anchor name="top" x="639.571" y="1110.71"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string></string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string></string>
+		</dict>
+	</lib>
+</glyph>

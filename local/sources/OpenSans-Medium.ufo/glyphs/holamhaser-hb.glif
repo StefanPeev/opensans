@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="holamhaser-hb" format="2">
+	<unicode hex="05BA"/>
+	<outline>
+		<contour>
+			<point x="1.85714" y="1324.29" type="curve" smooth="yes"/>
+			<point x="54.5714" y="1324.29"/>
+			<point x="84.7143" y="1354.43"/>
+			<point x="84.7143" y="1405.57" type="curve" smooth="yes"/>
+			<point x="84.7143" y="1456.71"/>
+			<point x="54.5714" y="1487.43"/>
+			<point x="2.42857" y="1487.43" type="curve" smooth="yes"/>
+			<point x="-47.8571" y="1487.43"/>
+			<point x="-77" y="1458.43"/>
+			<point x="-77" y="1405.57" type="curve" smooth="yes"/>
+			<point x="-77" y="1352.71"/>
+			<point x="-49" y="1324.29"/>
+		</contour>
+	</outline>
+	<anchor name="_topleft" x="104.714" y="1304.29"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.hints</key>
+			<array>
+				<dict>
+					<key>horizontal</key>
+					<true/>
+					<key>options</key>
+					<integer>0</integer>
+					<key>origin</key>
+					<array>
+						<integer>0</integer>
+						<integer>5</integer>
+					</array>
+					<key>stem</key>
+					<integer>-2</integer>
+					<key>target</key>
+					<array>
+						<integer>0</integer>
+						<integer>11</integer>
+					</array>
+					<key>type</key>
+					<string>Stem</string>
+				</dict>
+				<dict>
+					<key>horizontal</key>
+					<false/>
+					<key>options</key>
+					<integer>0</integer>
+					<key>origin</key>
+					<array>
+						<integer>0</integer>
+						<integer>8</integer>
+					</array>
+					<key>stem</key>
+					<integer>-2</integer>
+					<key>target</key>
+					<array>
+						<integer>0</integer>
+						<integer>2</integer>
+					</array>
+					<key>type</key>
+					<string>Stem</string>
+				</dict>
+				<dict>
+					<key>horizontal</key>
+					<true/>
+					<key>options</key>
+					<integer>4</integer>
+					<key>origin</key>
+					<array>
+						<integer>0</integer>
+						<integer>5</integer>
+					</array>
+					<key>stem</key>
+					<integer>-2</integer>
+					<key>target</key>
+					<array>
+						<integer>0</integer>
+						<integer>11</integer>
+					</array>
+					<key>type</key>
+					<string>TTStem</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+	<note>
+		uni05BA
+	</note>
+</glyph>
