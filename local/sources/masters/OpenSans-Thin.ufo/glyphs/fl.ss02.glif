@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fl.ss02" format="2">
+  <advance width="985"/>
+  <anchor x="774" y="0" name="bottom"/>
+  <anchor x="774" y="1556" name="top"/>
+  <anchor x="944" y="1556" name="topright"/>
+  <anchor x="774" y="541" name="center"/>
+  <outline>
+    <component base="f"/>
+    <component base="l" xOffset="561"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.602,1,1</string>
+  </dict>
+  </lib>
+</glyph>

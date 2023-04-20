@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10075.loclBGR" format="2">
+  <advance width="1372"/>
+  <anchor x="733" y="0" name="bottom"/>
+  <anchor x="739" y="1604" name="top"/>
+  <outline>
+    <component base="brevecomb" xOffset="737"/>
+    <component base="afii10074.loclBGR"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=u</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=u</string>
+  </dict>
+  </lib>
+</glyph>

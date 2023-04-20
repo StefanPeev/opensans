@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10090.loclBGR" format="2">
+  <advance width="2050"/>
+  <outline>
+    <component base="m" xScale="-1" yScale="-1" xOffset="2050" yOffset="1133"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=u</string>
+  </dict>
+  </lib>
+</glyph>
