@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1F36" format="2">
+  <advance width="817"/>
+  <unicode hex="1F36"/>
+  <anchor x="289" y="0" name="bottom"/>
+  <anchor x="612" y="1812" name="top"/>
+  <outline>
+    <component base="iota"/>
+    <component base="uni1FCF" xOffset="-264"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>iota</string>
+  <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+  <array>
+    <dict>
+      <key>alignment</key>
+      <integer>-1</integer>
+      <key>index</key>
+      <integer>0</integer>
+      <key>name</key>
+      <string>iota</string>
+    </dict>
+    <dict>
+      <key>alignment</key>
+      <integer>-1</integer>
+      <key>index</key>
+      <integer>1</integer>
+      <key>name</key>
+      <string>uni1FCF</string>
+    </dict>
+  </array>
+  <key>com.schriftgestaltung.Glyphs.category</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.script</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.subCategory</key>
+  <real>0</real>
+  </dict>
+  </lib>
+</glyph>

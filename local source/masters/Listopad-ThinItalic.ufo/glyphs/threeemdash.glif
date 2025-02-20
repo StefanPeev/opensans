@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threeemdash" format="2">
+  <advance width="5341"/>
+  <unicode hex="2E3B"/>
+  <outline>
+    <contour>
+      <point x="78" y="520" type="line"/>
+      <point x="5251" y="520" type="line"/>
+      <point x="5257" y="571" type="line"/>
+      <point x="86" y="571" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>emdash</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>emdash</string>
+  <key>com.schriftgestaltung.Glyphs.category</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.script</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.subCategory</key>
+  <real>0</real>
+  </dict>
+  </lib>
+</glyph>

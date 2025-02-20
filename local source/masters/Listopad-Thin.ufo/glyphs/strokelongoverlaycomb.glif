@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="strokelongoverlaycomb" format="2">
+  <unicode hex="0336"/>
+  <outline>
+    <contour>
+      <point x="-770" y="547" type="line"/>
+      <point x="770" y="547" type="line"/>
+      <point x="770" y="590" type="line"/>
+      <point x="-770" y="590" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.schriftgestaltung.Glyphs.category</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.script</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.subCategory</key>
+  <real>0</real>
+  </dict>
+  </lib>
+</glyph>

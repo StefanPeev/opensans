@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="centigrade" format="2">
+  <advance width="2058"/>
+  <unicode hex="2103"/>
+  <outline>
+    <component base="degree"/>
+    <component base="C" xOffset="768"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>C</string>
+  <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+  <array>
+    <dict>
+      <key>alignment</key>
+      <integer>-1</integer>
+      <key>index</key>
+      <integer>0</integer>
+      <key>name</key>
+      <string>degree</string>
+    </dict>
+    <dict>
+      <key>alignment</key>
+      <integer>-1</integer>
+      <key>index</key>
+      <integer>1</integer>
+      <key>name</key>
+      <string>C</string>
+    </dict>
+  </array>
+  <key>com.schriftgestaltung.Glyphs.category</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.script</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.subCategory</key>
+  <real>0</real>
+  </dict>
+  </lib>
+</glyph>

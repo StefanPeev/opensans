@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idieresis" format="2">
+  <advance width="713"/>
+  <unicode hex="00CF"/>
+  <outline>
+    <component base="I"/>
+    <component base="dieresiscomb" xOffset="358" yOffset="330"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.schriftgestaltung.Glyphs.category</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.script</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.subCategory</key>
+  <real>0</real>
+  </dict>
+  </lib>
+</glyph>

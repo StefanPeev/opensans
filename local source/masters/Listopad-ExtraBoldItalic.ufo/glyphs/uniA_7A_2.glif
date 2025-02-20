@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA7A2" format="2">
+  <advance width="1370"/>
+  <unicode hex="A7A2"/>
+  <anchor x="598" y="0" name="bottom"/>
+  <anchor x="897" y="1462" name="top"/>
+  <outline>
+    <component base="K"/>
+    <contour>
+      <point x="-2" y="510" type="line"/>
+      <point x="1337" y="705" type="line"/>
+      <point x="1384" y="922" type="line"/>
+      <point x="45" y="723" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>K</string>
+  <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+  <array>
+    <dict>
+      <key>alignment</key>
+      <integer>-1</integer>
+      <key>index</key>
+      <integer>0</integer>
+      <key>name</key>
+      <string>K</string>
+    </dict>
+  </array>
+  <key>com.schriftgestaltung.Glyphs.category</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.script</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.subCategory</key>
+  <real>0</real>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="verticallineabovecomb" format="2">
+  <unicode hex="030D"/>
+  <outline>
+    <contour>
+      <point x="115" y="1589" type="line"/>
+      <point x="-117" y="1589" type="line"/>
+      <point x="-117" y="1221" type="line"/>
+      <point x="115" y="1221" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.schriftgestaltung.Glyphs.category</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.script</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.subCategory</key>
+  <real>0</real>
+  </dict>
+  </lib>
+</glyph>

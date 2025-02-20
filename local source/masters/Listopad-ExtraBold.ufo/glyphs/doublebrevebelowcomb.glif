@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="doublebrevebelowcomb" format="2">
+  <unicode hex="035C"/>
+  <outline>
+    <contour>
+      <point x="4" y="-506" type="curve" smooth="yes"/>
+      <point x="393" y="-506"/>
+      <point x="688" y="-379"/>
+      <point x="823" y="-86" type="curve"/>
+      <point x="580" y="-86" type="line"/>
+      <point x="457" y="-201"/>
+      <point x="272" y="-266"/>
+      <point x="6" y="-266" type="curve" smooth="yes"/>
+      <point x="-270" y="-266"/>
+      <point x="-467" y="-186"/>
+      <point x="-578" y="-86" type="curve"/>
+      <point x="-823" y="-86" type="line"/>
+      <point x="-717" y="-356"/>
+      <point x="-442" y="-506"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.schriftgestaltung.Glyphs.category</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.script</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.subCategory</key>
+  <real>0</real>
+  </dict>
+  </lib>
+</glyph>

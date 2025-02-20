@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2023" format="2">
+  <advance width="944"/>
+  <unicode hex="2023"/>
+  <outline>
+    <contour>
+      <point x="113" y="274" type="line"/>
+      <point x="926" y="764" type="line"/>
+      <point x="113" y="1251" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.schriftgestaltung.Glyphs.category</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.script</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.subCategory</key>
+  <real>0</real>
+  </dict>
+  </lib>
+</glyph>

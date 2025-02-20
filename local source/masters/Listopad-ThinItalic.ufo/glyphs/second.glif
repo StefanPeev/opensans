@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="second" format="2">
+  <advance width="739"/>
+  <unicode hex="2033"/>
+  <outline>
+    <contour>
+      <point x="499" y="934" type="line"/>
+      <point x="540" y="934" type="line"/>
+      <point x="817" y="1462" type="line"/>
+      <point x="759" y="1462" type="line"/>
+    </contour>
+    <contour>
+      <point x="178" y="934" type="line"/>
+      <point x="219" y="934" type="line"/>
+      <point x="496" y="1462" type="line"/>
+      <point x="438" y="1462" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>minute</string>
+  <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+  <array>
+    <dict>
+      <key>alignment</key>
+      <integer>-1</integer>
+      <key>index</key>
+      <integer>0</integer>
+      <key>name</key>
+      <string>minute</string>
+    </dict>
+    <dict>
+      <key>alignment</key>
+      <integer>-1</integer>
+      <key>index</key>
+      <integer>1</integer>
+      <key>name</key>
+      <string>minute</string>
+    </dict>
+  </array>
+  <key>com.schriftgestaltung.Glyphs.category</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.script</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.subCategory</key>
+  <real>0</real>
+  </dict>
+  </lib>
+</glyph>

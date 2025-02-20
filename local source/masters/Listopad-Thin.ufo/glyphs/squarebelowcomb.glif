@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="squarebelowcomb" format="2">
+  <unicode hex="033B"/>
+  <outline>
+    <contour>
+      <point x="387" y="-467" type="line"/>
+      <point x="387" y="-57" type="line"/>
+      <point x="-387" y="-57" type="line"/>
+      <point x="-387" y="-467" type="line"/>
+    </contour>
+    <contour>
+      <point x="-305" y="-391" type="line"/>
+      <point x="-305" y="-133" type="line"/>
+      <point x="305" y="-133" type="line"/>
+      <point x="305" y="-391" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.schriftgestaltung.Glyphs.category</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.script</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.subCategory</key>
+  <real>0</real>
+  </dict>
+  </lib>
+</glyph>

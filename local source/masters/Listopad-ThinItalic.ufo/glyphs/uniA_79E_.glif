@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA79E" format="2">
+  <advance width="1396"/>
+  <unicode hex="A79E"/>
+  <outline>
+    <contour>
+      <point x="597" y="-20" type="curve" smooth="yes"/>
+      <point x="853" y="-12"/>
+      <point x="1011" y="139"/>
+      <point x="1078" y="260" type="curve"/>
+      <point x="1082" y="260" type="line"/>
+      <point x="1031" y="0" type="line"/>
+      <point x="1076" y="0" type="line"/>
+      <point x="1385" y="1462" type="line"/>
+      <point x="1332" y="1462" type="line"/>
+      <point x="1131" y="514" type="line" smooth="yes"/>
+      <point x="1070" y="227"/>
+      <point x="849" y="35"/>
+      <point x="597" y="31" type="curve" smooth="yes"/>
+      <point x="333" y="29"/>
+      <point x="226" y="156"/>
+      <point x="226" y="342" type="curve" smooth="yes"/>
+      <point x="226" y="602"/>
+      <point x="396" y="733"/>
+      <point x="693" y="733" type="curve" smooth="yes"/>
+      <point x="804" y="733" type="line"/>
+      <point x="816" y="784" type="line"/>
+      <point x="738" y="784" type="line" smooth="yes"/>
+      <point x="527" y="784"/>
+      <point x="413" y="872"/>
+      <point x="413" y="1057" type="curve" smooth="yes"/>
+      <point x="413" y="1096"/>
+      <point x="417" y="1135"/>
+      <point x="425" y="1176" type="curve" smooth="yes"/>
+      <point x="484" y="1462" type="line"/>
+      <point x="429" y="1462" type="line"/>
+      <point x="370" y="1176" type="line" smooth="yes"/>
+      <point x="361" y="1135"/>
+      <point x="357" y="1094"/>
+      <point x="357" y="1053" type="curve" smooth="yes"/>
+      <point x="357" y="899"/>
+      <point x="429" y="813"/>
+      <point x="542" y="770" type="curve"/>
+      <point x="542" y="766" type="line"/>
+      <point x="329" y="731"/>
+      <point x="171" y="596"/>
+      <point x="171" y="338" type="curve" smooth="yes"/>
+      <point x="171" y="131"/>
+      <point x="290" y="-25"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>U</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>H</string>
+  <key>com.schriftgestaltung.Glyphs.category</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.script</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.subCategory</key>
+  <real>0</real>
+  </dict>
+  </lib>
+</glyph>

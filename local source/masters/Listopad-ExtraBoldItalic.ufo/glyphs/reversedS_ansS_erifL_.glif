@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="reversedSansSerifL" format="2">
+  <advance width="1080"/>
+  <unicode hex="2143"/>
+  <outline>
+    <contour>
+      <point x="-92" y="0" type="line"/>
+      <point x="778" y="0" type="line"/>
+      <point x="1089" y="1462" type="line"/>
+      <point x="698" y="1462" type="line"/>
+      <point x="454" y="317" type="line"/>
+      <point x="-25" y="317" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=|L</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=|L</string>
+  <key>com.schriftgestaltung.Glyphs.category</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.script</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.subCategory</key>
+  <real>0</real>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni026F" format="2">
+  <advance width="1745"/>
+  <unicode hex="026F"/>
+  <anchor x="864" y="1081" name="bottom"/>
+  <anchor x="873" y="0" name="top"/>
+  <anchor x="41" y="0" name="topright"/>
+  <outline>
+    <component base="m" xScale="-1" yScale="-1" xOffset="1745" yOffset="1081"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=|m</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=|m</string>
+  <key>com.fontlab.recipe</key>
+  <string>=m@~,~-21</string>
+  <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+  <array>
+    <dict>
+      <key>alignment</key>
+      <integer>-1</integer>
+      <key>index</key>
+      <integer>0</integer>
+      <key>name</key>
+      <string>m</string>
+    </dict>
+  </array>
+  <key>com.schriftgestaltung.Glyphs.category</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.script</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.subCategory</key>
+  <real>0</real>
+  </dict>
+  </lib>
+</glyph>

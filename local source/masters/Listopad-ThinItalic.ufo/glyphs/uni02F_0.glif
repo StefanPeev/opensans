@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02F0" format="2">
+  <advance width="643"/>
+  <unicode hex="02F0"/>
+  <outline>
+    <contour>
+      <point x="-119" y="-410" type="line"/>
+      <point x="-61" y="-410" type="line"/>
+      <point x="176" y="-133" type="line"/>
+      <point x="309" y="-410" type="line"/>
+      <point x="360" y="-410" type="line"/>
+      <point x="207" y="-78" type="line"/>
+      <point x="170" y="-78" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>uni02EF</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>uni02EF</string>
+  <key>com.schriftgestaltung.Glyphs.category</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.script</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.subCategory</key>
+  <real>0</real>
+  </dict>
+  </lib>
+</glyph>

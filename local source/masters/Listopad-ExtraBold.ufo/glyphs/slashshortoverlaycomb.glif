@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slashshortoverlaycomb" format="2">
+  <unicode hex="0337"/>
+  <outline>
+    <contour>
+      <point x="-399" y="471" type="line"/>
+      <point x="-266" y="250" type="line"/>
+      <point x="399" y="655" type="line"/>
+      <point x="274" y="872" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.schriftgestaltung.Glyphs.category</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.script</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.subCategory</key>
+  <real>0</real>
+  </dict>
+  </lib>
+</glyph>

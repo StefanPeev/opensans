@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asteriskbelowcomb" format="2">
+  <unicode hex="0359"/>
+  <outline>
+    <contour>
+      <point x="-72" y="-78" type="line"/>
+      <point x="-45" y="-221" type="line"/>
+      <point x="-172" y="-152" type="line"/>
+      <point x="-217" y="-287" type="line"/>
+      <point x="-74" y="-307" type="line"/>
+      <point x="-178" y="-406" type="line"/>
+      <point x="-63" y="-492" type="line"/>
+      <point x="0" y="-360" type="line"/>
+      <point x="63" y="-492" type="line"/>
+      <point x="178" y="-406" type="line"/>
+      <point x="74" y="-307" type="line"/>
+      <point x="217" y="-287" type="line"/>
+      <point x="172" y="-152" type="line"/>
+      <point x="45" y="-221" type="line"/>
+      <point x="72" y="-78" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.schriftgestaltung.Glyphs.category</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.script</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.subCategory</key>
+  <real>0</real>
+  </dict>
+  </lib>
+</glyph>

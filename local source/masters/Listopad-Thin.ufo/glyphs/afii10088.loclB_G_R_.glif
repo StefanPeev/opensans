@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10088.loclBGR" format="2">
+  <advance width="1215"/>
+  <outline>
+    <contour>
+      <point x="985" y="1081" type="line"/>
+      <point x="932" y="1081" type="line"/>
+      <point x="932" y="463" type="line" smooth="yes"/>
+      <point x="932" y="168"/>
+      <point x="772" y="31"/>
+      <point x="537" y="31" type="curve" smooth="yes"/>
+      <point x="334" y="31"/>
+      <point x="221" y="139"/>
+      <point x="221" y="381" type="curve" smooth="yes"/>
+      <point x="221" y="1081" type="line"/>
+      <point x="168" y="1081" type="line"/>
+      <point x="168" y="373" type="line" smooth="yes"/>
+      <point x="168" y="117"/>
+      <point x="295" y="-20"/>
+      <point x="537" y="-20" type="curve" smooth="yes"/>
+      <point x="766" y="-20"/>
+      <point x="883" y="102"/>
+      <point x="930" y="227" type="curve"/>
+      <point x="934" y="227" type="line"/>
+      <point x="933.955" y="75.1134"/>
+      <point x="1014.49" y="10"/>
+      <point x="1091.78" y="10" type="curve"/>
+      <point x="985" y="113.74" type="line"/>
+    </contour>
+    <contour>
+      <point x="989" y="-360" type="curve"/>
+      <point x="1022" y="-360" type="line"/>
+      <point x="1077.44" y="-229.544"/>
+      <point x="1123.22" y="-95.1351"/>
+      <point x="1156.66" y="35.3208" type="curve"/>
+      <point x="1139.59" y="51" type="line"/>
+      <point x="1022.11" y="51"/>
+      <point x="985" y="111.075"/>
+      <point x="985" y="301.262" type="curve"/>
+      <point x="975" y="301.311" type="line"/>
+      <point x="974.801" y="99.6891" type="line"/>
+      <point x="1091.78" y="10" type="line"/>
+      <point x="1068.86" y="-112.1"/>
+      <point x="1033.92" y="-237.9"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=u</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=afii10088</string>
+  </dict>
+  </lib>
+</glyph>

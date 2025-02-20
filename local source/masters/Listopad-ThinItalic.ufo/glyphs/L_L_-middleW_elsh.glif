@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LL-middleWelsh" format="2">
+  <advance width="1424"/>
+  <unicode hex="1EFA"/>
+  <anchor x="807" y="0" name="bottom"/>
+  <anchor x="1118" y="1462" name="top"/>
+  <outline>
+    <component base="L" xOffset="418"/>
+    <contour>
+      <point x="100" y="0" type="line"/>
+      <point x="152" y="0" type="line"/>
+      <point x="467" y="1462" type="line"/>
+      <point x="414" y="1462" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>L</string>
+  <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+  <array>
+    <dict>
+      <key>alignment</key>
+      <integer>-1</integer>
+      <key>index</key>
+      <integer>0</integer>
+      <key>name</key>
+      <string>L</string>
+    </dict>
+  </array>
+  <key>com.schriftgestaltung.Glyphs.category</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.script</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.subCategory</key>
+  <real>0</real>
+  </dict>
+  </lib>
+</glyph>

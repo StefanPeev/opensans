@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10029.loclBGR" format="2">
+  <advance width="1346"/>
+  <outline>
+    <contour>
+      <point x="-90" y="0" type="line"/>
+      <point x="635" y="1462" type="line"/>
+      <point x="1071" y="1462" type="line"/>
+      <point x="1175" y="0" type="line"/>
+      <point x="793" y="0" type="line"/>
+      <point x="768" y="737" type="line" smooth="yes"/>
+      <point x="764.37" y="844.013"/>
+      <point x="768" y="1026"/>
+      <point x="782" y="1108" type="curve"/>
+      <point x="774" y="1108" type="line"/>
+      <point x="750" y="1001"/>
+      <point x="700.762" y="866.553"/>
+      <point x="674" y="805" type="curve" smooth="yes"/>
+      <point x="324" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.602,1,1</string>
+  </dict>
+  </lib>
+</glyph>

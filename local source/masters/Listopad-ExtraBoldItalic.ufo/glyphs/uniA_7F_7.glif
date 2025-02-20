@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA7F7" format="2">
+  <advance width="1571"/>
+  <unicode hex="A7F7"/>
+  <outline>
+    <contour>
+      <point x="225" y="934" type="line"/>
+      <point x="137" y="547" type="line"/>
+      <point x="1419" y="547" type="line"/>
+      <point x="1507" y="934" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.schriftgestaltung.Glyphs.category</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.script</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.subCategory</key>
+  <real>0</real>
+  </dict>
+  </lib>
+</glyph>

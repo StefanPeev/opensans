@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="leftangleabovecomb" format="2">
+  <unicode hex="031A"/>
+  <outline>
+    <contour>
+      <point x="-125" y="1905" type="line"/>
+      <point x="-125" y="1841" type="line"/>
+      <point x="219" y="1841" type="line"/>
+      <point x="219" y="1509" type="line"/>
+      <point x="289" y="1509" type="line"/>
+      <point x="289" y="1905" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.schriftgestaltung.Glyphs.category</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.script</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.subCategory</key>
+  <real>0</real>
+  </dict>
+  </lib>
+</glyph>

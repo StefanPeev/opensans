@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="combiningconjoiningmacron" format="2">
+  <unicode hex="FE26"/>
+  <outline>
+    <contour>
+      <point x="-524" y="1389" type="line"/>
+      <point x="-524" y="1337" type="line"/>
+      <point x="526" y="1337" type="line"/>
+      <point x="526" y="1389" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.schriftgestaltung.Glyphs.category</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.script</key>
+  <real>0</real>
+  <key>com.schriftgestaltung.Glyphs.subCategory</key>
+  <real>0</real>
+  </dict>
+  </lib>
+</glyph>
