@@ -1,4 +1,4 @@
-# Open Sans
+# Open Sans | Listopad
 variable font
 
 ![Open Sans sample](https://github.com/StefanPeev/opensans/blob/local/images/Listopad_00.jpg)
