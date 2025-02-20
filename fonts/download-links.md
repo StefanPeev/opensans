@@ -1,0 +1,1 @@
+All releases of Listopad are placed at [Local Fonts](https://localfonts.eu/shop/cyrillic-script/serbian/serbian-cyrillic-sans-serif/listopad/). Please follow the link.
