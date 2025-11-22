@@ -1,7 +1,7 @@
+![Open Sans sample](https://github.com/StefanPeev/opensans/blob/local/images/Listopad_00.jpg)
+
 # Open Sans | Listopad
 variable font
-
-![Open Sans sample](https://github.com/StefanPeev/opensans/blob/local/images/Listopad_00.jpg)
 
 Originally designed by Steve Matteson of Ascender
 Hebrew by Yanek Iontef
