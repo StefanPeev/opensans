@@ -1,7 +1,5 @@
 # Gallery
 
-<img src="../images/Listopad_00.jpg" />
-
 <img src="../images/Listopad_01.jpg" />
 
 <img src="../images/Listopad_02.jpg" />
@@ -25,4 +23,10 @@
 <img src="../images/Listopad_11.jpg" />
 
 <img src="../images/Listopad_12.jpg" />
+
+<img src="../images/Listopad_13.jpg" />
+
+<img src="../images/Listopad_14.jpg" />
+
+<img src="../images/Listopad_15.jpg" />
 
